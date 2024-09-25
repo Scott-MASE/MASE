@@ -3,7 +3,7 @@ class Saving:
         self.name = name
         self.balance = balance
 
-        print(f"Name: {self.name}\nBalance: {self.balance}")
+        print(f"Name: {self.name}     Balance: {self.balance}")
 
     # def get_acc_name(self):
     #     return self.name
