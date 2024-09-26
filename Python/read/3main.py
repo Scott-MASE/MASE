@@ -1,4 +1,4 @@
-def main():
+def Threemain():
     listFileName = "ListData.txt"
     myListOut = [1, 2, 3, "a", "b", "c", True, False]
     writeToTxtFile(myListOut, listFileName)
@@ -44,5 +44,4 @@ def updateDataTypes(data):
     return updated_list
 
 
-if __name__ == '__main__':
-    main()
+
