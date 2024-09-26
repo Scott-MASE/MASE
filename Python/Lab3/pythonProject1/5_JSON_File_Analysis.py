@@ -24,10 +24,43 @@ def readFromJSON(nme):
 
 
 def printListOfDict(data):
-    header = data[0].keys()
-    rows = [data[1].values()]
-    print(data[1])
-    # print(tabulate.tabulate(rows, header))
+    # header = data[0].keys()
+    # rows = [data[1].values()]
+
+
+    daSet = set(data[0].keys())
+    arr = []
+    for n in daSet:
+        arr.append(n)
+    print(arr)
+
+
+
+    arr2 = []
+    n = 1
+    while n < len(data):
+        for i in set(data[n].values()):
+            arr2.append(i)
+
+        n += 1
+
+    num = 0
+    daSet2 = set(arr2)
+
+    arr3 = []
+    for k in daSet2:
+        for j in arr2:
+            if k == j:
+                num+=1
+        if num > 1:
+            arr3.append(j)
+        num = 0
+    print(arr3)
+
+
+
+
+# print(tabulate.tabulate(rows, header))
 
     # arr2 = []
     # for row in rows:
