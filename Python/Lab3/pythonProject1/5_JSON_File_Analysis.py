@@ -1,5 +1,6 @@
 import json
 import tabulate
+import collections
 
 
 def readFromJSON(nme):
@@ -26,26 +27,14 @@ def readFromJSON(nme):
 def printListOfDict(data):
     header = data[0].keys()
     rows = [data[1].values()]
-    print(data[1])
     # print(tabulate.tabulate(rows, header))
 
-    # arr2 = []
-    # for row in rows:
-    #     rowSet = set(row)
-    #     num = 0
-    #     arr = []
-    #     for n in rowSet:
-    #         for k in row:
-    #             if k == n:
-    #                 num += 1
-    #         arr.append(num)
-    #         num = 0
-    #     arr2.append(arr)
-    # rowSet = set()
-    # for row in rows:
-    #
-    #
-    # print(tabulate.tabulate(rowSet, header))
+    genders = [entry['Gender'] for entry in data]
+    gender_counts = collections.Counter(genders)
+
+    # Print the result
+    for gender, count in gender_counts.items():
+        print(f"There are {count} {gender.lower()}s.")
 
 
 
