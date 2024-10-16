@@ -5,47 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8616de7d-eae5-4f13-aff9-3c5467282178" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Java/EnumTest/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/EnumTest/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/EnumTest/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/EnumTest/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/EnumTest/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/EnumTest/src/enums/simple/Day.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/EnumTest/src/enums/simple/Direction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/EnumTest/src/enums/simple/EnumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/JDBC/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/JDBC/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/JDBC/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/JDBC/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/JDBC/bin/template/JDBCMainWindow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/JDBC/bin/template/JDBCMainWindowContent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/JDBC/bin/template/MainClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/JDBC/bin/template/QueryTableModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/JDBC/src/template/JDBCMainWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/JDBC/src/template/JDBCMainWindowContent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/JDBC/src/template/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/JDBC/src/template/QueryTableModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/dia/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/dia/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/dia/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/dia/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/dia/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/dia/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/dia/src/main/java/dia/BloodCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/dia/src/main/resources/sugar-data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/dia/src/test/java/dia/BloodCheckTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/samples/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/samples/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/samples/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/samples/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/samples/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/samples/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/samples/src/main/java/com/ait/parking/CarParkFee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/samples/src/main/java/com/ait/parking/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/samples/src/main/resources/car_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/samples/src/test/java/com/ait/parking/CarParkFeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SQL/sql6.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/pythonProject1/5_JSON_File_Analysis.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/DatabaseObj.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/Lab6_Ex1_Info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/Lab6_Ex2_DateConversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/Lab6_Ex3_RenamingColumns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/Lab6_Ex4_ReplaceStr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/Lab6_Ex5_CountNull.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/Lab6_Ex6_FillNaN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab6/Test_Driver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,12 +27,16 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2mTNVWsUQLntlN6vNxcpu7Ii2UW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Python.Q2_AccountDriver.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -118,5 +90,8 @@
       <updated>1727096629586</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
