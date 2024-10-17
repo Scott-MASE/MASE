@@ -1,0 +1,86 @@
+options{
+	LOOKAHEAD = 1;
+}
+
+PARSER_BEGIN(Adder)
+	class Adder{
+	public static void main(String[] args)
+	throws ParseException, TokenMgrError, NumberFormatException{
+		Adder parser = new Adder(System.in);
+		int val = parser.Start();
+		System.out.println(val); 
+	}
+}
+PARSER_END(Adder)
+
+
+SKIP: {" "}
+SKIP: {"\n" | "\r" | "\r\n"}
+TOKEN: {<PLUS: "+">}
+TOKEN: {<MINUS: "-">}
+TOKEN: {<MULT: "*">}
+TOKEN: {<DIV: "/">}
+TOKEN: {<NUM: (["0"-"9"])+>}
+
+int Start() throws NumberFormatException :
+{
+	int i =0;
+	int value =0;
+}
+{
+	
+	(
+	value = Primary()
+|
+	<PLUS>
+        i = Primary()
+        { value += i;}
+	{System.out.println(value);}
+
+
+        |
+
+    <MINUS>
+        i = Primary()
+        { value -= i;}
+{System.out.println(value);}
+
+		
+        |
+	<MULT>
+        i = Primary()
+        { value *= i; }
+{System.out.println(value);}
+		
+		|
+	
+	<DIV>
+        i = Primary()
+        { value /= i;}
+{System.out.println(value);}
+
+		
+	)*
+	<EOF>
+	{ return value ; }
+}
+int Primary() throws NumberFormatException :
+{
+	Token t ;
+}
+{
+	t=<NUM>
+	{ return Integer.parseInt( t.image ) ; }
+}
+
+
+
+
+
+
+
+
+
+
+
+
