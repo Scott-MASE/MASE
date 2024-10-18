@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8616de7d-eae5-4f13-aff9-3c5467282178" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab6/DatabaseObj.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/Lab6_Ex1_Info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/Lab6_Ex2_DateConversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/Lab6_Ex3_RenamingColumns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/Lab6_Ex4_ReplaceStr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/Lab6_Ex5_CountNull.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/Lab6_Ex6_FillNaN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab6/Test_Driver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab6/DatabaseObj.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/DatabaseObj.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
