@@ -50,7 +50,7 @@ class CalculateInsurancePremiumTest {
 	
 	//Valid values and results. Use a csv file to generate the valid values
 	@ParameterizedTest(name="age-{0} , hasAccidents-{1}, result-{2}")
-	@CsvFileSource(resources="/car-values-data.csv", numLinesToSkip = 1)
+	@CsvFileSource(resources="/car_data_in.csv", numLinesToSkip = 1)
 	void testValidCarValues(int age, boolean hasAccidents, double result) {
 		assertEquals(result, calculateInsurancePremium.calculatePremium(age, hasAccidents, CAR_VALUES));
 	}

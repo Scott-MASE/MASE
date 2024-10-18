@@ -86,3 +86,16 @@ public class BloodCheckTest {
 	}
 
 }
+
+//@ParameterizedTest
+//@CsvSource({
+//    "1, 1, 2",    // input1, input2, expectedResult
+//    "2, 3, 5",
+//    "5, 5, 10",
+//    "-1, 2, 1"
+//})
+//void testAdd(int input1, int input2, int expectedResult) {
+//    CalculatorTest calculator = new CalculatorTest();
+//    assertEquals(expectedResult, calculator.add(input1, input2), 
+//                 () -> "Failed for inputs: " + input1 + ", " + input2);
+//}
