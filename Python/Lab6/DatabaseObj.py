@@ -48,8 +48,8 @@ class DBConnection:
         try:
         # Create a SQLAlchemy engine to connect to the database
             self.mydb = create_engine(
-                f"mysql+mysqlconnector://{self.db_config['user']}:{self.db_configl'password']e
-                {self.d_config['host']):(self.db_config[' port']}/{self.db_config['database'])")
+                f"mysql+mysqlconnector://{self.db_config['user']}:{self.db_configl['password']
+                {self.d_config['host']):(self.db_config['port']}/{self.db_config['database']
         # Create an Inspector object to inspect the database
         inspector =
         inspect(self.mydb)
