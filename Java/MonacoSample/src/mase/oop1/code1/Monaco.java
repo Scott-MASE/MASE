@@ -10,7 +10,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author skennedy
+ * @authorskennedy
  */
 class Billionaire {
 
@@ -24,6 +24,7 @@ class Billionaire {
 
     public LeisureCart getPurchase() {
         return thePurchase;
+        
     }
 
     @Override
