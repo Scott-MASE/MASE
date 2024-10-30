@@ -26,9 +26,14 @@ class AnalyseCSV:
         for additional operations or visualisations.
         """
 
-        dailySalesData = urls[0]
-        productsDat = urls[1]
+        self.url1 = urls[0]
+        self.url2 = urls[1]
 
+        self.go_daily_sales = None
+        self.go_products = None
+        self.merged_df = None
+
+        self.getCSVFiles()
 
     def getCSVFiles(self):
         print("\n\nUsing tables:\ngo_daily_sales\ngo_products")
@@ -46,8 +51,8 @@ class AnalyseCSV:
 
         This function ensures that both CSV files are loaded and ready for further data analysis tasks.
         """
-
-
+        self.preformEDA("go daily sales", self.url1)
+        self.preformEDA("go products", self.url2)
     def preformEDA(self, tablenme, url):
         print("\n\nEDA Output")
         """
@@ -67,6 +72,22 @@ class AnalyseCSV:
 
         This function helps provide a quick overview of the dataset for further analysis.
         """
+        df = pd.read_csv(url)
+        print("----------------\n" + tablenme + "\n----------------")
+        print(df.info())
+        print("----------------\n"+"number of unique items"+"\n----------------")
+        print(df.nunique())
+        print("----------------\n" + "number of unique items in each column" + "\n----------------")
+        for i in df.columns:
+            print(i,":\t", df[i].unique()[:3],"...")
+        print("----------------\n" + "head and tail" + "\n----------------")
+        print(tabulate(df.head(), headers="keys", tablefmt="pretty"))
+        print(tabulate(df.tail(), headers="keys", tablefmt="pretty"))
+
+        if tablenme == "go daily sales":
+            self.go_daily_sales = df
+        else:
+            self.go_products = df
 
     def MergeDataFrame(self):
         print("\n\nMerged Dataframe")
@@ -88,6 +109,15 @@ class AnalyseCSV:
         This merged dataframe ('self.merged_df') becomes the central dataset used for further analysis,
         such as computing total sales, profit, and quantities sold by product.
         """
+        relCols = self.go_products[['Product number', 'Product', 'Unit cost']]
+
+        self.merged_df = pd.merge(self.go_daily_sales, relCols, on='Product number', how='inner')
+        self.merged_df["Total Sales"] = self.merged_df["Unit sale price"] * self.merged_df["Quantity"]
+        self.merged_df["Total Profit"] = self.merged_df["Total Sales"] - self.merged_df["Unit cost"] * self.merged_df["Quantity"]
+        self.merged_df["Total Profit"] = self.merged_df["Total Profit"].round(2)
+        self.merged_df["Total Sales"] = self.merged_df["Total Sales"].round(2)
+
+        self.printDF(self.merged_df)
 
 
     def analyseTop10QuantitySales(self):
@@ -109,7 +139,37 @@ class AnalyseCSV:
         helps compare their sales and profit.
         """
 
-   
+        df = self.merged_df.groupby('Product')[['Quantity', 'Total Sales', 'Total Profit']].sum().reset_index()
+        top_products_sales = df.sort_values(by='Total Sales', ascending=False).head(10)
+        print(tabulate(top_products_sales, headers="keys", tablefmt="pretty"))
+
+        x = top_products_sales['Product']
+        total_sales = top_products_sales['Total Sales']
+        total_profit = top_products_sales['Total Profit']
+
+        # Create a bar chart
+        plt.figure(figsize=(10, 6))
+        bar_width = 0.35  # width of bars
+        x_indices = range(len(x))  # X-axis indices
+
+        # Create bars for Total Sales and Total Profit at the same positions
+        plt.bar(x_indices, total_sales, width=bar_width, label='Total Sales', color='blue', alpha=0.7)
+        plt.bar(x_indices, total_profit, width=bar_width, label='Total Profit', color='orange', alpha=0.7)
+
+        # Add labels and title
+        plt.xlabel('Product')
+        plt.ylabel('Amount')
+        plt.title('Total Sales and Total Profit by Product')
+        plt.xticks(x_indices, x)  # Set x-tick positions and labels
+        plt.legend()
+
+        # Show the plot
+        plt.tight_layout()
+        plt.show()
+
+
+
+
     def analyseProductByID(self, prod_ID):
         print("Analyse Product by ID")
         """
@@ -126,8 +186,22 @@ class AnalyseCSV:
         5. Plot the total orders per year on a line chart.
         6. Create a Tkinter window to show the charts.
         """
+        df = self.merged_df[self.merged_df["Product number"] == prod_ID]
+        print(tabulate(df,headers="keys", tablefmt="pretty"))
+        sold = df["Total Sales"].sum()
+        profit = df["Total Profit"].sum()
+        orders = df.shape[0]
+        print("number sold: ", sold)
+        print("profit: ", profit)
+        print("orders: ", orders)
+
+        df = df[df["Unit sale price"] != 0.0]
+        print(tabulate(df, headers="keys", tablefmt="pretty"))
+
+
 
     def printDF(self, dataF):
+        print("Printing merged df")
         """
         This function prints the first and last few rows of a given dataframe in a nicely formatted way.
         It uses the `tabulate` library to format the output, making it easier to read.
@@ -140,3 +214,6 @@ class AnalyseCSV:
 
         This function provides a quick overview of the content of the dataframe, ensuring that both the start and end of the data can be easily inspected.
         """
+        print(tabulate(dataF.head(), headers="keys", tablefmt="pretty"))
+        print(tabulate(dataF.tail(), headers="keys", tablefmt="pretty"))
+        print("\n")

@@ -1,5 +1,6 @@
 from CSVObj_GoSales import AnalyseCSV
 
+
 def main():
     print("Getting CSV files from server")
     """
@@ -20,15 +21,15 @@ def main():
     go_daily_sales_URL = "https://davmase.z6.web.core.windows.net/GoSales/go_daily_sales.csv"
     go_products_URL = "https://davmase.z6.web.core.windows.net/GoSales/go_products.csv"
 
-    csvFiles = (go_daily_sales_URL,go_products_URL)
+    csvFiles = (go_daily_sales_URL, go_products_URL)
 
     ac = AnalyseCSV(csvFiles)
-    ac.analyseTop10QuantitySales()
-    ac.analyseProductByID("ID")
-
-
+    ac.MergeDataFrame()
+    # ac.analyseTop10QuantitySales()
+    ac.analyseProductByID(5110)
 
     print("Connection closed")
+
 
 if __name__ == '__main__':
     main()
