@@ -11,18 +11,18 @@ class DAV_Project_Driver:
         url = "https://raw.githubusercontent.com/Scott-MASE/HostedData/main/Intel_CPUs.csv"
         self.dfCPU = pd.read_csv(url)
         self.data.append(self.dfCPU)
-        # url = "https://raw.githubusercontent.com/Scott-MASE/HostedData/main/AMD_cpubenchmarks.csv"
-        # self.dfAMD_CPU_Bench = pd.read_csv(url)  # UserBenchmark
-        # self.data.append(self.dfAMD_CPU_Bench)
+        url = "https://raw.githubusercontent.com/Scott-MASE/HostedData/main/AMD_cpubenchmarks.csv"
+        self.dfAMD_CPU_Bench = pd.read_csv(url)  # UserBenchmark
+        self.data.append(self.dfAMD_CPU_Bench)
         # url = "https://raw.githubusercontent.com/Scott-MASE/HostedData/main/chip_dataset.csv"
         # self.dfGPU_CPU = pd.read_csv(url)
         # self.data.append(self.dfGPU_CPU)
-        # url = "https://raw.githubusercontent.com/Scott-MASE/HostedData/main/CPU_benchmark_v4.csv"
-        # self.dfCPU_Bench = pd.read_csv(url)  # Passmark
-        # self.data.append(self.dfCPU_Bench)
-        # url = "https://raw.githubusercontent.com/Scott-MASE/HostedData/main/CPU_r23_v2.csv"
-        # self.dfCPU_Bench_2 = pd.read_csv(url)  # Cinebench R23
-        # self.data.append(self.dfCPU_Bench_2)
+        url = "https://raw.githubusercontent.com/Scott-MASE/HostedData/main/CPU_benchmark_v4.csv"
+        self.dfCPU_Bench = pd.read_csv(url)  # Passmark
+        self.data.append(self.dfCPU_Bench)
+        url = "https://raw.githubusercontent.com/Scott-MASE/HostedData/main/CPU_r23_v2.csv"
+        self.dfCPU_Bench_2 = pd.read_csv(url)  # Cinebench R23
+        self.data.append(self.dfCPU_Bench_2)
         self.F_GPUData = None
         self.F_CPUData = None
 
@@ -32,7 +32,10 @@ class DAV_Project_Driver:
         self.cleanData()
 
     def cleanData(self):
-        self.tab(self.dfCPU[['Processor_Number','Product_Collection']])
+        merged = pd.merge(self.dfCPU[['Processor_Number']],self.dfAMD_CPU_Bench[['Model']], how='inner')
+        merged = pd.merge(merged,self.dfCPU_Bench[['cpuName']], how='inner')
+        merged = pd.merge(merged,self.dfCPU_Bench_2[['cpuName']],  how='inner')
+        print(merged.head())
 
     def overview(self):
         for n in self.data:
