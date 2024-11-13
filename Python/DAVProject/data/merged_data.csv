@@ -1,0 +1,4855 @@
+Processor_Number,Model,cpuName1,cpuName2
+Ryzen TR 3970X,AMD Athlon 64 3500+,Threadripper 3990X,i7-7Y75
+Ryzen TR 3990X,AMD Athlon 200GE,Threadripper Pro 3995WX,i5-8250U
+Ryzen TR 3960X,Intel Core i5-1145G7,Epyc 7702P,i7-8550U
+Ryzen TR 2990WX,Intel Xeon E5-2603 v2,Threadripper 3970X,i7-3820
+Ryzen TR 2970WX,AMD Phenom II X4 980 BE,Threadripper Pro 3975WX,i5-7Y57
+Ryzen 9 5950X,Intel Xeon E5-2470 v2,Threadripper 3960X,3205U
+Ryzen 9 3950X,AMD Phenom X4 9750 (125W),Threadripper 2990WX,N2805
+Ryzen TR 2950X,Intel Pentium D 930,Ryzen 9 5950X,J1750
+Ryzen 9 5900X,Intel Core i3-1125G4,Core i9 12900K,G1610
+Ryzen TR 1950X,AMD Athlon 64 X2 4200+,Core i9 12900KF,518
+Ryzen 9 3900XT,AMD Sempron 2800+,Core i9 12900KS,2020M
+Ryzen 9 3900X,Intel Core i7-3632QM,Threadripper Pro 3955WX,773
+Ryzen 9 5900,AMD C-70,Core i9 9980XE,3825U
+Ryzen TR 2920X,Intel Core i5-8269U,Ryzen 9 3950X,4405U
+Ryzen TR 1920X,AMD Phenom X4 9600 BE,Core i9 10980XE,N3710
+Ryzen 7 5800X,Intel Pentium 3560Y,Core i7 12700K,C1000
+Ryzen 7 5800X3D,AMD Turion X2 Ultra ZM-84,Core i7 12700KF,J2850
+Ryzen 7 5700G,Intel Pentium 4 506,Ryzen 9 5900X,J2900
+Ryzen 7 5700X,Intel Xeon E5-2430 v2,M1 Ultra,J3710
+Ryzen 7 5800,AMD Athlon 64 X2 4800+,Ryzen 9 5900,J4205
+Ryzen 7 3800XT,Intel Core i5-3427U,Threadripper 1950X,N3700
+Ryzen 7 4700G,AMD Opteron 148 HE,Threadripper 2950X,N3510
+Ryzen 7 3800X,AMD Athlon 1100,Ryzen 9 3900X,N3520
+Ryzen 7 6800H,Intel Core i7-975,Ryzen 9 3900XT,N3530
+Ryzen 7 3700X,AMD Athlon 64 3500+,Core i9 7980XE,N3540
+Ryzen 9 5900HX,Intel Pentium 4 HT 672,Core i9 12900HK,N4200
+Ryzen 9 6900HX,Intel Pentium D 830,Core i9 9960X,4405Y
+Ryzen 9 6900HS,AMD EPYC 7371,Core i5 12600KF,4415Y
+Ryzen 9 5900HS,Intel Pentium 4 HT 550,Core i9 10900KF,4410Y
+Ryzen 7 5800HS,Intel Pentium III 1266S,Core i5 12600K,4415U
+Ryzen 7 5800H,AMD Sempron 140,Core i7 12700H,3805U
+Ryzen 7 2700X,AMD EPYC 7501,Core i9 12900H,3561Y
+Ryzen 9 4900H,Intel Atom E680,Core i9 10940X,3560M
+Ryzen 9 5980HS,Intel Xeon E5-2690 v2,Core i9 11900KF,3560Y
+Ryzen 7 4800H,Intel Xeon Platinum 8380,Core i7 12700,3558U
+Ryzen TR 1900X,Intel Xeon Phi 7120A,Core i9 11900K,3556U
+Ryzen 9 4900HS,Intel Core i3-8020,Core i7 12800H,3550M
+Ryzen 5 5600,Intel Atom S1220,Core i9 10850K,2117U
+Ryzen 5 5600X,AMD Phenom X4 9600,Core i9 10920X,2030M
+Ryzen 7 1800X,Intel Core i3-2330M,Core i9 9940X,2127U
+Ryzen 7 4800HS,AMD Opteron X2 180,Core i9 10900K,2129Y
+Ryzen 5 5600G,AMD E2-3200,Core i9 7960X,753
+Ryzen 5 5500,AMD Turion 64 MT-34,Core i7 11700KF,733
+Ryzen 7 1700X,Intel Pentium III  866,Core i7 11700K,723
+Ryzen 7 2700,Intel Core 2 Quad Q9550S,Ryzen 7 5800X3D,713
+Ryzen 7 5800U,Intel Core i7-4500U,Threadripper 1920X,778
+Ryzen 5 3600XT,AMD Opteron X2 185,Core i9 9920X,738
+Ryzen 7 1700,Intel Core i3-8300,Ryzen 9 6980HS,758
+Ryzen 5 3600X,AMD Ryzen 5 1400,Ryzen 9 6980HX,571
+Ryzen 5 3600,AMD A4-3300M,Core i5 12500H,
+Ryzen 7 4800U,Intel Xeon 3.20,Ryzen 7 5800X,718
+Ryzen 7 5700U,AMD Opteron 848,Ryzen 9 6900HX,570
+Ryzen 5 5600H,Intel Core 2 Extreme QX6700,Core i9 10900X,
+Ryzen 5 4600H,Intel Pentium Gold G6405T,Ryzen 7 5700X,780
+Ryzen 5 2600X,AMD A6-3600,Ryzen 7 5700G,561
+Ryzen 5 4600HS,Intel Xeon Phi 7120X,Ryzen 7 5800,
+Ryzen 5 1600X,Intel Core i9-10900K,Core i9 9900X,
+Ryzen 5 2600,Intel Pentium 2129Y,Core i9 11980HK,770
+Ryzen 5 5600U,AMD Athlon 64 X2 5600+,Ryzen 7 3800X,560J
+Ryzen 5 1600AF,AMD Athlon II X4 640,Core i7 7820X,
+Ryzen 5 4600U,Intel Atom Z515,Core i9 11900,
+Ryzen 5 1600,AMD EPYC 7302,Core i9 10900,765
+Ryzen 3 5300G,Intel Celeron 3205U,Core i7 9800X,560
+Ryzen 3 3300X,Intel Core i3-10305T,Ryzen 7 6800H,760
+Ryzen 7 4700U,AMD Ryzen 9 5900HX,Core i9 11900F,
+Ryzen 9 4900U,AMD EPYC 7502,Core i5 12500,
+Ryzen 5 3500,AMD Athlon 64 4000+,Ryzen 7 Pro 4750G,551
+Ryzen 3 3100,Intel Pentium III 1400S,Ryzen 9 6900HS,
+Ryzen 5 3500X,Intel Core i7-9850HE,Ryzen 9 5900H,755
+Ryzen 5 3400G,AMD Mobile Athlon 64 3400+,Core i9 9900KF,
+Ryzen 5 2500X,Intel Xeon E5-2620 v2,Ryzen 7 3800XT,550
+Ryzen 5 2400G,Intel Core i9-10850K,Ryzen 9 5900HX,
+Ryzen 5 4500U,Intel Core i5-11600,Core i9 9900KS,550J
+Ryzen 5 1500X,Intel Core i7-3555LE,Core i7 10700K,750
+Ryzen 7 2800H,Intel Xeon E3-1220L v2,Core i7 10700KF,
+Ryzen 5 2600H,Intel Core i3-8130U,Core i9 11950H,
+FX-9590,Intel Xeon Platinum 8260,Ryzen 9 5980HS,
+Ryzen 7 3750H,AMD Athlon 64 3500+,Ryzen 9 5900HS,
+Ryzen 5 1400,AMD Ryzen 9 5950X,Ryzen 7 4700G,
+Ryzen 5 3550H,Intel Atom N2600,Core i9 10900T,745A
+FX-8350,Intel Xeon Platinum 8352M,Ryzen 7 6800HS,
+FX-9370,AMD EPYC 7763,Core i9 9900K,550
+FX-8370,Intel Core i7-8809G,M1 Max,920
+Ryzen 7 3700U,AMD Ryzen Threadripper PRO 3955WX,Core i7 11850H,
+Ryzen 5 3500U,Intel Celeron 2980U,Core i7 10700F,
+FX-8150,AMD Athlon 64 X2 4000+,Core i7 11800H,745
+FX-8320,Intel Xeon E5-2630L v2,Core i9 9900,
+Ryzen 3 4300U,Intel Core i5-3570,Ryzen 7 5800H,
+Ryzen 7 2700U,AMD Ryzen 7 3750H,M1 Pro,541
+FX-8300,Intel A110,Core i9 11900H,
+Ryzen 5 2500U,AMD Ryzen 5 5500U,Ryzen 7 6800U​,A1018
+Ryzen 3 3200G,Intel Core i9-10800F,Ryzen 7 3700X,A1020
+FX-8320E,Intel Xeon MP 3.50,Core i5 12400,1405
+FX-8370E,Intel Core i3-10110U,Core i5 12400F,1405V2
+FX-8310,Intel Core i3-10305,Ryzen 9 5980HX,
+Ryzen 3 1300X,Intel Core Solo T1350,Core i9 7900X,G620
+Ryzen 3 2200G,AMD A4-5300B,Ryzen 7 4700GE,740
+FX-8120,Intel Core Duo T2600,Ryzen 9 4900H,
+Phenom II X6 1100T,Intel Pentium G4500,Core i5 11600KF,
+FX-6350 Six-Core,AMD A8-5600K,Ryzen 5 5600,
+Phenom II X6 1090T,AMD Athlon XP 2600+,Core i5 11600K,540J
+Ryzen 3 1200,AMD Athlon 64 3000+,Ryzen 5 5600G,
+Ryzen 3 3300U,Intel Pentium D 945,Ryzen 7 4800H,
+FX-6300,Intel Celeron B800,Core i5 11600,
+FX-6200 Six-Core,Intel Atom E665C,Ryzen 5 5600X,G620T
+Ryzen 3 2300U,AMD E1-2150,Core i7 11700F,
+Phenom II X6 1075T,Intel Core i5-10210U,Ryzen 9 4900HS,
+Phenom II X6 1055T,AMD Athlon Gold 3150G,Core i9 10900F,
+Phenom II X6 1045T,Intel Celeron 2.70,Core i7 11600H,
+FX-6120 Six-Core,Intel Xeon Gold 5318N,Ryzen 5 5500,672
+FX-6100,AMD Athlon 64 3500+,Core i9 10980HK,540
+Athlon 3000G,AMD Sempron 3400+ EE SFF,Ryzen 7 4800HS,
+Phenom II X6 1035T,Intel Core i7-3525M,Ryzen 7 5800HS,
+Athlon 240GE,AMD A6-3410MX,Core i5 10600K,B915C
+Athlon 220GE,Intel Core i5-450M,Core i5 10600KF,G840
+A12-9800 APU (2016 M.BR),AMD Opteron A1150,Core i7 8086K,G622
+Athlon X4 845,Intel Pentium G3430,Core i9 9900T,
+Phenom II X4 980,Intel Core i7-10610U,Core i7 10700T,735
+A10-9700 APU (2016 M.BR),Intel Core i5-4210U,Core i5 11400F,
+A10-7890K APU (2014 D.Ka),Intel Core 2 Duo E6420,Ryzen 7 2700X,
+Athlon 200GE,AMD Athlon XP 1900+,Ryzen 5 5600H,
+Phenom II X4 975,Intel Pentium III 1400,Core i7 5960X,670
+A10-6800K APU (2013 D.Ri),AMD Athlon 64 3000+,Ryzen 7 Pro 4750GE,531
+A10-7870K APU (2014 D.Ka),Intel Xeon E3-1290 v2,Core i7 10870H,
+Athlon X4 880K,AMD Phenom X3 8550,Core i5 11500,B925C
+FX-4350,Intel Core i5-8600K,Ryzen 5 3600XT,G850
+Phenom II X4 970,Intel Xeon Platinum 8356H,Core i7 6950X,G630
+Phenom II X4 B65,AMD Athlon XP 2200+,Ryzen 7 4800U,
+Phenom II X4 965,AMD Athlon Silver PRO 3125GE,Core i7 1270P,
+Athlon II X4 870K,Intel Mobile Pentium 4 HT 538,Core i5 11500H,
+A8-6600K APU,Intel Core i7-8700,Core i5 11400,530J
+A10-7850K APU (2014 D.Ka),Intel Pentium Dual-Core E2220,Core i7 9700K,
+A8-9600 APU (2016 D.BR),AMD Ryzen 5 4600U,Core i9 10885H,
+A12-9800E APU (2016 M.BR),AMD Ryzen Threadripper 2970WX,Ryzen 5 3600X,
+Athlon II X4 860K,AMD Opteron X2 875 HE,Core i5 11400H,
+A10-6700 APU (2013 D.Ri),Intel Atom Z605,Ryzen 5 4600G,
+Phenom II X4 B55,Intel Xeon Platinum 8351N,Ryzen 7 1800X,G860
+FX-4300,Intel Atom N475,Core i7 11700,G630T
+A10-6790K APU (2013 D.Ri),Intel Core i5-3350P,Ryzen 5 Pro 4650G,E6800
+A10-5800K APU (2012 D.Tr),Intel Xeon E5-1660 v2,Core i7 9700KF,
+Phenom II X4 B60,AMD Sempron 3300+,Core i5 10600,730
+Athlon II X4 760K (2013 D.Ri),AMD Ryzen 5 PRO 2600,Ryzen 5 3600,
+Ryzen 3 2200U,AMD Phenom X4 9450e,Ryzen 7 5700U,
+FX-4170 Quad-Core,AMD A4-3420,Core i5 11260H,960
+A10-7700K APU (2014 D.Ka),Intel Pentium 4 1.80,Ryzen 5 4600HS,
+A8-7670K APU (2014 D.Ka),AMD Opteron 248,Ryzen 7 2700,662
+A10-7860K APU (2014 D.Ka),Intel Pentium 4 506,Core i7 8700K,530
+Phenom II X4 955,Intel Core i7-3840QM,Threadripper 1900X,519K
+A10-9700E APU (2016 D.BR),Intel Pentium 4 2.53,Core i7 10875H,
+Phenom II X4 850,Intel Mobile Pentium 4 2.40,Ryzen 7 1700X,
+Phenom II X4 840,Intel Xeon Phi 7110P,Core i9 9880H,
+Athlon II X4 555,Intel Core i3-7300,Ryzen 7 Pro 5850U,
+A8-7600 APU (2014 D.Ka),Intel Core i7-3520M,Core i7 10700,
+Phenom II X4 B50,AMD Turion 64 MT-30,Core i7 9700,G860T
+A8-6500 APU,AMD Sempron LE-1300,Core i7 9700F,B940
+FX-9830P APU (2016 M.BR),Intel Atom Z625,Core i7 1260P,G632
+A8-5600K APU,Intel Core i5-4200U,Ryzen 3 5300G,
+Ryzen 3 3200U,Intel Pentium E5700,Core i9 9980HK,
+A10-5800B APU (2012 D.Tr),Intel Core i3-3110M,Core i3 12100F,
+Athlon 300U,Intel Pentium G3420T,Core i5 10500,
+A8-3870 APU,AMD E1-1500,Core i3 12100,950
+FX-770K (2014 D.Ka),AMD A10-9700E,Ryzen 5 4600U,
+A12-9730P APU (2016 M.BR),Intel Pentium 4-M 2.00,Ryzen 7 2700E,661
+A10-7800 APU (2014 D.Ka),Intel Xeon E5620,Ryzen 7 5800U,524
+Athlon II X4 651,Intel Core i3-3120M,Ryzen 7 1700,519
+Athlon II X4 645,AMD Opteron 6274,Ryzen 5 6600U,520
+A8-7650K APU (2014 D.Ka),AMD Ryzen 7 1800X,Ryzen 5 4600H,
+Phenom II X4 960T,Intel Core i3-3120ME,Core i5 10600T,
+FX-4100,AMD Ryzen 3 3200U,M1,
+Phenom II X4 945,Intel Xeon E-2124G,Core i5 10400F,B950
+FX-4130 Quad-Core,AMD Athlon 700,Ryzen 5 5600U,G870
+Phenom II X4 B40,AMD Athlon 64 2700+,Core i5 10400,G640
+A8-7500 APU (2014 M.Ka),AMD Ryzen 7 2700X,Core i5 10500T,
+Athlon II X4 640,AMD Ryzen Embedded V1807B,Ryzen 5 2600X,
+Phenom II X4 B45,AMD Athlon II X3 415e,Core i7 10850H,E6700
+Athlon II X4 750K,Intel Core i5-2310,Ryzen 7 4700U,E5800
+Phenom II X4 20,AMD FX-8320,Core i7 7800X,T2390
+A8-3850 APU,Intel Core i7-10700K,Core i7 6850K,
+Phenom II X4 840T,AMD Opteron 6386 SE,Core i5 9600KF,
+A10-5700 APU (2012 D.Tr),AMD Opteron X2 875,Core i7 10750H,945
+Athlon II X4 635,Intel Celeron 877,Ryzen 5 Pro 5650U,
+Phenom II X4 940,AMD Phenom II X6 1100T BE,Ryzen 5 2600,
+Athlon II X4 641,Intel Core i3-5157U,Ryzen 5 5500U,521
+Phenom II X4 830,Intel Core i3-4130,Core i7 8700,516
+A10-9630P APU (2016 M.BR),Intel Core i7-3910K,Core i7 9850H,
+A6-3670 APU,Intel Core i7-3632QM,Core i9 8950HK,660
+A8-5500 APU,Intel Core i7-8670T,Core i7 9750H,
+Phenom II X4 920,AMD Opteron 144,Core i5 10400T,
+Athlon II X4 630,Intel Core i7-5650U,Core i5 10500H,
+Phenom II X4 925,Intel Pentium 4 HT 515,Core i7 6800K,
+Athlon II X4 740K,AMD Opteron 242,Ryzen 3 3300X,G640T
+A12-9720P APU (2016 M.BR),Intel Core i5-7600,Core i5 8600K,
+Athlon II X4 631,Intel Xeon 2.8,Core i7 11375H,
+Phenom II X4 910e,Intel Core 2 Duo E7600,Core i5 9600K,E5700
+A6-3650 APU,Intel Core i7-9700K,Ryzen 5 1600X,T4400
+Athlon II X4 620,AMD Phenom II X4 910,Core i3 10320,T2370
+Phenom II X4 810,AMD EPYC 73F3,Core i7 11390H,E2220
+Phenom II X4 905e,AMD Sempron 2500+,Core i5 9400F,725
+Phenom 9950,Intel Pentium G3450,Ryzen 5 1600,
+A10-9620P APU (2016 M.BR),AMD EPYC 7601,Core i7 1165G7,
+FX-9800P APU (2016 M.BR),Intel Xeon E7-8860 v3,Ryzen 3 Pro 4350G,
+A8-3800 APU,Intel Xeon 5140,Core i5 9500,940
+Athlon II X3 460,AMD Phenom X4 9850 BE,Core i3 10300,
+Phenom 9850,AMD Ryzen 3 3100,Core i7 1195G7,651
+Athlon II X3 455,Intel Core i7-4940MX,Core i7 8750H,520J
+A12-9700P APU (2016 M.BR),Intel Core 2 Quad Q6600 (105W),Core i5 11320H,515
+Phenom 9750,AMD Athlon 64 FX-62,Core i7 10710U,
+A6-3620 APU,AMD Athlon X2 7750 BE,Core i5 8400,
+Athlon II X3 450,Intel Core i7-3740QM,Core i7 7700K,
+FX-7600P APU (2014 M.Ka),Intel Core i3-4150T,Ryzen 5 4500U,
+A10-5750M APU,Intel Atom N570,Ryzen 3 4300GE,
+Athlon II X3 445,Intel Core 2 Duo T7300,Core i7 1185G7,
+Phenom 9600,Intel Atom E645C,Core i7 11370H,B960
+A10-6700T APU (2013 D.Ri),Intel Core i7-5820K,Core i3 10105F,
+A10-9600P APU (2016 M.BR),Intel Celeron E3400,Ryzen 3 3100,957
+Phenom 9650,AMD FX-6120,,
+Athlon II X3 440,Intel Pentium G632,,T4500
+Phenom 9500,Intel Pentium 4 HT 531,,E6600
+Phenom 9550,AMD Opteron 248 HE,,E5500
+Athlon II X3 435,AMD Opteron X2 290,,T2330
+Phenom II X3 720,Intel Pentium 4 HT 3.20,,
+A10-7400P APU (2014 M.Ka),AMD Athlon II X4 610e,,935
+Phenom II N950,Intel Core i3-3110M,,
+A8-3530MX APU,Intel Core i7-5550U,,
+A10-4600M APU,AMD Sempron 2800+,,
+A8-7200P APU (2014 M.Ka),AMD FX-9590,,650
+A8-3510MX APU,Intel Pentium 4 2.0,,511
+Athlon II X3 425,AMD EPYC 7443P,,
+Phenom II X3 710,Intel Celeron G1620T,,
+A10-5757M APU,AMD Phenom II X6 1055T (95W),,
+Phenom II N930,AMD A4-4000,,
+A8-5550M APU,AMD Phenom X4 9650,,
+A8-7410 APU (2015 M.Ca),AMD Athlon XP 2600+,,552
+Opteron 4171 HE,Intel Core i5-4350U,,
+FX-7500 APU (2014 M.Ka),AMD Ryzen Threadripper 1900X,,G645
+Athlon 5350 APU R3,Intel Celeron B820,,B970
+A8-6410 APU R5 Graphics,Intel Xeon W3670,,967
+A10-5745M APU,Intel Core i7-7740X,,P6300
+A6-7310 APU (2015 M.Ca),Intel Core i7-4610M,,
+A8-3520M APU,AMD Opteron 6282 SE,,
+A6-5200 APU,Intel Celeron N2805,,
+Phenom 9150e,Intel Pentium 4 HT 631,,
+Phenom II P960,Intel Xeon L5609,,G6960
+A6-3410MX APU,AMD Phenom II X3 715 BE,,E6500K
+A8-4500M APU,Intel Core i5-8420T,,E2200
+A6-3420M APU,AMD Opteron 152,,T2310
+A6-9500 APU (2016 D.BR),AMD Sempron 3400+,,
+Phenom II P940,Intel Xeon E5603,,
+A6-7470K APU (2014 D.Ka),Intel Pentium G2100T,,
+A4-7210 APU (2015 M.Ca),AMD Sempron 2600+,,
+A8-3500M APU,Intel Pentium 4 HT 660,,930
+A10-4655M APU,AMD Athlon Gold PRO 3150GE,,840
+Phenom X3 8650,Intel Core i7-10750H,,
+Phenom II X2 565,Intel Celeron 887,,641
+A8-5545M APU,AMD A8-3550MX,,511
+A6-3500 APU,Intel Xeon E-2124,,
+A10-7300 APU (2014 M.Ka),AMD Phenom II X4 830,,
+Athlon II X2 270,AMD Athlon II X2 250,,
+Athlon II X2 265,AMD FX-6200,,
+A6-6400K APU,AMD Opteron 848,,548
+A6-7400K APU (2014 D.Ka),AMD Phenom X4 9350e,,
+Phenom II N850,Intel Pentium B980,,B980
+A6-9500E APU (2016 D.BR),AMD Athlon II X4 635,,G645T
+A4-6210 APU R3 Graphics,Intel Celeron B810,,977
+E2-7110 APU (2015 M.Ca),Intel A100,,P6200
+Phenom II X2 560,AMD Opteron X1150,,
+A9-9430 APU (2016 M.SR),Intel Core i9-9820X,,
+A4-6320 APU,AMD A12-9800E,,
+A8-7100 APU (2014 M.Ka),Intel Xeon Phi SE10P,,
+Athlon II X2 260,Intel Core 2 Duo E6750,,
+Phenom II X2 555,Intel Core i7-990X,,
+Phenom II X2 550,Intel Core i5-9400,,
+Phenom X3 8450,Intel Core 2 Duo E4300,,G6950
+A4-6300 APU,AMD A4-1250,,E6500
+Phenom II N830,Intel Pentium 4 HT 2.80,,E5400
+A6-3400M APU,AMD Ryzen 7 1700X,,T4300
+A9-9420 APU (2016 M.SR),AMD A6-3650,,E2180
+A9-9410 APU (2016 M.SR),AMD Ryzen Embedded V1605B,,520J
+Athlon II X2 255,Intel Pentium 4 HT 620,,T2130
+A9-9425 APU (2016 M.SR),Intel Core 2 Duo T5600,,715
+Athlon 64 X2 Dual Core 6400 ,AMD Athlon 64 LE-1640,,
+Phenom II X2 545,AMD Sempron 2800+,,
+A6-5400K APU,AMD A10-5800B,,925
+Athlon II X2 250 (2013 D.Ri),Intel Core Solo T1200,,830
+Athlon II X2 B24,Intel Xeon Phi 7285,,640
+Athlon II X2 245,AMD Athlon 64 3800+,,506
+Phenom II N660,Intel Xeon Phi 31S1P,,
+Athlon 64 X2 Dual Core 6000 ,AMD Opteron 144,,
+Athlon II X2 240,Intel Xeon MP 7040 Dual-Core,,
+A4-5300 APU,Intel Pentium 4 2.80,,
+Athlon 7850,AMD Phenom II X2 B57,,
+Athlon X2 240,Intel Celeron G1840T,,
+Athlon II X2 220,Intel Core i3-3120M,,538
+A4-5000 APU,AMD EPYC 7402,,987
+A8-4555M APU,Intel Core i7-11700T,,P6100
+A4-3400 APU,Intel Pentium 4 1.9,,U5600
+A9-9400 APU (2016 M.SR),AMD Opteron 6284 SE,,
+Athlon II X2 215,AMD Turion X2 RM-74,,
+Athlon 64 X2 Dual Core 5600 ,AMD Opteron 4340,,
+Athlon 64 X2 Dual Core 5400 ,AMD Athlon 64 3700+,,
+Athlon 7750,AMD Athlon II X4 638,,
+A4-4000 APU,AMD Sempron 3800+,,
+A4-3300 APU,Intel Pentium 2117U,,
+A6-9220 APU (2016 M.SR),AMD Athlon 800,,
+Athlon 64 X2 Dual Core 5200 ,Intel Core 2 Quad Q7600,,G6951
+A6-9210 APU (2016 M.SR),Intel Xeon E7-8870,,T3400
+Athlon 64 X2 Dual Core 5000 ,AMD FX-8350,,E5300
+Athlon Dual Core 4850e,AMD Athlon 64 X2 4400+ EE,,T2080
+Turion II Ultra Mobile M600,Intel Core 2 Duo T5200,,E2160
+Athlon 64 X2 Dual Core 4800 ,AMD Opteron 4386,,965
+Athlon II P360,Intel Xeon W5580,,
+A4-9120 APU (2016 M.SR),AMD Athlon X2 BE-2400,,
+Athlon X2 Dual Core BE-2400,AMD Phenom II X4 920,,
+Athlon 64 X2 Dual Core 4600 ,Intel Core i3-7350K,,920
+A6-4400M APU,AMD Sempron 2500+,,820
+Athlon II P340,Intel Xeon Phi 7235,,
+Athlon 64 X2 Dual Core 4400 ,AMD Sempron 3500+,,
+Turion II Mobile M500,AMD Opteron 250,,
+A6-9200 APU (2016 M.SR),Intel Xeon MP 7030 Dual-Core,,631
+Athlon Dual Core 4450B,Intel Core i5-9600K,,520
+Athlon Dual Core 4450e,AMD FX-8170,,505J
+Athlon II P320,AMD Opteron 850,,
+Turion II Neo N54L,Intel Core i5-10300H,,
+Athlon II M320,Intel Core i7-5557U,,
+Athlon 64 X2 Dual Core 4200 ,Intel Core i7-2860QM,,
+A4-3330MX APU,Intel Core i7-9750HF,,532
+E2-9010 APU (2016 M.SR),Intel Pentium 350,,997
+A4-4300M APU,AMD Ryzen 5 2600X,,
+A4-3305M APU,Intel Core M-5Y70,,
+Athlon II M300,Intel Pentium 4 HT 2.40,,
+Athlon 64 X2 Dual Core 4000 ,AMD Ryzen 7 4700U,,
+A4-3300M APU,Intel Atom E620T,,
+Turion X2 Ultra Mobile ZM-82,AMD Opteron 43GK HE,,
+Athlon X2 Dual-Core QL-65,AMD Athlon X2 7450,,
+A6-7000 APU (2014 M.Ka),Intel Atom E3825,,
+Turion 64 X2 Mobile Technology TL-60,Intel Celeron N2808,,
+E2-9000 APU (2016 M.SR),AMD Ryzen 5 1500X,,U5400
+Athlon X2 Dual Core BE-2300,AMD Athlon 64 X2 4400+,,P6000
+Athlon 64 X2 Dual Core 3800 ,AMD A4-4300M,,E6300
+Turion X2 Dual-Core Mobile RM-70,Intel Core i5-670,,T4200
+Athlon 64 X2 Dual Core 3600 ,Intel Xeon Platinum 8358,,E5200
+E2-3000M APU,Intel Core 2 Duo U7600,,T3200
+Athlon X2 Dual-Core QL-64,Intel Core i7-4760HQ,,
+Turion 64 X2 Mobile Technology TL-58,Intel Pentium D 940,,E2140
+AthlonX2 DualCore QL-60,AMD Turion 64 MT-37,,T2060
+Athlon 64 X2 Dual Core TK-55,Intel Core i5-4300M,,955
+Turion 64 X2 Mobile Technology TL-56,Intel Core i7-3635QM,,840
+A6-4455M APU,AMD Opteron 6376,,705
+Athlon 64 X2 Dual Core TK-53,AMD EPYC 72F3,,
+E2-9000e APU (2016 M.SR),AMD Opteron 244,,
+A4-4355M APU,Intel Core i5-3330S,,915
+Turion 64 X2 Mobile Technology TL-52,Intel Xeon Platinum 8352S,,805
+Turion II Neo N40L,Intel Pentium 4 2.40,,
+Athlon Neo X2 Dual Core L335,Intel Xeon MP 3.00,,
+Sempron 145,Intel Xeon E5-2695 v2,,
+E2-2000 APU (2012 M.Za),Intel Pentium M 725,,
+Sempron 140,AMD Sempron 2800+,,630
+E2-1800 APU (2012 M.Za),Intel Xeon 5110,,620
+Athlon LE-1640,AMD A4-3320M,,517
+E1-7010 APU (2015 M.Ca),Intel Mobile Pentium 4 2.80,,505
+E-450 APU,Intel Core i7-4960X,,
+E-350D APU,Intel Core i3-9350K,,
+E-350,AMD Athlon II X2 250e,,
+Athlon 64 4000 ,AMD Athlon 64 X2 6000+,,
+E1-2500 APU,AMD Athlon 64 LE-1620,,
+V140,Intel Celeron 2.40,,G1610T
+Athlon 64 3800 ,AMD EPYC 7232P,,G1620
+Athlon 64 3400 ,Intel Atom CE4150,,G1620T
+V120,AMD Athlon II X2 220,,G1820
+Athlon 64 3500 ,AMD Opteron 4334,,G1630
+E1-1200 APU,Intel Core i9-9940X,,G1820T
+Athlon 64 3200 ,Intel Core 2 Quad Q9400,,G1820TE
+E-300 APU,Intel Xeon E7-8891 v3,,G1830
+Sempron 3600 ,Intel Pentium 967,,G1840
+Athlon 64 3000 ,Intel Core i9-9990XE,,G1840T
+Turion 64 Mobile Technology ML-32,Intel Core i7-1160G7,,G1850
+C-60 APU,AMD Athlon 900,,G3900
+A4-1200 APU,Intel Celeron G460,,G3900T
+Sempron 3400 ,Intel Core i7-6700T,,G3900E
+E1-2100 APU,AMD FX-6350,,G3900TE
+A4-1250 APU,Intel Celeron G3900,,G3920
+Sempron 3000 ,Intel Pentium G850,,G3902E
+Sempron 2800 ,AMD EPYC 7742,,G3930
+C-50,Intel Core i7-4810MQ,,G3930E
+Athlon Neo MV-40,Intel Core i9-9920X,,G3930T
+Z-60 APU,Intel Core 2 Duo E8600,,G3930TE
+Athlon 2650e,AMD Sempron LE-1150,,G3950
+,AMD Phenom II X6 1090T BE,,J1800
+,Intel Xeon 7130M,,J1900
+,Intel Core i3-4160T,,J1850
+,AMD Sempron 130,,J3060
+,Intel Atom N470,,J3160
+,AMD Sempron 3100+,,J3355
+,Intel Core Duo LV L2500,,J3455
+,AMD Sempron 2300+,,N2806
+,AMD A10-5700,,N2807
+,AMD A4-1350,,N2808
+,Intel Pentium III 1000,,N2810
+,Intel Core i3-10100,,N2815
+,Intel Atom Z530,,N2820
+,Intel Xeon W3580,,N2830
+,Intel Core i5-9600KF,,N2840
+,AMD Athlon 64 3800+,,N2910
+,AMD Opteron 250,,N2920
+,AMD Athlon 64 X2 4600+ EE,,N2930
+,Intel Core i5-2435M,,N2940
+,AMD Athlon XP 2200+,,N3450
+,AMD Athlon 1200,,N3350
+,Intel Pentium III  800,,N3160
+,AMD Athlon XP-M 2200+,,N3150
+,Intel Pentium 4-M 1.40,,N3060
+,Intel Core i3-2377M,,N3050
+,Intel Atom D510,,N3010
+,Intel Core i7-5775C,,N3000
+,Intel Core Duo T2250,,3215U
+,Intel Atom N455,,3755U
+,Intel Core i7-10510Y,,3765U
+,Intel Pentium D 840,,3855U
+,Intel Xeon E5-2609 v2,,3955U
+,Intel Core 2 Duo E4600,,3865U
+,Intel Xeon E7-8893 v3,,3965Y
+,Intel Core i7-620M,,3965U
+,AMD Phenom II X3 B75,,i5-7Y54
+,AMD Athlon 64 3000+,,i5-7200U
+,AMD Athlon 64 3200+,,i5-7260U
+,Intel Xeon 3.06,,i5-7267U
+,Intel Pentium 4 HT 520,,i5-7287U
+,AMD Athlon 64 FX-51,,i5-7300HQ
+,Intel Xeon E3-1280 v5,,i5-7300U
+,AMD Athlon II X3 455,,i5-7360U
+,Intel Pentium 4 2.0,,i5-7400
+,AMD Ryzen 7 2700,,i5-7400T
+,Intel Core i7-9700KF,,i5-7440EQ
+,Intel Celeron 2.30,,i5-7440HQ
+,AMD Athlon 750,,i5-7442EQ
+,AMD Sempron 150,,i5-7500T
+,AMD Athlon 1200,,i5-7500
+,Intel Core 2 Duo T7600G,,i5-7600
+,Intel Core i5-8420,,i5-7600T
+,Intel Core i7-3970X,,i5-7600K
+,AMD Mobile Athlon 64 3400+,,i7-3920XM
+,AMD Opteron 6168,,i7-3930K
+,AMD Athlon X2 QL-65,,i7-3940XM
+,AMD Athlon XP 2800+ DTR,,i7-3960X
+,Intel Atom E660,,i7-3970X
+,Intel Core i5-3475S,,i7-4820K
+,AMD C-50,,i7-4930MX
+,AMD Athlon 64 FX-74,,i7-4930K
+,Intel Atom N280,,i7-4940MX
+,AMD Turion 64 ML-40,,i7-4960X
+,Intel Celeron 2.80,,i7-5820K
+,Intel Pentium G630T,,i7-5930K
+,AMD Phenom II X3 B73,,i7-5960X
+,AMD Ryzen 3 1300X,,i7-6800K
+,Intel Pentium M 715,,i7-6850K
+,Intel Xeon 5150,,i7-6900K
+,Intel Pentium D 840 EE,,i7-6950X
+,AMD Athlon X2 4050e,,i5-7640X
+,Intel Core i7-4790S,,i7-7740X
+,AMD Ryzen 5 PRO 3500U,,i7-7800X
+,Intel Xeon E3-1280,,i9-7900X
+,Intel Core 2 Duo U7600,,i7-7820X
+,AMD Athlon XP 2400+,,i9-7920X
+,AMD E1-2100,,i9-7940X
+,AMD EPYC 7401P,,i9-7960X
+,Intel Core i5-1135G7,,i9-7980XE
+,AMD Turion X2 Ultra ZM-87,,i7-8650U
+,Intel Xeon 7140M,,i5-8350U
+,Intel Xeon E5-2650 v2,,i7-7500U
+,Intel Atom Z620,,i7-7560U
+,Intel Xeon 2.0,,i7-7567U
+,AMD Phenom II X3 705e,,i7-7600U
+,Intel Pentium 4 511,,i7-7660U
+,AMD Athlon XP 3000+,,i7-7700T
+,AMD Phenom II X3 700e,,i7-7700K
+,AMD Opteron 842,,i7-7700
+,AMD Sempron 3000+,,i7-7700HQ
+,Intel Pentium 4 1.8A,,i7-7820EQ
+,Intel Core i5-8500T,,i7-7820HK
+,AMD Opteron X2 270 HE,,i7-7820HQ
+,Intel Xeon 7110M,,i7-7920HQ
+,AMD FX-8140,,D2000
+,Intel Atom D2550,,X1021D
+,Intel Celeron G3920,,Z2420
+,AMD Ryzen 5 3400G,,D1000
+,Intel Core i3-8145U,,E620
+,AMD Athlon 64 X2 6000+,,Z2460
+,AMD Ryzen 3 PRO 4350GE,,x7-Z8750
+,Intel Core 2 Duo E6600,,N2600
+,AMD EPYC 7272,,E3805
+,Intel Core i3-8350K,,D2500
+,AMD Athlon 64 LE-1660,,C2316
+,Intel Pentium SU4100,,
+,AMD Athlon 64 2800+,,
+,AMD Turion X2 Ultra ZM-88,,
+,Intel Pentium M 765,,9010
+,Intel Core i3-350M,,9110N
+,Intel Xeon Platinum 8352V,,9310
+,AMD Ryzen 5 5600G,,9320
+,AMD Phenom X3 8400,,9330
+,Intel Core i5-7500T,,9340
+,Intel Core i7-8550U,,9350
+,AMD Ryzen Threadripper 1920X,,9120N
+,Intel Core i5-1035G1,,9130M
+,Intel Celeron N2930,,9140M
+,Intel Pentium 4 2.4,,9140N
+,AMD EPYC 7551P,,9150M
+,AMD Athlon XP-M 2000+,,9150N
+,Intel Core i3-2102,,9152M
+,AMD Ryzen 7 4700GE,,9015
+,AMD A6-3400M,,9020
+,AMD EPYC 7451,,9030
+,Intel Atom Z510PT,,9040
+,AMD Ryzen 7 PRO 3700U,,9050
+,AMD Athlon 64 X2 5200+,,
+,AMD Athlon 64 X2 4200+,,
+,Intel Pentium 4 HT 641,,
+,Intel Core M-5Y10a,,
+,AMD Athlon II X2 260,,
+,Intel Pentium 4 HT 524,,
+,AMD Opteron 840,,
+,AMD Athlon 64 X2 4600+,,C2350
+,Intel Pentium 4-M 1.60,,C2516
+,Intel Pentium M 780,,C2530
+,AMD A8-3850,,C2550
+,Intel Celeron G540T,,C2730
+,AMD Opteron 240 EE,,C2750
+,AMD Opteron 3380,,C2308
+,Intel Core i7-640M,,C2338
+,Intel Xeon E5-2403 v2,,C2358
+,Intel Pentium G640,,C2508
+,Intel Core 2 Duo U7500,,C2518
+,Intel Xeon E3-1230,,C2538
+,Intel Pentium Dual-Core E2160,,C2558
+,Intel Pentium 997,,C2718
+,Intel Xeon Phi 7295,,C2758
+,AMD Athlon II X3 440,,C2738
+,AMD Phenom II X6 1055T (125W),,C3958
+,Intel Core i7-9750H,,C3955
+,AMD Ryzen 3 PRO 1300,,C3950
+,Intel Core i5-3470S,,C3830
+,AMD Sempron 3100+,,C3858
+,Intel Xeon 5148,,C3850
+,AMD Athlon XP-M 3000+,,C3808
+,Intel Core i5-7640X,,C3758
+,AMD Sempron 2600+,,C3750
+,AMD FX-8320E,,C3708
+,AMD Athlon X2 5050e,,C3558
+,AMD Ryzen 5 PRO 2500U,,C3538
+,Intel Core i5-4690K,,C3508
+,Intel Core i7-4850EQ,,C3338
+,AMD EPYC 7301,,C3308
+,AMD EPYC 7551,,D2550
+,Intel Core i5-4440,,D2700
+,Intel Pentium G3460,,E3815
+,Intel Celeron G5900,,E3825
+,AMD Athlon 1300,,E3826
+,Intel Xeon Phi 7210F,,E3827
+,Intel Core 2 Duo U7700,,E3845
+,Intel Xeon E7-8860,,N2800
+,AMD Opteron 2350 HE,,S1220
+,Intel Xeon 3.06,,S1240
+,Intel Core i5-3610ME,,S1260
+,AMD Athlon 64 1500+,,S1269
+,AMD Sempron 3100+,,S1279
+,AMD Sempron 3400+,,S1289
+,AMD Mobile Athlon 64 3200+,,x3-C3130
+,AMD Athlon 3000G,,x3-C3200RK
+,Intel Xeon X5687,,x3-3205RK
+,AMD Phenom X3 8850,,x3-C3230RK
+,AMD Sempron 2200+,,x3-C3235RK
+,Intel Pentium 4 1.9,,x3-C3295RK
+,AMD Phenom X4 9600B,,x3-C3265RK
+,AMD Opteron 842,,x3-C3405
+,AMD Athlon XP 1800+,,x3-C3445
+,Intel Xeon Platinum 8180M,,E8000
+,Intel Core i3-2100T,,x5-Z8300
+,AMD Sempron 2600+,,x5-Z8330
+,AMD Athlon XP 2500+,,x5-Z8350
+,Intel Pentium III  933,,x5-Z8500
+,Intel Pentium P6100,,x5-Z8550
+,Intel Core 2 Duo U7700,,E3930
+,Intel Celeron G1101,,E3940
+,Intel Pentium M 760,,x7-Z8700
+,AMD Opteron 3350 HE,,E3950
+,AMD Athlon 64 3200+,,Z2480
+,Intel Xeon MP 7030 Dual-Core,,Z2520
+,AMD A8-5557M,,Z2560
+,Intel Celeron 857,,Z2580
+,AMD Ryzen 3 5300G,,Z2760
+,Intel Pentium 4-M 2.50,,Z3460
+,Intel Core i3-10325,,Z3480
+,AMD EPYC 7542,,Z3560
+,AMD Athlon 64 3000+,,Z3530
+,AMD E2-2000,,Z3570
+,Intel Pentium 4-M 1.90,,Z3580
+,AMD Athlon 64 X2 3600+,,Z3590
+,AMD EPYC 7402P,,Z3735E
+,Intel Core i7-880,,Z3735D
+,Intel Pentium 4 HT 561,,Z3735F
+,Intel Pentium 4 HT 661,,Z3735G
+,Intel Pentium Dual-Core T4500,,Z3736F
+,Intel Core i5-655K,,Z3736G
+,AMD Opteron 144,,Z3740
+,Intel Pentium 4 HT 2.8E,,Z3740D
+,Intel Core i7-11700,,Z3745
+,Intel Xeon Platinum 9221,,Z3745D
+,AMD EPYC 7H12,,Z3770
+,Intel Core i5-9400F,,Z3775
+,AMD Phenom II X2 B55,,Z3770D
+,AMD Athlon 64 LE-1600,,Z3775D
+,Intel Core i7-7820X,,Z3785
+,AMD Opteron 148,,Z3795
+,Intel Core i3-2328M,,E620T
+,Intel Core i5-4690,,Z500
+,Intel Core i9-10940X,,Z510
+,AMD Athlon II X3 450,,E640
+,Intel Xeon E3-1235,,Z600
+,AMD Athlon 64 FX-76,,Z510P
+,Intel Xeon E5-2670 v2,,E640T
+,Intel Atom E640,,Z510PT
+,AMD Athlon 950,,E645C
+,AMD Athlon X2 7850 BE,,Z515
+,Intel Core 2 Extreme QX9300,,E645CT
+,AMD Sempron 2600+,,230
+,Intel Xeon Phi 3110X,,Z520
+,AMD EPYC 7702,,E660
+,Intel Celeron G1620,,Z615
+,Intel Core 2 Duo E8400,,Z520PT
+,Intel Xeon L5506,,E660T
+,AMD Athlon 64 3500+,,Z530
+,Intel Xeon Phi 5110P,,E665C
+,Intel Core i3-4330T,,Z625
+,AMD Ryzen 5 5600X,,N450
+,Intel Xeon Gold 5315Y,,Z530P
+,AMD FX-8100,,Z650
+,AMD Ryzen Threadripper 1940,,E665CT
+,Intel Xeon Phi 7120D,,N455
+,AMD Sempron 2800+,,D410
+,AMD Mobile Athlon 64 2800+,,D510
+,AMD E1-1200,,Z540
+,Intel Core i3-2340UE,,Z670
+,Intel Core i3-1005G1,,E680
+,AMD Mobile Athlon 64 3000+,,N550
+,Intel Xeon Platinum 8270,,N470
+,AMD Sempron 3000+,,Z550
+,Intel Atom Z560,,N270
+,Intel Pentium G840,,330
+,AMD Phenom II X4 820,,N570
+,AMD Opteron 43CX EE,,E680T
+,AMD Ryzen 5 PRO 2400G,,Z560
+,Intel Celeron G530,,N475
+,AMD Ryzen 5 PRO 1500,,D525
+,AMD Phenom II X4 840T,,D425
+,Intel Core i7-11700K,,N280
+,Intel Pentium E5200,,X1021
+,AMD Athlon 64 3600+,,X1020D
+,AMD Phenom X4 9100e,,X1020
+,Intel Pentium M 770,,X1011
+,Intel Core 2 Quad Q8200,,X1010
+,Intel Celeron G4920,,X1001
+,AMD Athlon 1333,,X1000
+,AMD Athlon 64 3200+,,9520
+,AMD Turion X2 RM-77,,9760
+,AMD Phenom II X4 910e,,7290F
+,Intel Atom D425,,3120A
+,AMD EPYC 7543P,,3120P
+,Intel Core i3-8120,,E3-1290
+,Intel Core Duo T2400,,D-1513N
+,Intel Pentium 4-M 1.50,,E5603
+,Intel Xeon MP 3.66,,E3-1105C
+,Intel Xeon 2.66,,E3-1220 v3
+,Intel Celeron D 326,,E3-1258LV4
+,Intel Pentium Dual-Core E2180,,E3-1220V5
+,AMD Sempron 3000+,,E3-1220V6
+,AMD A8-3510MX,,E5-2690
+,Intel Xeon Platinum 8380H,,E5-2697V2
+,Intel Xeon Phi SE10X,,E5-2695V2
+,AMD Phenom II X3 740 BE,,E5-1620V4
+,AMD Athlon Gold PRO 3150G,,E5-1630V4
+,AMD Opteron 252,,E5-1650V4
+,Intel Core i5-6400,,E5-1660V4
+,Intel Atom Z550,,E5-1680V4
+,AMD Athlon II X4 620,,E5-2603V4
+,AMD Ryzen Threadripper 1950X,,E5-2608LV4
+,Intel Xeon E5-2420 v2,,E5-2609V4
+,AMD A6-5350M,,E5-2618LV4
+,AMD Phenom X4 9550,,E5-2620V4
+,Intel Core 2 Duo E7200,,E5-2623V4
+,Intel Xeon Platinum 8368Q,,E5-2628LV4
+,Intel Core Duo ULV L2500,,E5-2630LV4
+,Intel Mobile Pentium 4 HT 552,,E5-2630V4
+,Intel Xeon Platinum 8360H,,E5-2637V4
+,Intel Xeon E5-4610,,E5-2640V4
+,Intel Celeron E3500,,E5-2643V4
+,Intel Core i7-3517U,,E5-2648LV4
+,Intel Xeon E3-1220L,,E5-2650LV4
+,AMD Opteron X2150,,E5-2650V4
+,Intel Core i3-3225,,E5-2660V4
+,AMD Phenom II X2 565 BE,,E5-2667V4
+,Intel Core i3-2105,,E5-2658V4
+,AMD Turion 64 ML-34,,E5-2680V4
+,Intel Core Duo LV L2400,,E5-2683V4
+,Intel Core i7-1068G7,,E5-2687WV4
+,Intel Xeon Gold 6334,,E5-2690V4
+,Intel Celeron D 341,,E5-2695V4
+,AMD E2-1800,,E5-2697AV4
+,Intel Pentium 4 1.4,,E5-2697V4
+,Intel Pentium G860,,E5-2698V4
+,Intel Xeon 3.0,,E5-2699RV4
+,AMD Athlon 64 3700+,,E5-2699V4
+,AMD E2-3000,,E5-2699AV4
+,AMD Athlon 64 3100+,,E5-4610V4
+,Intel Core i5-11600T,,E5-4620V4
+,Intel Celeron 787,,E5-4627V4
+,AMD Athlon XP 2600+,,E5-4628LV4
+,Intel Xeon E3-1270 v2,,E5-4640V4
+,Intel Core i5-10600,,E5-4650V4
+,AMD EPYC 74F3,,E5-4655V4
+,Intel Core i9-7960X,,E5-4660V4
+,AMD Athlon XP 1700+,,E5-4667V4
+,AMD Ryzen 9 3900X,,E5-4669V4
+,AMD Opteron 150,,E5-2603V3
+,AMD Ryzen 3 4300GE,,E5-2608LV3
+,Intel Pentium 4 HT 571,,E5-2609V3
+,Intel Core 2 Quad Q9450,,E5-2618LV3
+,Intel Xeon E3-1245 v2,,E5-2620V3
+,AMD FX-9370,,E5-2623V3
+,Intel Pentium 4 HT 560,,E5-2628LV3
+,Intel Core i5-10400,,E5-2630V3
+,AMD Athlon 64 3400+,,E5-2630LV3
+,Intel Xeon 3.2,,E5-2637V3
+,Intel Pentium 4 HT 651,,E5-2640V3
+,AMD Athlon XP 2000+,,E5-2643V3
+,AMD E-350,,E5-2650V3
+,Intel Atom E680T,,E5-2648LV3
+,AMD Athlon II X2 250u,,E5-2650LV3
+,Intel Pentium 4 505J,,E5-2658V3
+,Intel Xeon Platinum 8376HL,,E5-2658AV3
+,Intel Pentium 4 511,,E5-2660V3
+,Intel Xeon W-2195,,E5-2667V3
+,Intel Xeon Phi 7250F,,E5-2670V3
+,AMD Ryzen Threadripper 1940X,,E5-2680V3
+,Intel Xeon E3-1240,,E5-2683V3
+,Intel Core i7-1060G7,,E5-4610V3
+,Intel Pentium M 1.40,,E5-4620V3
+,Intel Xeon E5630,,E5-2687WV3
+,Intel Core i3-7120T,,E5-4627V3
+,Intel Core i5-2557M,,E5-2690V3
+,Intel Core i5-4200Y,,E5-4640V3
+,Intel Celeron G550T,,E5-1680V3
+,AMD A4-6300,,E5-2695V3
+,AMD A10-9700,,E5-4648V3
+,AMD Turion 64 MT-32,,E5-1660V3
+,Intel Core i3-8300T,,E5-4650V3
+,AMD Athlon 64 3800+,,E5-1650V3
+,Intel Celeron G1630,,E5-2697V3
+,AMD Turion X2 Ultra ZM-82,,E5-4655V3
+,Intel Core i7-2675QM,,E5-2408LV3
+,AMD Opteron 140,,E5-1630V3
+,AMD EPYC 7552,,E5-2698V3
+,Intel Core i3-9300,,E5-4660V3
+,Intel Pentium 4 HT 520,,E5-2418LV3
+,AMD Athlon 64 3500+,,E5-1620V3
+,AMD Mobile Athlon 64 3000+,,E5-4667V3
+,Intel Core 2 Duo U7500,,E5-2428LV3
+,AMD Phenom X4 9850 (95W),,E5-4669V3
+,Intel Pentium 4-M 1.70,,E5-2438LV3
+,AMD Sempron 3200+ EE SFF,,E5-1428LV3
+,Intel Core i3-2357M,,E5-2699V3
+,AMD Athlon II X2 270,,E5-2690V2
+,Intel Atom D525,,E5-2680V2
+,AMD EPYC 7702P,,E5-2687WV2
+,Intel Pentium G3220T,,E5-2670V2
+,Intel Core i7-4930K,,E5-2667V2
+,AMD Athlon XP-M 2200+,,E5-2660V2
+,AMD Opteron 146,,E5-2650LV2
+,Intel Xeon E5507,,E5-2658V2
+,AMD Turion 64 ML-42,,E5-2650V2
+,AMD Ryzen 3 1300,,E5-2470V2
+,Intel Core i3-5010U,,E5-2648LV2
+,Intel Celeron G1840,,E5-2450LV2
+,Intel Core i7-4860HQ,,E5-2643V2
+,Intel Core i7-8750H,,E5-2450V2
+,AMD Turion X2 RM-72,,E5-4657LV2
+,AMD Athlon 64 FX-72,,E5-2448LV2
+,Intel Atom Z670,,E5-2640V2
+,AMD Opteron 146,,E5-2637V2
+,Intel Core i3-2312M,,E5-4650V2
+,AMD Athlon 64 X2 4600+,,E5-2440V2
+,Intel Core i7-11700F,,E5-2630LV2
+,AMD Athlon XP 2400+,,E5-2430LV2
+,Intel Core i7-5600U,,E5-4640V2
+,Intel Core i3-560,,E5-2630V2
+,AMD E2-3000M,,E5-2430V2
+,AMD FX-8370E,,E5-4627V2
+,AMD Athlon XP 2000+,,E5-4624LV2
+,Intel Celeron E1200,,E5-2628LV2
+,Intel Core i3-2100,,E5-2428LV2
+,AMD Ryzen 5 PRO 4650G,,E5-2620V2
+,Intel Core i9-7920X,,E5-2420V2
+,AMD Sempron 2400+,,E5-1660V2
+,Intel Celeron B730,,E5-4620V2
+,AMD C-60,,E5-2618LV2
+,Intel Celeron 2955U,,E5-2418LV2
+,Intel Xeon L5618,,E5-1650V2
+,Intel Core i5-5250U,,E5-4610V2
+,AMD Athlon 64 3200+,,E5-4607V2
+,AMD Ryzen Threadripper 2990WX,,E5-2609V2
+,AMD A9-9420 SoC,,E5-2407V2
+,AMD Mobile Athlon 64 3700+,,E5-1620V2
+,Intel Pentium 4 HT 521,,E5-1428LV2
+,AMD Phenom II X4 900e,,E5-2603V2
+,AMD A10-7870K,,E5-2403V2
+,Intel Xeon E5-1650 v2,,E5-4603V2
+,AMD Phenom II X4 965 BE (140W),,E5-2687W
+,AMD Ryzen Threadripper 1950,,E5-2680
+,AMD Athlon II X4 605e,,E5-2670
+,Intel Core i5-1035G4,,E5-2667
+,Intel Core i3-1115G4,,E5-2665
+,Intel Xeon Silver 4310,,E5-2660
+,AMD Ryzen 7 3780U,,E5-2658
+,AMD Athlon 1400,,E5-2650
+,AMD Phenom II X4 965 BE (125W),,E5-2648L
+,Intel Core i3-10105F,,E5-2650L
+,Intel Pentium 4 HT 662,,E5-2643
+,Intel Xeon 5050,,E5-2470
+,AMD Sempron X2 2200,,E5-2450L
+,AMD Opteron 246 HE,,E5-2640
+,AMD Athlon 64 3200+,,E5-2450
+,AMD Opteron 850 HE,,E5-2637
+,Intel Xeon Phi 7290F,,E5-2448L
+,Intel Core i5-8600T,, E5-4650L
+,AMD Ryzen 7 4800U,,E5-2630L
+,AMD Phenom II X2 570 BE,,E5-4650
+,Intel Xeon Gold 6314U,,E5-2440
+,Intel Atom E620,,E5-2630
+,AMD Opteron 842,,E5-1660
+,AMD A8-5545M,,E5-2430L
+,Intel Core i7-8700T,,E5-2430
+,AMD Athlon 64 2800+,,E5-4640
+,AMD Athlon 64 3500+,,E5-2428L
+,AMD Athlon 64 X2 5400+,,E5-4620
+,AMD A6-3500,,E5-1650
+,AMD Athlon PRO 300U,,E5-2620
+,Intel Atom E3827,,E5-2420
+,AMD A4-5000,,E5-4617
+,AMD Phenom II X4 805,,E5-2418L
+,Intel Core i7-10810U,,E5-1428L
+,Intel Core i3-380M,,E5-1620
+,Intel Celeron P1053,,E5-2609
+,Intel Core i5-10600K,,E5-4610
+,AMD Athlon 300U,,E5-2407
+,AMD Athlon PRO 200GE,,E5-4607
+,AMD Opteron 6378,,E5-2403
+,AMD Phenom II X4 975 BE,,E5-4603
+,Intel Core i7-8650U,,E5-2603
+,AMD Opteron 140 EE,,E3-1225V6
+,Intel Atom Z540,,E3-1230V6
+,Intel Xeon E3-1290,,E3-1240V6
+,AMD EPYC 7502P,,E3-1245V6
+,Intel Xeon E5520,,E3-1270V6
+,Intel Pentium 4 519K,,E3-1275V6
+,Intel Core 2 Solo ULV U2100,,E3-1280V6
+,AMD Opteron 148,,E3-1285V6
+,AMD Sempron 3100+,,E3-1501LV6
+,Intel Xeon MP 2.83,,E3-1501MV6
+,AMD Athlon II X2 245,,E3-1505LV6
+,AMD Phenom II X4 840,,E3-1505MV6
+,Intel Xeon 7110N,,E3-1535MV6
+,Intel Core i5-2430M,,E3-1225V5
+,AMD Opteron X2 275 HE,,E3-1230V5
+,AMD Opteron 146,,E3-1240V5
+,AMD Opteron 6262 HE,,E3-1235LV5
+,AMD Ryzen 9 3900XT,,E3-1240LV5
+,Intel Core i7-3520M,,E3-1245V5
+,Intel Core i3-1000G4,,E3-1260LV5
+,AMD A8-9600,,E3-1268LV5
+,Intel Xeon E7-8880 v3,,E3-1270V5
+,AMD Ryzen 5 3500X,,E3-1275V5
+,AMD EPYC 7281,,E3-1280V5
+,Intel Pentium 4 HT 516,,E3-1505MV5
+,AMD Opteron 144,,E3-1505LV5
+,AMD Opteron X2 260 HE,,E3-1515MV5
+,AMD Phenom X4 9150e,,E3-1535MV5
+,Intel Xeon E5-2450 v2,,E3-1545MV5
+,Intel Pentium III 1133,,E3-1558LV5
+,Intel Xeon Platinum 8362,,E3-1565LV5
+,AMD Athlon 64 3800+ (F3),,E3-1575MV5
+,Intel Core i3-7340,,E3-1578LV5
+,AMD EPYC 7F72,,E3-1585LV5
+,AMD Athlon X4 950,,E3-1585V5
+,AMD Ryzen 7 PRO 1700,,E3-1265LV4
+,AMD A4-5145M,,E3-1278LV4
+,Intel Pentium E6600,,E3-1285V4
+,AMD Athlon 64 LE-1620,,E3-1285LV4
+,AMD FX-4120,,E3-1220LV3
+,Intel Celeron 2950M,,E3-1226V3
+,AMD Athlon XP 1800+,,E3-1225V3
+,Intel Core i7-4980HQ,,E3-1230 v3
+,Intel Core i7-6950X,,E3-1230Lv3
+,Intel Core 2 Quad Q8300,,E3-1231V3
+,Intel Pentium E6500K,,E3-1240 v3
+,Intel Mobile Pentium 4 HT 532,,E3-1240LV3
+,Intel Core 2 Duo E8300,,E3-1241V3
+,AMD Athlon XP 2600+,,E3-1245 v3
+,Intel Core i9-9900KF,,E3-1246V3
+,Intel Pentium Gold G6505T,,E3-1275 v3
+,AMD Phenom II X4 B97,,E3-1265Lv3
+,AMD Athlon XP 2800+,,E3-1271V3
+,Intel Celeron G3930T,,E3-1268LV3
+,Intel Core i7-9700,,E3-1270 v3
+,AMD Athlon 64 3400+,,E3-1275LV3
+,Intel Atom E3845,,E3-1280 v3
+,AMD Phenom II X4 850,,E3-1276V3
+,AMD Opteron 248,,E3-1281V3
+,AMD A10-7850K,,E3-1285 v3
+,AMD EPYC 7452,,E3-1285Lv3
+,Intel Core i7-950,,E3-1286V3
+,Intel Core i3-370M,,E3-1286LV3
+,Intel Celeron D 335,,E3-1105CV2
+,AMD Ryzen 9 5900X,,E3-1125CV2
+,Intel Core i3-3220T,,E3-1220LV2
+,AMD Phenom II X2 555 BE,,E3-1220V2
+,AMD Opteron 242,,E3-1225V2
+,Intel Pentium M 740,,E3-1230V2
+,Intel Core i7-6700K,,E3-1240V2
+,AMD Athlon X2 7550,,E3-1245V2
+,Intel Core i5-8300H,,E3-1265LV2
+,Intel Core i9-8950HK,,E3-1270V2
+,Intel Xeon E7-8880L v3,,E3-1280V2
+,Intel Xeon E3-1285 v4,,E3-1275V2
+,AMD A4-3400,,E3-1290V2
+,Intel Atom E3826,,E3-1125C
+,AMD Ryzen 9 3950X,,E3-1220
+,Intel Xeon MP 3.16,,E3-1220L
+,AMD FX-4170,,E3-1225
+,AMD Mobile Athlon 64 2800+,,E3-1230
+,AMD Ryzen 5 2600,,E3-1240
+,Intel Xeon E5-2692 v2,,E3-1235
+,Intel Core i7-3930K,,E3-1245
+,Intel Celeron 2.0,,E3-1260L
+,Intel Core 2 Quad Q9300,,E3-1275
+,Intel Pentium G6950,,E3-1270
+,Intel Mobile Pentium 4 HT 2.66,,E3-1280
+,Intel Core i7-3630QM,,D-1518
+,Intel Core i7-2700K,,D-1520
+,AMD Opteron 850,,D-1521
+,AMD Ryzen 5 4600HS,,D-1523N
+,AMD Sempron 3100+,,D-1527
+,Intel Core i7-9700F,,D-1528
+,Intel Pentium D 965 EE,,D-1529
+,AMD Athlon 64 3000+,,D-1531
+,Intel Core 2 Duo T7600,,D-1533N
+,Intel Core i3-4102E,,D-1537
+,AMD Opteron 246 HE,,D-1539
+,AMD Phenom X3 8450e,,D-1540
+,Intel Pentium G860T,,D-1541
+,AMD Ryzen 7 2700U,,D-1543N
+,Intel Pentium 4 HT 3.4E,,D-1548
+,Intel Core i3-9100F,,D-1559
+,AMD Phenom II X4 810,,D-1557
+,Intel Core i3-6300,,D-1567
+,Intel Xeon E7-8867 v3,,D-1553N
+,Intel Pentium E5800,,D-1571
+,Intel Xeon W3530,,D-1577
+,Intel Pentium Gold G5620,,E5606
+,AMD Opteron 846 HE,,
+,AMD Phenom X3 8750 BE,,
+,AMD A6-3620,,E5607
+,AMD A6-5345M,,
+,AMD A10-7700K,,E5620
+,AMD EPYC 7313P,,
+,Intel Core i7-1165G7,,E5630
+,AMD E-450,,
+,AMD Athlon 64 X2 3600+ EE,,
+,AMD Ryzen 5 3500U,,E5640
+,Intel Pentium 4 1.6,,
+,Intel Pentium G3250T,,
+,Intel Core i3-4340,,E5645
+,Intel Pentium 4 HT 3.0E,,
+,Intel Core i3-2125,,E5649
+,Intel Pentium M 1.60,,
+,Intel Pentium 4 HT 541,,
+,AMD Mobile Athlon 64 3200+,,L5609
+,Intel Pentium D 925,,
+,AMD Athlon II X4 600e,,
+,Intel Core i7-4650U,,L5618
+,Intel Core i5-3360M,,E5502
+,AMD Opteron 844,,E5405
+,AMD Opteron X2 870 HE,,
+,AMD Athlon 64 LE-1640,,
+,AMD Sempron 2400+,,L5630
+,AMD Turion 64 ML-37,,E5503
+,Intel Pentium III 1133S,,E5410
+,AMD Opteron X2 285,,
+,Intel Core 2 Duo T7250,,
+,Intel Core i3-4005U,,E5504
+,Intel Pentium 4 1.4,,L5638
+,Intel Atom N270,,E5420
+,Intel Core i9-10900X,,
+,AMD A8-5550M,,
+,Intel Core i5-8265U,,E5506
+,Intel Core i7-10875H,,E5205
+,AMD Athlon 64 X2 4000+ EE,,E5430
+,Intel Xeon Platinum 8360HL,,
+,AMD A6-9220C SoC,,
+,Intel Pentium M 1.50,,L5640
+,Intel Xeon Phi 7120P,,E5507
+,AMD Sempron 2800+,,E5220
+,Intel Pentium Dual-Core T4200,,E5440
+,Intel Core 2 Duo E6300,,
+,AMD Athlon 64 X2 4000+,,
+,Intel Core i7-8559U,,
+,AMD Athlon XP-M 2600+,,X5647
+,Intel Core i3-7300T,,E5520
+,Intel Pentium D 935,,E5450
+,AMD Athlon XP 2100+,,E5240
+,Intel Pentium G645T,,
+,Intel Core Duo T2050,,
+,AMD Athlon 64 3200+,,
+,Intel Pentium G3220,,X5650
+,Intel Pentium 4 HT 516,,E5530
+,Intel Core i5-9400T,,E5462
+,Intel Core i5-6350HQ,,
+,Intel Xeon Platinum 8358P,,
+,Intel Xeon W3540,,
+,Intel Core 2 Duo E6400,,
+,Intel Core i9-11900F,,5110
+,Intel Pentium Dual-Core T4400,,X5660
+,Intel Xeon MP 2.83,,E5540
+,AMD A6-3430MX,,E5472
+,AMD Athlon XP 2000+,,
+,Intel Core i7-965,,
+,Intel Core i5-6500,,5120
+,Intel Core M-5Y31,,X5667
+,Intel Xeon X5647,,
+,Intel Xeon Platinum 8280M,,L5506
+,Intel Core i3-9350KF,,L3360
+,Intel Core i7-2960XM,,L5215
+,Intel Core 2 Duo E8500,,L5408
+,AMD Sempron X2 2100,,E5310
+,AMD FX-4350,,
+,Intel Core i7-11700KF,,
+,Intel Core i5-3210M,,
+,AMD Ryzen 5 3600XT,,5130
+,Intel Pentium Dual-Core E2140,,
+,AMD EPYC 7261,,
+,AMD Athlon XP-M 2500+,,X5670
+,AMD A6-5200,,L5508
+,Intel Core i5-8305G,,X3320
+,AMD A6-3670K,,L5410
+,AMD A9-9425 SoC,,E5320
+,Intel Xeon 5130,,
+,Intel Core i7-4770HQ,,7110M
+,Intel Atom CE4130,,
+,AMD Athlon 850,,
+,AMD A12-9800,,5140
+,Intel Xeon Gold 5320,,3040
+,AMD Ryzen 3 2300U,,
+,AMD FX-4150,,X5672
+,AMD A4-4355M,,E7520
+,AMD Ryzen 3 4300G,,L3406
+,Intel Core i5-3320M,,L5518
+,Intel Core i7-940,,E7420
+,AMD A4-5300,,L5238
+,AMD A9-9400 SoC,,L5420
+,AMD Ryzen 7 4700G,,E5335
+,AMD Sempron 3000+,,
+,Intel Core i7-3667U,,
+,Intel Core i5-5675C,,7110N
+,Intel Pentium Dual-Core E2210,,
+,Intel Core i9-7980XE,,5150
+,Intel Xeon Platinum 8276,,3050
+,Intel Core 2 Duo T7100,,X5675
+,AMD EPYC 7413,,W3670
+,AMD Opteron 6348,,E7530
+,AMD Opteron X2 870,,L3426
+,Intel Xeon MP 7020 Dual-Core,,L5520
+,Intel Core i3-3240,,W3520
+,AMD Sempron 3200+,,E7430
+,Intel Atom N550,,X3330
+,AMD A10-4600M,,L5240
+,Intel Core i5-2435M,,L5430
+,Intel Xeon E5-2667 v2,,E7310
+,Intel Core 2 Quad Q8400S,,E5345
+,Intel Pentium D 915,,
+,Intel Core 2 Duo T5500,,
+,AMD Phenom X4 9750B,,
+,AMD Phenom II X4 B95,,5160
+,AMD E-300,,7120M
+,Intel Xeon E3-1220 v2,,5030
+,Intel Pentium 4 HT 517,,3060
+,Intel Xeon E5-2697 v2,,X5677
+,Intel Xeon 7120N,,E7540
+,Intel Core i3-10320,,X3430
+,Intel Core Duo LV L2300,,L5530
+,Intel Core i5-750,,W3530
+,Intel Core i3-10350K,,E7440
+,Intel Pentium G3450T,,X5450
+,AMD Athlon XP 1600+,,X3350
+,Intel Core i5-8400,,E7320
+,AMD Athlon X2 QL-62,,3065
+,AMD Ryzen 3 PRO 3300U,,5113
+,AMD Ryzen 3 PRO 4350G,,L5310
+,AMD Athlon 64 3400+,,
+,Intel Xeon Phi 7110X,,
+,Intel Atom D410,,
+,Intel Xeon L5520,,
+,Intel Core i5-7600T,,7120N
+,AMD Athlon 64 X2 4200+,,5040
+,Intel Pentium 4 HT EE 3.46,,
+,Intel Core i7-10700F,,
+,Intel Core 2 Duo T7500,,
+,AMD Athlon X2 QL-60,,EC5509
+,Intel Pentium Gold G6605,,L7545
+,Intel Xeon Gold 6348,,X3440
+,Intel Core i7-970,,W3540
+,Intel Celeron B840,,W5580
+,Intel Core i7-8850H,,E7450
+,AMD Athlon II X3 405e,,L5318
+,Intel Core i3-10110Y,,X5460
+,AMD Ryzen 3 3300X,,E7330
+,Intel Core i3-2120T,,
+,AMD Athlon II X2 245e,,
+,Intel Pentium 4 519K,,
+,Intel Core 2 Duo E4400,,7130M
+,AMD Athlon 1400,,
+,AMD Sempron 3000+,,5050
+,Intel Xeon E5-2637 v2,,3070
+,Intel Core i5-9500,,
+,Intel Xeon Silver 4316,,
+,Intel Xeon E7-4850 v3,,
+,Intel Core i3-8000,,W3680
+,Intel Pentium G3420,,X5680
+,Intel Pentium G4560,,EC3539
+,Intel Core i5-4590,,EC5539
+,Intel Xeon 5120,,X3450
+,AMD Athlon 64 3400+,,L7555
+,Intel Pentium Gold G6400,,W5590
+,Intel Xeon E5-2630 v2,,W3550
+,Intel Core 2 Duo E8190,,X5470
+,Intel Pentium G640T,,E3110
+,Intel Core 2 Solo ULV SU3500,,X3360
+,AMD Athlon Gold 3150GE,,X5260
+,AMD Athlon 220GE,,
+,Intel Core i7-8705G,,5128
+,AMD Sempron 2600+,,L5320
+,AMD Athlon II X3 425,,
+,Intel Core i5-6600K,,
+,AMD Athlon 64 4000+ (F3),,7130N
+,Intel Xeon 5063,,
+,AMD Sempron LE-1250,,
+,Intel Xeon 3.4,,7020
+,Intel Celeron N2840,,5060
+,Intel Celeron G5920,,
+,AMD Athlon II X3 445,,
+,Intel Pentium Gold G6500,,X5687
+,AMD Ryzen 3 3200G,,
+,AMD Opteron 146,,LC3518
+,AMD A8-7680,,EC5549
+,AMD Ryzen Threadripper 1900,,X7542
+,AMD Ryzen 7 2800H,,E6510
+,AMD Athlon 64 X2 3800+ EE SFF,,X3460
+,Intel Core i5-10210Y,,W3565
+,AMD Ryzen 5 2500U,,X5550
+,Intel Core i3-10300,,L7445
+,AMD Opteron 248,,X5270
+,AMD Opteron X2 275,,W-2195
+,Intel Xeon E5-4607,,X5472
+,Intel Core 2 Duo T7800,,W-2155
+,AMD Opteron 844,,W-2145
+,Intel Pentium M 1.70,,W-2135
+,Intel Xeon E7-8870 v3,,W-2133
+,AMD Athlon II X3 400e,,W-2125
+,Intel Core i5-10310Y,,W-2123
+,AMD Opteron X2 885,,E7340
+,Intel Pentium E5300,,L5335
+,AMD Opteron 840,,5133
+,AMD Sempron 145,,X3210
+,Intel Pentium M 730,,5063
+,Intel Atom E665CT,,
+,Intel Celeron 2.0,,
+,Intel Xeon 3.06,,
+,Intel Xeon Platinum 9282,,7140M
+,AMD Opteron 142,,
+,Intel Xeon X5650,,7030
+,AMD Z-01,,
+,AMD A4-3300,,
+,AMD FX-8150,,W3690
+,Intel Xeon E7-8850,,X5690
+,AMD Athlon 64 X2 3800+ EE,,
+,Intel Xeon L5630,,LC3528
+,Intel Core Solo ULV U1500,,LC5518
+,Intel Pentium 4 511,,X7550
+,Intel Celeron 440,,E6540
+,Intel Xeon Platinum 8253,,X3470
+,Intel Atom Z650,,W3570
+,AMD A10-6800K,,X5560
+,AMD A10-6790K,,L7455
+,Intel Celeron D 340,,L3014
+,AMD Turion X2 RM-75,,X3370
+,AMD Opteron 846,,E3120
+,Intel Pentium M 755,,X5272
+,AMD Mobile Athlon 64 2700+,,X5482
+,AMD Athlon X4 970,,L7345
+,AMD Sempron 2200+,,E7210
+,AMD EPYC 7713,,5138
+,Intel Core i3-4100E,,X5355
+,Intel Core i5-9600,,X3220
+,Intel Core m3-8114Y,,
+,AMD A8-5500B,,
+,AMD Opteron 244,,
+,AMD Mobile Athlon 64 2800+,,7140N
+,Intel Xeon X5570,,
+,Intel Core i9-9980XE,,7040
+,Intel Pentium G4600T,,5070
+,Intel Core i7-960,,
+,AMD Athlon 64 FX-57,,
+,AMD A4-5150M,,X3480
+,Intel Core i7-8700K,,LC5528
+,Intel Core 2 Duo E7300,,X7560
+,AMD Athlon X2 6500 BE,,X6550
+,Intel Xeon Gold 5318S,,X3380
+,AMD A6-9550,,W3580
+,AMD Athlon XP 1700+,,X5570
+,AMD Sempron 3500+ EE SFF,,X7460
+,Intel Pentium G630,,X5492
+,AMD Opteron 148,,L3110
+,Intel Xeon Gold 5320T,,X3230
+,AMD Ryzen 5 2600H,,X7350
+,Intel Core i5-8250U,,E7220
+,Intel Pentium E6500,,X5365
+,Intel Core i5-3335S,,7150N
+,Intel Pentium G2120,,
+,Intel Core i7-6700TE,,
+,Intel Pentium 4 HT 640,,
+,AMD Athlon 220GE,,
+,AMD EPYC 7313,,7041
+,AMD Opteron 156,,5148
+,AMD Phenom II X4 970 BE,,5080
+,Intel Core i5-8650,,
+,Intel Xeon E5506,,5110P
+,Intel Core i3-6100,,5120D
+,AMD Ryzen Threadripper PRO 3995WX,,7120X
+,Intel Pentium 4 HT 517,,7120P
+,AMD Athlon II X2 270u,,7120D
+,AMD Athlon 64 3000+,,7120A
+,Intel Xeon L5640,,7290
+,Intel Xeon Silver 4314,,7250F
+,AMD A6-9120C SoC,,7250
+,Intel Core i9-10920X,,7230F
+,Intel Core i5-1035G7,,7230
+,AMD Opteron 244,,7210F
+,Intel Celeron B830,,7210
+,AMD Sempron 3000+,,9750
+,AMD Athlon 64 X2 5000+ EE,,9740
+,Intel Core i9-9980HK,,9720
+,Intel Xeon Gold 6338T,,9540
+,AMD Opteron X2 265,,9550
+,Intel Pentium 4 HT 3.6E,,9560
+,AMD Athlon 64 LE-1640,,E7-2803
+,AMD Athlon 64 3700+,,E7-2850V2
+,Intel Xeon 7120M,,E7-4809V3
+,Intel Core i9-10980XE,,E7-4809V4
+,Intel Core i3-4360,,3104
+,Intel Core i5-1130G7,,365
+,AMD Ryzen 5 PRO 4650GE,,1000M
+,AMD Phenom II X3 710,,2000E
+,Intel Pentium Silver J5005,,G2010
+,AMD Opteron 150,,D1507
+,Intel Pentium M 1.30,,i7-2960XM
+,AMD Ryzen 5 3600X,,i3-4030Y
+,Intel Pentium 4 HT 520,,i5-4670
+,AMD Opteron 846 HE,,i7-4578U
+,Intel Xeon Platinum 9242,,5Y10
+,Intel Core i3-10105,,5Y10a
+,Intel Core i9-9960X,,i5-5200U
+,AMD Athlon II X2 240e,,i5-5250U
+,AMD A8-3530MX,,i5-5257U
+,Intel Core 2 Quad Q8400,,i5-5287U
+,Intel Core i5-7600K,,i5-5300U
+,AMD Sempron 3300+,,i5-5350H
+,Intel Xeon E5-2680 v2,,i5-5350U
+,AMD Athlon 64 3400+,,i5-5575R
+,AMD Athlon 64 X2 4800+ EE,,i5-5675C
+,Intel Atom S1260,,i3-5005U
+,Intel Pentium Gold G5500,,i5-5675R
+,AMD Opteron 6380,,i3-5010U
+,AMD Athlon II X4 630,,i3-5015U
+,AMD Athlon 64 X2 4200+,,i3-5020U
+,Intel Atom E3815,,i3-5157U
+,Intel Mobile Pentium 4 HT 548,,5Y10c
+,Intel Pentium 4 2.4,,5Y31
+,AMD Athlon II X3 420e,,5Y51
+,Intel Core i5-750s,,5Y70
+,AMD Phenom II X4 650T,,5Y71
+,Intel Core i3-3240T,,i7-4558U
+,Intel Pentium 3556U,,i7-4550U
+,AMD Athlon X2 4850e,,i7-4510U
+,Intel Core i3-2130,,i7-4500U
+,Intel Celeron G1820,,i7-4650U
+,Intel Core i5-5200U,,i7-4610Y
+,Intel Core i9-9900X,,i7-4610M
+,AMD Opteron 244,,i7-4600U
+,Intel Xeon E5-2643 v2,,i7-4600M
+,Intel Celeron 2955U,,i7-4790T
+,AMD Phenom II X4 905e,,i7-4790S
+,Intel Atom Z520,,i7-4790
+,AMD Athlon XP 2400+,,i7-4785T
+,AMD Sempron 2600+,,i7-4771
+,Intel Pentium III 1133,,i7-4770TE
+,Intel Core i3-2120,,i7-4770T
+,Intel Xeon 3.6,,i7-4770S
+,Intel Celeron G550,,i7-4770R
+,Intel Xeon E7-4809 v3,,i7-4770
+,Intel Xeon E7-4820 v3,,i7-4765T
+,Intel Core i7-4710HQ,,i7-4770K
+,AMD Sempron 3200+,,i7-4790K
+,AMD Athlon II X3 435,,i7-4770HQ
+,Intel Xeon E3-1225 v2,,i7-4760HQ
+,Intel Core i7-6900K,,i7-4750HQ
+,Intel Core i5-11400,,i7-4722HQ
+,Intel Pentium 4 HT 670,,i7-4720HQ
+,AMD FX-6100,,i7-4712MQ
+,AMD Athlon 64 X2 3600+,,i7-4712HQ
+,Intel Xeon 5060,,i7-4710MQ
+,AMD Mobile Athlon 64 2700+,,i7-4710HQ
+,Intel Xeon E5-2650L v2,,i7-4702MQ
+,Intel Core i5-661,,i7-4702HQ
+,AMD Athlon 64 3800+,,i7-4702EC
+,Intel Celeron N2920,,i7-4700HQ
+,AMD FX-4100,,i7-4700MQ
+,Intel Core i3-8121U,,i7-4700EQ
+,Intel Pentium G6951,,i7-4700EC
+,AMD Sempron 2300+,,i7-4870HQ
+,AMD FX-6130,,i7-4860HQ
+,AMD Phenom II X4 B93,,i7-4850HQ
+,AMD Opteron 242,,i7-4810MQ
+,AMD Ryzen Threadripper 3980X,,i7-4800MQ
+,Intel Core 2 Duo E4700,,i7-4980HQ
+,Intel Core i3-2332M,,i7-4960HQ
+,Intel Core i7-870,,i7-4950HQ
+,AMD A6-1450,,i7-4910MQ
+,Intel Pentium D 960,,i7-4900MQ
+,Intel Core i7-10700,,i5-4288U
+,AMD Opteron 842,,i5-4278U
+,Intel Core Solo T1400,,i5-4260U
+,AMD Athlon 64 4000+,,i5-4258U
+,AMD A4-3305M,,i5-4250U
+,AMD Ryzen 5 2600E,,i5-4220Y
+,Intel Core i9-9880H,,i5-4210Y
+,Intel Core i7-4558U,,i5-4210U
+,Intel Core i7-3940XM,,i5-4210M
+,AMD Opteron 250 HE,,i5-4210H
+,Intel Xeon W3503,,i5-4202Y
+,AMD Athlon 64 3000+,,i5-4200Y
+,Intel Core i9-9900K,,i5-4200U
+,Intel Pentium 4 HT EE 3.40,,i5-4200M
+,Intel Xeon Silver 4116,,i5-4360U
+,AMD Phenom X3 8450,,i5-4200H
+,Intel Core i3-530,,i5-4350U
+,AMD Athlon II X4 641,,i5-4340M
+,AMD Sempron 3400+,,i5-4330M
+,AMD Ryzen 7 5700G,,i5-4310U
+,Intel Xeon Silver 4309Y,,i5-4310M
+,Intel Core i7-4550U,,i5-4308U
+,AMD Opteron 144,,i5-4302Y
+,Intel Core i5-2415M,,i5-4300Y
+,Intel Core i3-8100T,,i5-4300U
+,AMD Mobile Athlon 64 2800+,,i5-4300M
+,Intel Pentium III 1333,,i5-4430
+,Intel Xeon W3680,,i5-4440
+,Intel Core i5-11600K,,i5-4440S
+,AMD EPYC 7543,,i5-4430S
+,AMD Phenom II X4 960T BE,,i5-4460
+,Intel Core i9-11900KF,,i5-4460S
+,AMD Ryzen 7 5800H,,i5-4460T
+,AMD Opteron X2 280,,i5-4400E
+,AMD Athlon 1133,,i5-4402E
+,Intel Pentium 4 HT 520,,i5-4402EC
+,AMD FX-8370,,i5-4410E
+,AMD Ryzen 7 3700U,,i5-4422E
+,Intel Core i7-6800K,,i5-4590T
+,Intel Core i5-7400T,,i5-4590S
+,AMD Phenom II X2 545,,i5-4590
+,Intel Core 2 Quad Q6700,,i5-4570TE
+,Intel Core i7-4870HQ,,i5-4570T
+,AMD Athlon 600,,i5-4570S
+,AMD Athlon II X2 235e,,i5-4570R
+,Intel Pentium M 735,,i5-4570
+,AMD Athlon 64 X2 5800+,,i5-4690T
+,AMD Athlon XP 2000+,,i5-4690S
+,Intel Core i5-680,,i5-4690K
+,Intel Pentium 4 506,,i5-4690
+,Intel Core 2 Quad Q9650,,i5-4670T
+,Intel Core i5-460M,,i5-4670R
+,Intel Xeon E3-1260L,,i5-4670S
+,Intel Pentium E6700,,i5-4670K
+,AMD Athlon 64 X2 4400+,,SU3500
+,Intel Xeon Phi 7210,,T1250
+,Intel Pentium G645,,T1300
+,Intel Core 2 Solo ULV U2200,,T1350
+,Intel Core i3-4330,,T1400
+,AMD Phenom II 42 TWKR Black Edition,,U1300
+,AMD Phenom II X4 925,,U1400
+,AMD Ryzen 7 PRO 2700,,U1500
+,Intel Celeron N2910,,U2100
+,AMD EPYC 7F32,,U2200
+,Intel Core 2 Extreme QX9775,,SU3500
+,AMD Athlon 64 3500+ (F3),,SU3300
+,Intel Xeon 7140N,,U2400
+,Intel Core 2 Duo E6700,,U2500
+,Intel Pentium 4 HT EE 3.20,,U7500
+,Intel Pentium E6800,,U7500
+,Intel Xeon Platinum 8180,,U7600
+,AMD Athlon II X2 265,,U7600
+,AMD Phenom X4 9500,,U7700
+,AMD Turion 64 MT-28,,T2050
+,Intel Xeon W3550,,T2250
+,Intel Celeron 725C,,T2300
+,AMD EPYC 7251,,T2300E
+,AMD Ryzen 9 4900HS,,T2350
+,AMD A10-4655M,,T2400
+,Intel Atom Z510,,T2450
+,AMD FX-4130,,T2500
+,Intel Xeon E3-1265L v2,,T2600
+,Intel Celeron G1820TE,,T5200
+,Intel Pentium E5400,,T2700
+,AMD Athlon XP 2500+ DTR,,T5250
+,AMD A10-5800K,,T5270
+,Intel Xeon Gold 5317,,T5300
+,AMD Athlon II X4 631,,T5450
+,AMD Opteron 846,,T5470
+,AMD Athlon 64 X2 3800+,,T5500
+,AMD Opteron 848,,T5550
+,Intel Core i7-2670QM,,T5600
+,AMD Phenom II X6 1035T,,T5670
+,Intel Xeon Platinum 8354H,,T5750
+,AMD Sempron 3400+,,T5800
+,AMD Athlon 64 3500+ EE,,T5870
+,AMD Ryzen 5 PRO 1600,,T6400
+,AMD Athlon 64 3200+,,T6500
+,Intel Xeon Platinum 8280,,T6600
+,Intel Xeon Gold 6346,,T6670
+,Intel Pentium G4620,,i3-4030U
+,AMD Athlon 64 2800+,,i3-4025U
+,AMD Ryzen 7 3800XT,,i3-4020Y
+,Intel Pentium 957,,i3-4012Y
+,AMD Turion 64 MT-40,,i3-4010Y
+,Intel Xeon X5667,,i3-4010U
+,Intel Celeron 807,,i3-4005U
+,AMD Phenom X4 9950 BE (125W),,i3-4000M
+,AMD Athlon II X3 425e,,i3-4130
+,AMD Athlon XP-M 2400+,,T7100
+,Intel Xeon W3570,,i3-4130T
+,Intel Celeron E1400,,T7200
+,Intel Xeon E5640,,T7250
+,AMD A4-3310MX,,T7300
+,AMD Ryzen 3 4300U,,T7400
+,Intel Core i7-7800X,,T7500
+,Intel Celeron D 346,,T7600
+,AMD Sempron 3000+ EE SFF,,T7700
+,Intel Core i7-10700KF,,T8100
+,AMD Athlon 64 LE-1640B,,T8300
+,AMD Opteron 248,,T7800
+,Intel Pentium B950,,T9300
+,AMD Athlon II X4 615e,,T9400
+,Intel Mobile Pentium 4 HT 2.80,,T9500
+,Intel Core i7-640M,,T9550
+,Intel Xeon X5677,,T9600
+,Intel Core i3-4370,,T9800
+,Intel Core i3-7360X,,T9900
+,AMD Athlon XP 2200+,,SU9300
+,AMD A6-9500,,SU9400
+,AMD Athlon 64 FX-53,,SU9600
+,AMD Ryzen 7 PRO 4750GE,,SP9300
+,Intel Core i5-3317U,,SP9400
+,Intel Core i5-4590S,,SP9600
+,Intel Core i3-9100,,i3-4150
+,AMD Athlon 64 3800+,,i3-4150T
+,AMD Opteron 6272,,i3-4160
+,Intel Core i7-5930K,,i3-4160T
+,AMD Turion 64 ML-28,,i3-4170
+,Intel Core i3-4000M,,i3-4170T
+,Intel Core i7-10850H,,i3-4158U
+,Intel Core i5-1030G4,,i3-4120U
+,Intel Pentium 4-M 2.60,,i3-4112E
+,Intel Celeron 430,,i3-4110M
+,Intel Xeon Platinum 8360Y,,i3-4110E
+,Intel Core i5-3570S,,i3-4102E
+,AMD Opteron 240,,i3-4100M
+,Intel Core i7-2760QM,,i3-4100U
+,Intel Xeon MP 3.16,,i3-4100E
+,Intel Pentium Dual-Core E2200,,i3-4370T
+,Intel Atom E625C,,i3-4370
+,Intel Celeron G1610T,,i3-4360T
+,Intel Core i5-4330M,,i3-4360
+,Intel Core i5-7300HQ,,i3-4350T
+,Intel Celeron G1610,,i3-4350
+,Intel Mobile Pentium 4 HT 3.06,,i3-4340
+,AMD A6-5357M,,i3-4330TE
+,Intel Xeon L5518,,i3-4340TE
+,Intel Xeon E5645,,i3-4330T
+,AMD A6-9500E,,SL9380
+,Intel Core Duo ULV L2400,,SL9400
+,Intel Core Duo T2500,,SL9600
+,Intel Xeon E7-8890 v3,,SL9300
+,AMD Athlon X2 QL-67,,P7350
+,Intel Pentium 4 2.60,,P7370
+,Intel Xeon E3-1285 v6,,P7450
+,AMD Sempron 2400+,,P7550
+,AMD Ryzen 7 1700,,P7570
+,AMD Athlon 64 3000+,,P8400
+,Intel Core i7-3960X,,P8600
+,AMD Phenom II X6 1045T,,P8700
+,AMD A8-4500M,,P8800
+,Intel Xeon E5-2660 v2,,P9500
+,Intel Pentium 4 HT 3.00,,P9600
+,AMD Athlon 64 FX-60,,P9700
+,Intel Core i5-11400T,,L2500
+,AMD Athlon XP 3100+,,L2300
+,AMD Sempron 3600+,,L2400
+,Intel Core i5-10500,,L7200
+,AMD Ryzen 3 PRO 1200,,L7300
+,Intel Xeon Gold 6326,,L7400
+,AMD EPYC Embedded 3251,,L7500
+,Intel Xeon 3.6,,L7700
+,Intel Atom Z2760,,E4300
+,AMD Sempron 3400+,,i3-4330
+,Intel Pentium G3258,,E4400
+,AMD Opteron 856,,E4500
+,AMD A10-5745M,,E4600
+,Intel Core i5-560M,,E4700
+,Intel Pentium 4-M 2.20,,E6300
+,Intel Core i5-430M,,E6400
+,AMD Ryzen Threadripper 2920X,,E6320
+,Intel Core i5-8650K,,E6420
+,Intel Pentium 4 HT 540,,E6540
+,Intel Core i7-8565U,,E6550
+,Intel Atom CE4100,,E6600
+,Intel Core i9-7940X,,E6700
+,Intel Pentium Gold G6600,,E6750
+,Intel Core i9-9900KS,,E6850
+,Intel Atom Z3770,,E7200
+,AMD Opteron X2 865 HE,,E7300
+,Intel Core i7-980,,E7400
+,Intel Xeon Gold 6154,,E7500
+,AMD Ryzen 3 2300X,,E7600
+,Intel Pentium G3250,,E8190
+,Intel Atom Z500,,E8200
+,Intel Celeron E3300,,E8300
+,AMD Athlon 64 X2 4800+,,E8400
+,AMD Athlon 64 3200+,,E8500
+,AMD A10-7890K,,E8600
+,AMD A10-5757M,,Q6600
+,AMD Sempron X2 2100,,Q6700
+,Intel Xeon MP 3.00,,Q8200
+,Intel Core i7-9850HL,,Q8200S
+,Intel Core i7-860S,,Q8300
+,Intel Pentium 4 HT 3.40,,Q8400
+,Intel Celeron 2.60,,Q8400S
+,AMD Athlon 64 3500+,,Q9000
+,Intel Pentium 4 HT 630,,Q9100
+,Intel Celeron 445,,Q9300
+,AMD Turion X2 RM-70,,Q9400
+,AMD Opteron 146 HE,,Q9400S
+,Intel Core i3-4160,,Q9450
+,Intel Core i7-4790,,Q9500
+,Intel Core i5-3330,,Q9505
+,AMD Sempron 2500+,,Q9505S
+,Intel Core i7-7700,,Q9550
+,Intel Core Duo T2700,,Q9550S
+,Intel Core Solo ULV U1400,,Q9650
+,AMD Athlon 64 3500+,,i3-330E
+,AMD Ryzen 5 2400G,,i3-330M
+,AMD Ryzen 3 3250U,,i3-330UM
+,AMD Athlon II X2 260u,,i3-350M
+,Intel Xeon Phi 7230F,,i3-370M
+,Intel Xeon 2.8,,i3-380M
+,Intel Pentium 4 HT 3.2E,,i3-380UM
+,AMD Athlon XP 2400+,,i3-530
+,Intel Core 2 Duo E6320,,i3-540
+,AMD Phenom II X2 550 BE,,i3-550
+,Intel Celeron G1850,,i5-430M
+,Intel Pentium G622,,i5-430UM
+,Intel Core i3-9000,,i5-450M
+,AMD Athlon 64 FX-70,,i5-460M
+,Intel Atom 230,,i5-470UM
+,AMD Ryzen 5 3600,,i5-520E
+,Intel Pentium 4 HT 2.60,,i5-520M
+,AMD Ryzen 5 3580U,,i5-520UM
+,Intel Core i5-11500,,i5-540M
+,Intel Core i7-8706G,,i5-540UM
+,Intel Core i7-4960HQ,,i5-560M
+,AMD Mobile Athlon 64 3000+,,i5-560UM
+,Intel Pentium 4 1.5,,i5-580M
+,AMD Ryzen Embedded V1202B,,i5-650
+,Intel Core i7-870S,,i5-655K
+,Intel Xeon X5560,,i5-660
+,Intel Pentium 4 2.0,,i5-661
+,AMD Turion X2 Ultra ZM-80,,i5-670
+,AMD Athlon 64 X2 4600+,,i5-750
+,Intel Core 2 Extreme X6800,,i5-750S
+,AMD Opteron X2 170,,i5-760
+,Intel Xeon 5040,,i7-620LE
+,Intel Xeon Phi 7250,,i7-620LM
+,Intel Xeon Gold 6328HL,,i7-620M
+,Intel Celeron D 330,,i7-620UE
+,Intel Core M-5Y10,,i7-620UM
+,AMD Ryzen 5 4600GE,,i7-640LM
+,Intel Core i7-1185G7,,i7-640M
+,Intel Core i9-7900X,,i7-640UM
+,Intel Xeon 3.20,,i7-660LM
+,Intel Celeron 2950M,,i7-660UE
+,Intel Core i9-10900,,i7-660UM
+,Intel Core M-5Y71,,i7-680UM
+,Intel Xeon W-3175X,,i7-740QM
+,AMD Turion X2 Ultra ZM-85,,i7-840QM
+,AMD Ryzen 3 2200G,,i7-860S
+,AMD Phenom II X4 945 (95W),,i7-870
+,AMD EPYC 7F52,,i7-870S
+,Intel Mobile Pentium 4 HT 518,,i7-875K
+,Intel Core i7-1065G7,,i7-880
+,AMD Athlon 64 2850e,,i7-930
+,Intel Core i7-6700,,i7-940
+,AMD Athlon 64 X2 4800+,,i7-950
+,Intel Xeon 5080,,i7-960
+,Intel Celeron G465,,i7-970
+,Intel Core i5-2405S,,i7-980
+,Intel Pentium III 1000S,,i3-560
+,Intel Pentium B960,,i5-480M
+,AMD Opteron 240,,i3-390M
+,AMD Athlon 64 X2 4200+ EE,,i5-680
+,AMD Phenom II X6 1075T,,i7-610E
+,Intel Core 2 Quad Q6600 (95W),,i7-720QM
+,Intel Pentium Dual-Core T4300,,i7-820QM
+,Intel Core i5-7500,,i7-860
+,Intel Celeron G1830,,i7-920
+,Intel Xeon 7130N,,i3-2100
+,Intel Xeon Phi 3120A,,i3-2100T
+,Intel Core i3-4350,,i3-2105
+,AMD A10-6700,,i3-2102
+,Intel Xeon MP 3.16,,i3-2115C
+,Intel Core 2 Duo E7500,,i3-2120
+,AMD A10-6700T,,i3-2120T
+,AMD Athlon XP 1800+,,i3-2125
+,Intel Xeon E5-2440 v2,,i3-2130
+,AMD A9-9410 SoC,,i3-2310M
+,Intel Core i3-4130T,,i3-2310E
+,Intel Core i5-4250U,,i3-2312M
+,AMD Athlon II X2 240,,i3-2328M
+,AMD Opteron 140,,i3-2330M
+,Intel Xeon Gold 5318Y,,i3-2330E
+,Intel Celeron G3950,,i3-2340UE
+,AMD A8-6500,,i3-2348M
+,Intel Pentium M 745,,i3-2350M
+,AMD Athlon 64 X2 4600+,,i3-2357M
+,AMD Opteron 4376 HE,,i3-2365M
+,Intel Xeon E5-2640 v2,,i3-2367M
+,AMD Ryzen 3 1200,,i3-2370M
+,AMD Phenom II X4 970 BE,,i3-2375M
+,Intel Celeron N2820,,i3-2377M
+,Intel Pentium G4560T,,i5-2300
+,Intel Xeon X5660,,i5-2310
+,AMD Opteron X2 165,,i5-2320
+,Intel Core i3-3217UE,,i5-2380P
+,AMD Sempron 2800+,,i5-2390T
+,AMD Phenom II X2 B53,,i5-2400
+,AMD Athlon II X2 255,,i5-2400S
+,Intel Core i3-5005U,,i5-2405S
+,Intel Pentium 4 HT 551,,i5-2410M
+,Intel Core i7-3517UE,,i5-2430M
+,Intel Xeon E5502,,i5-2450M
+,Intel Celeron G555,,i5-2435M
+,AMD Athlon 64 3300+,,i5-2450P
+,Intel Mobile Pentium 4 2.66,,i5-2467M
+,Intel Core i9-11900T,,i5-2500
+,AMD Opteron 6276,,i5-2500K
+,AMD Opteron 6278,,i5-2500S
+,Intel Xeon E5-1620 v2,,i5-2500T
+,AMD Phenom X4 9750 (95W),,i5-2510E
+,AMD Mobile Athlon 64 2700+,,i5-2515E
+,AMD Phenom X3 8600,,i5-2520M
+,AMD FX-4320,,i5-2540M
+,AMD Athlon 64 X2 5400+ BE,,i5-2537M
+,Intel Core i3-8109U,,i5-2550K
+,Intel Celeron N2807,,i7-2600
+,Intel Core i5-660,,i5-2557M
+,Intel Xeon Bronze 3106,,i7-2600K
+,Intel Celeron D 350,,i7-2600S
+,AMD Opteron X2 175,,i7-2610UE
+,Intel Pentium Gold G6405,,i7-2617M
+,Intel Celeron 2.10,,i7-2620M
+,Intel Core i5-11600KF,,i7-2630QM
+,Intel Xeon Platinum 9222,,i7-2629M
+,Intel Core i5-2390T,,i7-2635QM
+,AMD A6-5400B,,i7-2637M
+,Intel Core i7-4790K,,i7-2640M
+,Intel Pentium 4 519,,i7-2649M
+,Intel Pentium III 1000,,i7-2655LE
+,AMD Ryzen 7 5800HS,,i7-2657M
+,AMD Ryzen Threadripper 3970X,,i7-2675QM
+,Intel Pentium 4 HT 524,,i7-2670QM
+,AMD Athlon X2 4450e,,i7-2677M
+,Intel Core 2 Extreme QX9650,,i7-2700K
+,Intel Atom D2700,,i7-2715QE
+,Intel Xeon Platinum 8353H,,i7-2710QE
+,AMD Ryzen 5 1600,,i7-2720QM
+,AMD Athlon XP 1600+,,i7-2760QM
+,AMD Ryzen Threadripper 3990X,,i7-2860QM
+,Intel Xeon Phi 5120D,,i7-2820QM
+,Intel Atom S1240,,i3-3110M
+,AMD Athlon 64 3200+,,i3-3115C
+,Intel Pentium D 950,,i3-3120M
+,AMD Athlon II X4 651,,i3-3120ME
+,Intel Pentium 4 1.6,,i3-3130M
+,Intel Core i5-6600,,i3-3210
+,Intel Xeon E7-4830 v3,,i3-3217U
+,AMD EPYC 7642,,i3-3217UE
+,AMD Phenom II X4 940 BE,,i3-3220
+,Intel Xeon E5-2407 v2,,i3-3220T
+,Intel Core i5-10600KF,,i3-3225
+,AMD Athlon 64 4000+,,i3-3227U
+,Intel Core i5-2467M,,i3-3240
+,Intel Core 2 Extreme QX6800,,i3-3229Y
+,Intel Core i9-9900,,i3-3245
+,AMD Ryzen 7 3700X,,i3-3240T
+,Intel Core i7-5960X,,i3-3250
+,Intel Celeron G540,,i5-3210M
+,Intel Pentium G4400,,i3-3250T
+,Intel Atom E625CT,,i5-3230M
+,Intel Pentium 4 HT 3.06,,i5-3230M
+,Intel Core i5-7400,,i5-3317U
+,Intel Pentium III 1200,,i5-3320M
+,AMD Sempron 3100+,,i5-3210M
+,Intel Xeon X5670,,i5-3330
+,AMD Ryzen Threadripper 1920,,i5-3330S
+,Intel Core i7-2760QM,,i5-3337U
+,Intel Core i7-920,,i5-3339Y
+,Intel Celeron E3200,,i5-3340
+,Intel Core i5-9500F,,i5-3340S
+,Intel Xeon MP 7041 Dual-Core,,i5-3340M
+,Intel Xeon E3-1225,,i5-3350P
+,Intel Core Solo T1300,,i5-3360M
+,Intel Core i5-3470T,,i5-3427U
+,Intel Pentium 4 HT 530,,i5-3380M
+,Intel Pentium 4 HT 650,,i5-3437U
+,Intel Xeon W3565,,i5-3439Y
+,Intel Pentium E6300,,i5-3450
+,Intel Core i3-10105T,,i5-3450S
+,AMD Athlon XP 1900+,,i5-3470
+,AMD A4-1200,,i5-3470S
+,Intel Xeon 2.4,,i5-3470T
+,AMD Opteron 242,,i5-3475S
+,Intel Celeron D 335,,i5-3550
+,Intel Xeon E3-1280 v2,,i5-3550S
+,Intel Core i7-2860QM,,i5-3570
+,Intel Xeon E5-2687W v2,,i5-3570K
+,Intel Core i7-10870H,,i5-3570T
+,AMD Athlon 220GE,,i5-3570S
+,Intel Atom Z610,,i5-3610ME
+,Intel Celeron 847,,i7-3517U
+,Intel Xeon X5680,,i7-3520M
+,Intel Celeron D 352,,i7-3517UE
+,Intel Core M-5Y51,,i7-3537U
+,Intel Celeron 450,,i7-3540M
+,AMD EPYC 7443,,i7-3555LE
+,AMD Athlon XP 3000+,,i7-3610QE
+,Intel Core i5-8400T,,i7-3610QM
+,Intel Celeron N2830,,i7-3612QM
+,AMD Opteron 3320 EE,,i7-3612QE
+,AMD C-30,,i7-3612QM
+,AMD Ryzen 7 4800HS,,i7-3615QE
+,AMD Turion 64 ML-44,,i7-3615QM
+,Intel Celeron B710,,i7-3630QM
+,Intel Core i5-10400F,,i7-3632QM
+,AMD Opteron X2 880,,i7-3632QM
+,Intel Core i7-4950HQ,,i7-3635QM
+,Intel Core i3-1120G4,,i7-3667U
+,Intel Pentium SU2700,,i7-3687U
+,Intel Pentium D 820,,i7-3689Y
+,Intel Atom E640T,,i7-3720QM
+,Intel Xeon 5160,,i7-3770
+,AMD Opteron 848 HE,,i7-3740QM
+,Intel Core i3-2312M,,i7-3770K
+,AMD Opteron 152,,i7-3770S
+,AMD Athlon XP 2000+,,i7-3770T
+,AMD Opteron X2170,,i7-3820QM
+,AMD Opteron X2 860 HE,,i7-3840QM
+,AMD Phenom II X2 560 BE,,QX6700
+,Intel Pentium P6000,,QX6800
+,Intel Atom 330,,QX6850
+,Intel Pentium 4 505,,QX9300
+,Intel Celeron N2940,,QX9650
+,Intel Pentium 2020M,,QX9770
+,AMD FX-6300,,QX9775
+,AMD Athlon II X2 280,,X6800
+,AMD Opteron 6366 HE,,X7800
+,Intel Pentium III 1133,,X7900
+,Intel Pentium D 920,,X9000
+,Intel Pentium 4 HT EE 3.73,,X9100
+,Intel Atom Z615,,i7-920XM
+,AMD Opteron A1120,,i7-940XM
+,AMD Athlon 64 3200+,,i7-965
+,Intel Xeon Platinum 8268,,i7-975
+,Intel Core i5-5350U,,i7-980X
+,Intel Xeon Gold 5318H,,i7-990X
+,Intel Xeon E5530,,i7-2920XM
+,Intel Core 2 Extreme QX9770,,D1508
+,AMD Opteron 840 EE,,D1509
+,Intel Atom E660T,,D1517
+,AMD A8-3520M,,D1519
+,Intel Core i5-8259U,,G2020
+,AMD Athlon X2 QL-64,,G2030
+,Intel Core i7-620M,,G2020T
+,AMD Athlon 64 X2 5600+,,G2030T
+,Intel Core i9-11900,,G2100T
+,AMD Sempron 2800+,,G2120
+,Intel Core i5-3365M,,G2120T
+,AMD Phenom II X3 720 BE,,G2130
+,AMD EPYC 7252,,G2140
+,AMD Athlon X2 BE-2300,,G4400TE
+,Intel Core i7-4771,,G4400T
+,Intel Pentium D 955 EE,,G4400
+,Intel Core i7-4712HQ,,G4560
+,AMD Sempron 3000+,,G4520
+,Intel Xeon 3.0,,G4500
+,Intel Core i5-2430M,,G4500T
+,Intel Xeon Gold 5320H,,G4560T
+,AMD Athlon 64 X2 5400+,,G4620
+,AMD A6-4400M,,G4600
+,AMD Ryzen 5 4600G,,G4600T
+,Intel Xeon Gold 6354,,G3220
+,AMD Ryzen 7 PRO 2700U,,G3240
+,Intel Xeon Platinum 8380HL,,G3220T
+,AMD Athlon 64 X2 5000+ BE,,G3240T
+,AMD E1-2500,,G3250
+,AMD Opteron X2 890,,G3258
+,Intel Core i3-2330M,,G3260
+,Intel Core 2 Duo E6850,,G3250T
+,AMD A8-3870K,,G3260T
+,AMD Sempron 2800+,,G3320TE
+,Intel Core i7-8670,,G3420
+,AMD Ryzen 5 1600X,,G3420T
+,Intel Pentium 4 HT 515,,G3430
+,Intel Pentium Gold G5600,,G3440
+,Intel Aubrey Isle,,G3440T
+,AMD Athlon 64 2000+,,G3450
+,Intel Core i5-580M,,G3450T
+,AMD Athlon 64 3200+,,G3460
+,Intel Core i3-6320,,G3460T
+,Intel Core 2 Duo T7700,,G3470
+,AMD A8-3820,,2002E
+,Intel Core 2 Duo T7200,,2950M
+,Intel Core i3-1110G4,,2955U
+,Intel Mobile Pentium 4 3.06,,2957U
+,AMD Ryzen 7 4800H,,2970M
+,AMD Ryzen 5 2500X,,2961Y
+,Intel Pentium 4 2.2,,2980U
+,Intel Celeron E1500,,2981U
+,Intel Pentium G620,,1005M
+,AMD Phenom X4 9850B,,1007U
+,Intel Pentium 4 2.0,,1017U
+,Intel Core i7-9800X,,1019Y
+,AMD Athlon 64 X2 4400+,,1020E
+,Intel Celeron E1600,,1020M
+,AMD Phenom X3 8650,,1037U
+,AMD Opteron 246,,1047UE
+,AMD Athlon Silver 3050GE,,360
+,Intel Pentium Gold G5400,,356
+,Intel Core i5-10400H,,355
+,AMD Athlon II X4 645,,352
+,Intel Xeon MP 3.33,,351
+,AMD A10-5750M,,350J
+,Intel Core 2 Quad Q9100,,350
+,Intel Xeon X5672,,347
+,Intel Atom Z510P,,346
+,AMD EPYC 7713P,,345J
+,AMD EPYC 7351P,,345
+,Intel Core i7-3740QM,,341
+,AMD Sempron 3300+,,340J
+,AMD Athlon XP 1500+,,
+,Intel Core i5-3610ME,,340
+,Intel Celeron G1820T,,
+,Intel Xeon Phi 3120P,,336
+,AMD Sempron X2 2300,,
+,AMD Opteron X2 865,,
+,Intel Xeon E3-1220,,335J
+,AMD A8-5500,,
+,AMD Phenom II X3 720,,
+,Intel Xeon W3520,,335
+,Intel Core i7-4820K,,
+,Intel Core M-5Y10c,,
+,Intel Xeon E5503,,
+,AMD EPYC 7453,,383
+,AMD Ryzen Threadripper PRO 3975WX,,335
+,AMD Ryzen Threadripper PRO 3945WX,,
+,Intel Xeon Gold 6330H,,
+,Intel Core i5-5257U,,
+,Intel Core i7-7700T,,
+,Intel Core i3-7320T,,373
+,Intel Celeron G3930,,331
+,AMD Athlon 64 X2 6400+ BE,,807
+,Intel Core i3-9320,,B800
+,Intel Core 2 Extreme QX6850,,G530
+,Intel Core 2 Duo E8200,,
+,Intel Xeon Platinum 8260M,,
+,AMD Opteron 844,,
+,AMD Athlon 64 LE-1600,,
+,AMD Athlon 64 3400+,,
+,Intel Core i5-760,,353
+,AMD Ryzen 7 PRO 2700X,,330J
+,AMD A6-4455M,,807UE
+,Intel Pentium 4 1.3,,B810
+,AMD EPYC 75F3,,G530T
+,AMD EPYC 7343,,
+,AMD Z-60,,
+,AMD Phenom X4 9950 BE (140W),,
+,AMD Athlon 64 X2 3800+,,
+,AMD Ryzen Embedded V1756B,,
+,AMD Turion 64 ML-32,,333
+,Intel Xeon E5607,,330
+,AMD Ryzen 7 PRO 4750G,,827E
+,Intel Core i3-7100,,B810E
+,Intel Xeon Gold 6348H,,G540
+,AMD Sempron 180,,
+,AMD Athlon XP 2200+,,
+,AMD Opteron 840,,
+,AMD Athlon II X2 215,,
+,Intel Core 2 Duo E4500,,
+,AMD EPYC 7401,,
+,AMD Athlon 64 3200+,,390
+,Intel Pentium 4 1.5,,330
+,Intel Xeon L5530,,B815
+,Intel Core 2 Extreme X7900,,847
+,AMD Phenom X3 8750,,G540T
+,Intel Pentium 3550M,,573
+,AMD A4-5050,,
+,AMD Athlon 64 X2 5200+ EE,,
+,AMD Athlon 240GE,,
+,Intel Core i5-2320,,
+,Intel Celeron 2.20,,
+,Intel Core i7-10885H,,
+,AMD Athlon 64 4000+,,
+,AMD Athlon X2 BE-2350,,380
+,AMD Opteron 150,,326
+,AMD Athlon II X4 620e,,B820
+,Intel Atom Z530P,,847E
+,Intel Pentium G4600,,G550
+,Intel Pentium G4520,,530
+,Intel Xeon Platinum 8256,,443
+,Intel Xeon Gold 6328H,,
+,AMD Ryzen 7 5800X,,
+,AMD Athlon 64 2650e,,
+,AMD Phenom II X3 B77,,
+,Intel Core i3-2350M,,
+,AMD Opteron 852,,
+,AMD Sempron 3000+,,
+,AMD A6-5400K,,370
+,Intel Mobile Pentium 4 HT 3.20,,325J
+,AMD Athlon 1000,,B830
+,Intel Core i3-4370,,857
+,AMD Sempron 3300+,,G550T
+,Intel Atom Z600,,
+,AMD Athlon 64 X2 5000+,,450
+,AMD Sempron 3600+,,523
+,Intel Core i5-10200H,,540
+,AMD Opteron 154,,
+,Intel Core i3-1000G1,,
+,Intel Xeon MP 3.33,,
+,AMD Athlon 64 3800+,,
+,Intel Core i5-11400F,,
+,Intel Xeon E5540,,
+,Intel Xeon 3.4,,423
+,Intel Core i7-5500U,,360
+,AMD Athlon II X3 460,,326
+,Intel Atom Z520PT,,G555
+,Intel Celeron G4900,,867
+,Intel Pentium 4 2.26,,B840
+,Intel Celeron G530T,,B710
+,Intel Core i5-11500T,,G440
+,Intel Core i5-8600,,
+,AMD Phenom II X6 1065T,,E3500
+,Intel Core i5-5300U,,T1700
+,Intel Core i7-3840QM,,550
+,AMD Phenom II X2 550,,
+,Intel Xeon X5550,,
+,Intel Core i7-930,,
+,Intel Pentium G870,,
+,Intel Core i5-4440S,,450
+,Intel Xeon L5508,,350
+,AMD Phenom II X4 955 (95W),,325
+,AMD Opteron X2 265 HE,,877
+,AMD A8-3500M,,B720
+,Intel Pentium 4 HT 570,,G460
+,Intel Core i7-980X,,
+,AMD EPYC 7513,,E3400
+,AMD Ryzen Threadripper 2950X,,T3500
+,Intel Xeon MP 3.33,,T1600
+,AMD A8-6600K,,E1200
+,AMD A8-3800,,560
+,AMD Athlon XP 3200+,,215
+,Intel Core i9-10900KF,,
+,AMD Athlon 64 2600+,,
+,Intel Core i3-4360T,,
+,Intel Xeon W3690,,
+,Intel Xeon Platinum 8368,,
+,AMD Athlon 650,,
+,AMD Sempron 3100+,,440
+,AMD FX-6330,,340
+,AMD Athlon 64 FX-53,,320
+,AMD Turion X2 Ultra ZM-86,,G465
+,Intel Core 2 Extreme X9100,,887
+,Intel Xeon Gold 6338N,,725C
+,Intel Atom E645CT,,P4600
+,Intel Core 2 Quad Q9400S,,U3600
+,Intel Core i7-4910MQ,,
+,Intel Atom N450,,T3300
+,Intel Pentium G620T,,E3300
+,AMD Athlon X4 940,,900
+,AMD Athlon XP 1700+,,743
+,AMD Opteron 254,,570
+,Intel Xeon Silver 4310T,,E1400
+,Intel Core i5-8350U,,440
+,Intel Xeon E3-1245,,
+,Intel Core i9-10990XE,,
+,Intel Core i5-5287U,,
+,Intel Core 2 Solo ULV SU3300,,
+,AMD Sempron LE-1200,,
+,Intel Core i5-8400H,,430
+,Intel Pentium 4 1.7,,
+,AMD FX-8120,,330
+,AMD Ryzen 5 4500U,,315J
+,Intel Core i5-650,,G470
+,Intel Pentium 4-M 1.80,,787
+,Intel Celeron G440,,925
+,Intel Core Duo T2300,,U3405
+,Intel Xeon W3505,,
+,AMD A6-6400K,,320
+,Intel Xeon E3-1270,,P4505
+,AMD Athlon 64 FX-55,,E3200
+,AMD A4-3330MX,,723
+,Intel Xeon Gold 6330,,575
+,AMD Phenom II X4 955 BE,,E1500
+,AMD Opteron 142,,430
+,AMD Opteron 240,,530
+,AMD Sempron 2200+,,
+,Intel Core i5-3210M,,
+,Intel Pentium B940,,
+,Intel Core i3-3220,,
+,AMD EPYC 7282,,
+,Intel Core i5-8550,,
+,AMD Athlon 64 X2 5200+,,420
+,AMD Athlon 64 4000+,,320
+,Intel Pentium 4 HT EE 3.40,,315
+,Intel Pentium U5400,,927UE
+,Intel Pentium 4 2.66,,797
+,AMD Ryzen 7 3800X,,763
+,Intel Pentium 3805U,,
+,AMD Athlon 1000,,U3400
+,Intel Core i3-7320,,P1053
+,Intel Pentium E5500,,P4500
+,AMD EPYC 7663,,SU2300
+,Intel Xeon 3.2,,T3100
+,Intel Xeon E3-1275 v2,,722
+,AMD Athlon XP 2800+,,585
+,AMD Ryzen 7 PRO 1700X,,E1600
+,Intel Xeon E3-1240 v2,,220
+,Intel Core 2 Duo E7400,,
+,Intel Celeron 3755U,,420
+,AMD Athlon 64 3700+,,520
+,AMD Ryzen 5 3550H,,
+,AMD Athlon XP 2600+,,
+,Intel Core i3-8100,,
+,AMD Ryzen 7 2700E,,
+,Intel Core i3-550,,410
+,Intel Xeon E5504,,310
+,Intel Core i7-8709G,,310
+,AMD EPYC 7302P,,3106
+,Intel Core i5-3470,,4108
+,AMD Athlon II X4 651K,,4109T
+,Intel Core i3-7120,,4110
+,AMD A8-4555M,,4112
+,AMD Athlon XP 2700+,,4114T
+,Intel Pentium 4-M 2.40,,4114
+,AMD Athlon XP 2100+,,4116
+,AMD Opteron 4310 EE,,4116T
+,AMD Phenom II X4 955 (125W),,5115
+,Intel Core i3-540,,5118
+,AMD Phenom X4 9850 (125W),,5119T
+,Intel Celeron 420,,5120
+,AMD Athlon 64 FX-55,,5122
+,Intel Celeron N2806,,5120T
+,AMD Opteron 246,,6126
+,AMD A6-3420M,,6126F
+,Intel Xeon Phi 7230,,6126T
+,Intel Pentium G3440,,6128
+,Intel Core i3-2367M,,6130
+,Intel Xeon Gold 6336Y,,6130F
+,Intel Xeon 5030,,6130T
+,AMD Athlon 64 3400+,,6132
+,AMD Opteron 846,,6134M
+,Intel Celeron D 325,,6134
+,Intel Celeron 220,,6136
+,Intel Core 2 Quad Q9550,,6138
+,Intel Core i7-4600U,,6138F
+,AMD Ryzen Threadripper 3960X,,6138T
+,Intel Core i7-6850K,,6140
+,AMD Athlon 64 X2 5000+,,6140M
+,AMD FX-8300,,6142
+,AMD Sempron LE-1100,,6142M
+,AMD Phenom X3 8250e,,6144
+,Intel Xeon L5638,,6142F
+,AMD Sempron 3300+,,6146
+,Intel Core 2 Quad Q8200S,,6148
+,AMD EPYC 7352,,6148F
+,Intel Atom N2800,,6150
+,Intel Pentium 4 1.7,,6152
+,AMD Athlon 64 3000+,,6154
+,Intel Core i7-860,,8153
+,Intel Xeon Phi 7290,,8156
+,Intel Core i7-875K,,8158
+,AMD Ryzen 3 3300U,,8160
+,Intel Atom D2500,,8160F
+,AMD Athlon 64 X2 3800+,,8160T
+,Intel Core i3-2330E,,8160M
+,AMD Ryzen 5 4600H,,8164
+,AMD Ryzen 3 PRO 2300U,,8168
+,AMD E-240,,8170
+,Intel Core i5-540M,,8170M
+,AMD Opteron 142,,8176
+,Intel Core i7-7700K,,8176F
+,Intel Xeon E5606,,8176M
+,Intel Core i7-10710U,,8180
+,Intel Core i5-8500,,8180M
+,AMD Athlon 64 3000+,,E7-4830V4
+,Intel Core i9-10900F,,E7-4820V4
+,Intel Core i5-3360M,,E7-4850V4
+,Intel Core Solo ULV U1300,,E7-8860V4
+,AMD Sempron 3500+,,E7-8867V4
+,AMD Opteron 844,,E7-8870V4
+,Intel Celeron 2961Y,,E7-8880V4
+,Intel Xeon W5590,,E7-8890V4
+,AMD Sempron 3000+,,E7-8891V4
+,Intel Core i3-3217U,,E7-8893V4
+,AMD Ryzen 9 5980HS,,E7-8894V4
+,AMD Opteron 140,,E7-4830V3
+,Intel Pentium 2117U,,E7-4820V3
+,AMD FX-4300,,E7-4850V3
+,AMD Opteron 148,,E7-8860V3
+,AMD EPYC 7351,,E7-8867V3
+,Intel Celeron N2810,,E7-8870V3
+,Intel Pentium Gold G6505,,E7-8880V3
+,AMD Ryzen 7 2700X 50th Anniversary,,E7-8880LV3
+,Intel Xeon Gold 6342,,E7-8890V3
+,Intel Pentium M 750,,E7-8891V3
+,AMD Athlon II X2 210e,,E7-8893V3
+,Intel Pentium P6200,,E7-2870V2
+,Intel Xeon E3-1230 v2,,E7-2880V2
+,Intel Core i7-4600M,,E7-2890V2
+,Intel Core i9-10980HK,,E7-4809V2
+,Intel Atom Z3740,,E7-4820V2
+,AMD Opteron A1170,,E7-4830V2
+,Intel Core 2 Duo T7400,,E7-4850V2
+,Intel Core i7-8086K,,E7-4860V2
+,AMD EPYC 7643,,E7-4870V2
+,AMD Phenom II X4 945 (125W),,E7-4880V2
+,AMD Ryzen 3 2200U,,E7-4890V2
+,AMD Turion 64 ML-30,,E7-8893V2
+,Intel Core i5-3320M,,E7-8891V2
+,Intel Core i7-4860EQ,,E7-8890V2
+,AMD Opteron X2 270,,E7-8880LV2
+,Intel Core i5-1030G7,,E7-8880V2
+,Intel Core i9-11900K,,E7-8870V2
+,Intel Atom Z612,,E7-8857V2
+,AMD Opteron 4332 HE,,E7-8850V2
+,AMD Opteron 854,,E7-2820
+,Intel Pentium D 820,,E7-2830
+,Intel Xeon 2.8,,E7-2850
+,AMD EPYC 7262,,E7-2860
+,Intel Xeon Platinum 8376H,,E7-2870
+,AMD Athlon XP 2600+ DTR,,E7-4807
+,Intel Core i7-10510U,,E7-4820
+,Intel Core i3-7100T,,E7-4830
+,Intel Core i7-9850H,,E7-4850
+,AMD Sempron 3000+,,E7-4860
+,Intel Xeon Gold 6312U,,E7-4870
+,AMD Ryzen 9 4900H,,E7-8830
+,Intel Core 2 Duo E6550,,E7-8837
+,AMD Opteron 246,,E7-8850
+,AMD Athlon 64 X2 5000+ EE,,E7-8860
+,Intel Xeon E3-1275,,E7-8867L
+,Matrox Parhelia 128 MB,,E7-8870
+,NVIDIA GeForce MX150 GP107,,i7-5600U
+,Intel GMA 500,,i7-5650U
+,ATI Radeon HD 4350 AGP,,i7-5775C
+,NVIDIA GeForce 7100 GS,,i7-5775R
+,ATI Radeon X700 AGP,,i7-5700HQ
+,NVIDIA GeForce 6800 XT,,i7-5700EQ
+,ATI Radeon HD 2900 PRO,,i7-5750HQ
+,NVIDIA ION,,i7-5850EQ
+,Intel UHD Graphics 630,,i7-5850HQ
+,AMD Wii U GPU,,i7-5950HQ
+,AMD Radeon RX 6800,,i7-5500U
+,Intel HD Graphics,,M3-6Y30
+,NVIDIA GeForce GTX 760 OEM,,i3-6098P
+,Intel Iris Graphics 540,,i5-6287U
+,NVIDIA GeForce GT 445M,,i5-6267U
+,AMD Radeon HD 8400 IGP,,M3-7Y30
+,ATI Radeon E4690 MXM,,i3-7100H
+,NVIDIA Tesla V100 SXM2 32 GB,,i3-7100U
+,NVIDIA Tesla C870,,i3-7167U
+,NVIDIA GeForce GTX 470,,i3-7100
+,NVIDIA GeForce GT 735M,,i3-7100E
+,NVIDIA GeForce Go 6200,,i3-7100T
+,NVIDIA GRID K140Q,,i3-7101TE
+,AMD Radeon R7 Mobile Graphics,,i3-7101E
+,ATI Xbox 360 GPU 80nm,,i3-7102E
+,NVIDIA GeForce GTX TITAN Z,,i3-7130U
+,NVIDIA GeForce4 MX 4000 PCI,,i3-7300T
+,NVIDIA Jetson Nano GPU,,i3-7300
+,Intel HD Graphics 3000,,i3-7320
+,AMD Radeon RX 560 XT,,i3-7350K
+,Intel UHD Graphics,,M3-7Y32
+,NVIDIA Quadro4 900 XGL,,i7-6500U
+,ATI Mobility Radeon 9600 PRO,,i7-6560U
+,NVIDIA GeForce GTX 860M OEM,,i7-6567U
+,AMD Radeon HD 7350 OEM,,i7-6600U
+,NVIDIA GeForce GTX 970M,,i7-6650U
+,ATI All-In-Wonder 9500,,i7-6660U
+,NVIDIA P102-101,,i7-6700HQ
+,AMD Radeon R7 M445,,i7-6770HQ
+,NVIDIA GRID M3-3020,,i7-6700
+,ATI Radeon X800 GTO,,i7-6700TE
+,NVIDIA GeForce 305M,,i7-6700T
+,ATI Mobility Radeon HD 3870 X2,,i7-6700K
+,3dfx Spectre 1000,,i7-6785R
+,Intel HD Graphics 5300,,i7-6820EQ
+,Matrox QID LP PCIe,,i7-6820HK
+,NVIDIA GeForce GTX 660 OEM,,i7-6820HQ
+,NVIDIA GeForce GTX 460 SE,,i7-6822EQ
+,AMD Radeon R5 M255,,i7-6870HQ
+,ATI Radeon X1600 PRO AGP,,i7-6920HQ
+,NVIDIA GeForce Go 7900 GS,,i7-6970HQ
+,ATI Radeon 7000,,i5-6260U
+,AMD Radeon HD 7450A,,i5-6200U
+,NVIDIA GeForce 9800 GT Rebrand,,i5-6300U
+,NVIDIA GeForce4 MX 4000,,i5-6300HQ
+,NVIDIA GeForce 8800 GTS 320,,i5-6350HQ
+,NVIDIA Tegra 2 GPU,,i5-6360U
+,NVIDIA GeForce GT 540M,,i5-6442EQ
+,NVIDIA Tesla V100S PCIe 32 GB,,i5-6440HQ
+,NVIDIA GeForce MX450 25W,,i5-6440EQ
+,NVIDIA GeForce GTX 470 PhysX Edition,,i5-6400T
+,AMD Radeon Pro Vega II,,i5-6400
+,NVIDIA GeForce 6800,,i5-6402P
+,NVIDIA Tesla P40,,i5-6500TE
+,AMD Radeon E8870,,i5-6500T
+,NVIDIA GeForce MX150,,i5-6500
+,ATI All-In-Wonder 9800 PRO,,i5-6585R
+,NVIDIA Quadro FX 1400,,i5-6600T
+,ATI Radeon HD 2950 XTX,,i5-6600K
+,AMD Radeon Pro 5300,,i5-6685R
+,ATI Radeon HD 2600 PRO,,i5-6600
+,NVIDIA A10 PCIe,,i3-6006U
+,ATI Radeon DDR VIVO SE,,i3-6100TE
+,NVIDIA GeForce GTX 470 X2,,i3-6100T
+,NVIDIA Quadro 2000,,i3-6100
+,NVIDIA GRID K560Q,,i3-6167U
+,3dfx Spectre 2000,,i3-6157U
+,NVIDIA GeForce GTS 250,,i3-6102E
+,ATI Radeon X850 XT,,i3-6100U
+,NVIDIA Quadro 4000M,,i3-6100H
+,NVIDIA GRID M60-8Q,,i3-6320
+,NVIDIA GeForce4 MX 440-8x,,i3-6300T
+,NVIDIA Quadro P3200 Mobile,,i3-6100E
+,NVIDIA GeForce 9700M GTS,,i3-6300
+,ATI All-In-Wonder 9200 SE,,M5-6Y54
+,NVIDIA GeForce PCX 4300,,M5-6Y57
+,ATI Mobility Radeon HD 2600 XT,,M7-6Y75
+,NVIDIA GeForce GTX 760M,,i7-5550U
+,ATI Mobility Radeon HD 5450,,i7-5557U
+,NVIDIA GeForce 6600 GT AGP,,
+,AMD Radeon HD 8790M,,
+,NVIDIA GeForce GT 120 OEM,,
+,AMD Radeon R7 340 OEM,,
+,ATI Radeon X1950 PRO,,
+,Intel HD Graphics 620,,
+,AMD Radeon RX 580 OEM,,
+,XGI Volari Duo V5 Ultra,,
+,AMD Radeon 550X Mobile,,
+,NVIDIA GeForce GT 630M,,
+,ATI Mobility Radeon 9200,,
+,ATI FireGL X3-256,,
+,NVIDIA Quadro FX 1500M,,
+,NVIDIA GeForce 9200,,
+,NVIDIA Quadro FX 4600 SDI,,
+,NVIDIA Quadro T1000 Mobile,,
+,NVIDIA Playstation 3 GPU 90nm,,
+,3dfx Voodoo4-2 4800 AGP,,
+,AMD Radeon RX 570,,
+,ATI Radeon 9700 PRO,,
+,NVIDIA Tesla K40s,,
+,NVIDIA GeForce GTX 1050 Ti Mobile,,
+,AMD Radeon HD 6310 IGP,,
+,ATI Mobility Radeon HD 4570,,
+,NVIDIA Quadro2 MXR Low Profile,,
+,AMD Radeon R7 250 OEM,,
+,ATI Radeon X1650 AGP,,
+,NVIDIA Quadro RTX 4000 Max-Q,,
+,NVIDIA GeForce4 MX 440-SE,,
+,NVIDIA GeForce 9600 GSO,,
+,NVIDIA GeForce4 Ti 4800,,
+,NVIDIA GeForce GTX 560 SE,,
+,NVIDIA Quadro FX Go1000,,
+,AMD Radeon R7 240,,
+,Sony Playstation 2 GPU 180nm,,
+,NVIDIA GeForce FX 5500,,
+,NVIDIA GeForce GT 1030 GK107,,
+,Intel HD Graphics 520,,
+,AMD Radeon HD 7510M,,
+,AMD Radeon R6 Mobile Graphics,,
+,NVIDIA Quadro RTX 3000 Max-Q,,
+,ATI Mobility Radeon HD 5850,,
+,NVIDIA GeForce GTX 1060 6 GB GDDR5X,,
+,Intel Iris Pro Graphics 5200,,
+,NVIDIA GeForce GTX 950M Mac Edition,,
+,AMD Radeon HD 6990,,
+,NVIDIA GeForce GT 740M,,
+,ATI Radeon X300 SE HyperMemory,,
+,NVIDIA GeForce 6600 VE,,
+,AMD Radeon R5 A240,,
+,NVIDIA Quadro 4100,,
+,NVIDIA GeForce 310M,,
+,NVIDIA Tesla T10 Processor,,
+,NVIDIA Quadro M520 Mobile,,
+,Intel GMA X3500,,
+,ATI Mobility Radeon HD 3870,,
+,NVIDIA GeForce4 Ti 4200-8X,,
+,NVIDIA GeForce 810M,,
+,Intel HD Graphics 6000,,
+,NVIDIA GeForce RTX 2080 SUPER,,
+,ATI Mobility Radeon X1600 Mac Edition,,
+,AMD Radeon HD 6630M,,
+,AMD Radeon R5 330 OEM,,
+,NVIDIA GeForce 8400 GS,,
+,AMD Radeon HD 7730M,,
+,AMD Radeon HD 7670A,,
+,AMD Radeon HD 7310 IGP,,
+,ATI Radeon X1950 PRO DUAL,,
+,ATI FireGL 8800,,
+,AMD FirePro S9100,,
+,AMD Radeon HD 6650M,,
+,AMD Radeon HD 7570M,,
+,AMD FirePro W4300,,
+,AMD Radeon Vega 10 Mobile,,
+,NVIDIA GeForce 820A,,
+,ATI Radeon X740 XL,,
+,NVIDIA GeForce RTX 2060 Max-Q,,
+,ATI Mobility Radeon X700 XL,,
+,ATI Radeon X1800 CrossFire Edition,,
+,AMD Radeon R7 M380,,
+,NVIDIA GeForce MX110,,
+,NVIDIA NVS 510,,
+,AMD Radeon HD 7570,,
+,NVIDIA GeForce 9800M GT,,
+,NVIDIA GeForce 7000M + nForce 610M,,
+,NVIDIA Quadro FX 4600,,
+,NVIDIA GeForce 7050 PV + nForce 630a,,
+,AMD Radeon HD 7770 GHz Edition,,
+,ATI Mobility Radeon 9000 IGP,,
+,NVIDIA GeForce 8800M GTX,,
+,ATI Radeon HD 5570,,
+,NVIDIA GeForce GT 640M LE,,
+,ATI Radeon 9100 PCI,,
+,ATI Mobility Radeon HD 2300,,
+,ATI Mobility Radeon HD 5430,,
+,AMD Radeon E6465,,
+,ATI Radeon Xpress 1270 Mobile IGP,,
+,ATI Radeon HD 3870 AGP,,
+,Sony Playstation Portable GPU 90nm,,
+,AMD Radeon R4 Mobile Graphics,,
+,AMD Radeon R5 Graphics,,
+,NVIDIA Quadro M4000,,
+,NVIDIA GeForce GTX 1050 Ti,,
+,NVIDIA GeForce MX350,,
+,NVIDIA Quadro4 700 Go GL,,
+,ATI FireGL V7600,,
+,Intel Xeon Phi 7120X,,
+,NVIDIA Quadro NVS 160M,,
+,NVIDIA GeForce GTS 150M,,
+,XGI Volari V8,,
+,NVIDIA Quadro M5000,,
+,ATI Radeon HD 3750,,
+,AMD Radeon R5 A230,,
+,NVIDIA GeForce 9200,,
+,AMD Radeon HD 7450M,,
+,NVIDIA Quadro FX 3800M,,
+,NVIDIA Jetson AGX Xavier GPU,,
+,Intel GMA X3100,,
+,Intel UHD Graphics P630,,
+,AMD Radeon R3 Mobile Graphics,,
+,NVIDIA Quadro4 550 XGL,,
+,NVIDIA GeForce 605 OEM,,
+,ATI Mobility Radeon HD 2600,,
+,AMD Radeon HD 7600G IGP,,
+,AMD Radeon HD 6970M,,
+,ATI Radeon HD 5450 PCIe x1,,
+,ATI GameCube GPU,,
+,NVIDIA GeForce GT 710 PCIe x1,,
+,NVIDIA GeForce GTX 860M,,
+,NVIDIA Quadro2 Pro,,
+,NVIDIA GeForce4 448 Go,,
+,NVIDIA GeForce GTX 1650 GDDR6,,
+,NVIDIA GeForce 9650M GT,,
+,AMD Radeon HD 6320 IGP,,
+,NVIDIA GeForce 315 OEM,,
+,ATI Radeon HD 3850 X3,,
+,NVIDIA GeForce 805A,,
+,AMD Radeon RX 6600M,,
+,NVIDIA GeForce 9800 GT,,
+,XGI Volari 8600 XT,,
+,Intel Iris Graphics 550,,
+,NVIDIA GeForce GT 335M,,
+,ATI FireGL V3350,,
+,AMD FirePro S10000 Passive 12GB,,
+,AMD Radeon HD 7620G IGP,,
+,NVIDIA GeForce2 MX + nForce 220,,
+,NVIDIA GeForce GTX 980 Ti,,
+,AMD Radeon Pro Duo,,
+,AMD Radeon Pro 5500M,,
+,NVIDIA GeForce 9400M,,
+,AMD Radeon R3E Mobile Graphics,,
+,Intel Iris Plus Graphics 650,,
+,ATI Radeon HD 4650 AGP,,
+,NVIDIA GeForce 315M,,
+,NVIDIA GeForce GTX 260 Rev. 2,,
+,NVIDIA GeForce RTX 3050,,
+,ATI Radeon 7500 Mac Edition,,
+,NVIDIA GeForce GTX 965M,,
+,Intel Iris Graphics 6100,,
+,AMD Radeon RX 5300M,,
+,NVIDIA GeForce G102M,,
+,AMD FirePro S9170,,
+,NVIDIA GeForce GTX 980 Mobile,,
+,NVIDIA GeForce GTX 1650 Ti Mobile,,
+,ATI Radeon 9550 XT,,
+,AMD Radeon HD 6625M,,
+,NVIDIA GeForce GT 520 OEM,,
+,NVIDIA GeForce MX350,,
+,AMD Radeon Vega 8 Embedded,,
+,NVIDIA GeForce G210 OEM Rev. 2,,
+,ATI Radeon 9800 PRO MAXX,,
+,ATI Radeon 9800 SE,,
+,NVIDIA Quadro FX 570M,,
+,NVIDIA GeForce GT 630 Rev. 2,,
+,ATI Radeon X800 GT,,
+,AMD Radeon HD 7510 OEM,,
+,AMD Radeon R7 370,,
+,ATI FireMV 2250 PCIe x1,,
+,ATI Radeon HD 5450,,
+,NVIDIA GeForce MX330,,
+,AMD Radeon R3 Mobile Graphics,,
+,AMD Radeon Vega 8 Embedded,,
+,Intel HD Graphics,,
+,3dfx Voodoo5 5500 PCI,,
+,NVIDIA GeForce 6600 GT Dual,,
+,AMD Radeon R9 290X,,
+,AMD Radeon R9 270,,
+,AMD Radeon RX 5700 XT,,
+,NVIDIA NVS 3100M,,
+,ATI Radeon DDR MAXX,,
+,NVIDIA Quadro NVS 440,,
+,NVIDIA GRID K260Q,,
+,NVIDIA GeForce 9300 + nForce 730i,,
+,NVIDIA GeForce GTX 1060 5 GB,,
+,AMD Radeon R7 M260DX,,
+,Intel Xeon Phi SE10X,,
+,AMD Radeon HD 7480D IGP,,
+,NVIDIA GeForce GTX 1060 6 GB GP104,,
+,AMD Radeon HD 6970,,
+,AMD Radeon R7 250XE,,
+,ATI Radeon IGP 345M,,
+,AMD Radeon HD 7970 X2,,
+,NVIDIA GeForce GT 1030 DDR4,,
+,Intel UHD Graphics 630,,
+,NVIDIA PG506-232,,
+,NVIDIA Quadro K600,,
+,NVIDIA GeForce GTX 1660 Ti Mobile,,
+,ATI Mobility Radeon X1350,,
+,NVIDIA GeForce FX 5200 PCI,,
+,ATI Radeon X1300 XT AGP,,
+,AMD Radeon R5 230,,
+,NVIDIA Quadro T600 Mobile,,
+,AMD Radeon HD 7970,,
+,AMD Radeon RX 6700M,,
+,ATI Radeon X1300 XT,,
+,ATI Radeon X1300 PRO AGP,,
+,AMD Radeon E9171 MCM,,
+,NVIDIA GeForce Go 7300,,
+,NVIDIA Quadro FX 2700M,,
+,Intel GMA 950,,
+,NVIDIA GeForce FX Go5300,,
+,AMD Radeon E8860,,
+,AMD Radeon Pro Vega 16,,
+,NVIDIA GeForce 6800 XT,,
+,NVIDIA GeForce 7300 GS Low Profile,,
+,ATI Radeon HD 4570 Rebrand,,
+,Intel Xeon Phi 5110P,,
+,NVIDIA GeForce 9800S,,
+,NVIDIA GeForce 7025 + nForce 630a,,
+,AMD Radeon R9 M485X,,
+,NVIDIA GeForce GTX 480M,,
+,NVIDIA GeForce GTX 285 Mac Edition,,
+,ATI Radeon X1600 XT Dual,,
+,ATI Radeon SDR PCI,,
+,NVIDIA GeForce 9500 GS Rev. 2,,
+,AMD Radeon RX Vega 11,,
+,ATI Mobility Radeon HD 5165,,
+,ATI Radeon X800 GTO AGP,,
+,AMD Radeon R5 235X OEM,,
+,NVIDIA Quadro Plex 2100 D4,,
+,AMD Radeon Pro Duo Polaris,,
+,AMD Radeon RX 550X,,
+,NVIDIA GeForce GTX 1080 Max-Q,,
+,AMD Radeon RX 560 Mobile,,
+,NVIDIA Quadro M5500 Mobile,,
+,ATI Radeon X600 SE,,
+,3dfx Voodoo4 4000 AGP,,
+,AMD FirePro W4000,,
+,NVIDIA GeForce GTX 580,,
+,NVIDIA GeForce RTX 2060 Max-Q Refresh,,
+,ATI Mobility Radeon HD 5650,,
+,Intel GMA X4500,,
+,AMD Radeon E9550 MXM,,
+,Intel HD Graphics 2000,,
+,ATI Radeon HD 4700,,
+,AMD Radeon HD 8670A,,
+,ATI Xbox 360 GPU 65nm,,
+,AMD Radeon R9 285X,,
+,NVIDIA GeForce GTX 1080 11Gbps,,
+,NVIDIA Quadro P3000 Mobile,,
+,NVIDIA GeForce GT 730,,
+,AMD Radeon R7 A265,,
+,NVIDIA GeForce FX Go5200 64M,,
+,NVIDIA GeForce 7600 GS AGP,,
+,NVIDIA GeForce RTX 3070 Mobile,,
+,ATI FireMV 2260,,
+,NVIDIA GeForce 6100 + nForce 420,,
+,NVIDIA GeForce 6100 + nForce 430,,
+,NVIDIA GeForce GTX 560 Ti OEM,,
+,AMD Radeon R5 A255,,
+,ATI Radeon X1650 GT,,
+,NVIDIA GRID M60-2Q,,
+,NVIDIA TITAN X Pascal,,
+,AMD FirePro W8100,,
+,ATI Mobility Radeon 9600 PRO Turbo,,
+,NVIDIA Quadro FX 5600,,
+,NVIDIA P106-090,,
+,NVIDIA Quadro FX Go1400,,
+,NVIDIA GeForce Go 7300T,,
+,AMD Radeon R7 Graphics,,
+,NVIDIA GeForce GT 325M,,
+,NVIDIA RTX A5000,,
+,ATI Radeon Xpress 1200 IGP,,
+,NVIDIA GeForce 7900 GT,,
+,AMD Radeon R8 M535DX,,
+,NVIDIA Quadro K2200,,
+,NVIDIA GeForce GT 720M,,
+,AMD FirePro S7100X,,
+,NVIDIA Quadro 4000,,
+,AMD Radeon HD 8860 OEM,,
+,NVIDIA GeForce 8800 GTS 640,,
+,NVIDIA Tesla K20m,,
+,AMD Radeon HD 6250 IGP,,
+,NVIDIA Quadro NVS 135M,,
+,Intel Xeon Phi 7120P,,
+,NVIDIA GeForce RTX 2080 SUPER Mobile,,
+,NVIDIA Jetson TX1 GPU,,
+,AMD Radeon R7 M260X,,
+,NVIDIA GeForce GT 1030,,
+,AMD Radeon R5 M230 Rebrand,,
+,NVIDIA GeForce FX 5900 Ultra,,
+,ATI Mobility Radeon HD 5670 Mac Edition,,
+,AMD Radeon HD 7340 IGP,,
+,AMD Radeon RX 460 Mobile,,
+,NVIDIA Quadro 1000M,,
+,AMD Radeon Vega 8 Mobile,,
+,NVIDIA Quadro FX 4400,,
+,ATI Radeon HD 2400 PRO PCI,,
+,NVIDIA GeForce 6800 GT,,
+,NVIDIA Quadro FX 4400G,,
+,NVIDIA GeForce RTX 2060,,
+,ATI Radeon HD 5670 640SP Edition,,
+,ATI FirePro V3800,,
+,NVIDIA GRID K200,,
+,Intel Extreme Graphics 2,,
+,AMD Radeon Pro 450,,
+,ATI Mobility Radeon HD 2700,,
+,ATI Mobility Radeon HD 3850,,
+,Intel HD Graphics P4000,,
+,AMD Radeon Graphics 384SP,,
+,Intel Iris Pro Graphics 5200,,
+,ATI Radeon HD 5770,,
+,NVIDIA Quadro FX 3500,,
+,AMD Radeon HD 7950 Monica BIOS 1,,
+,AMD Radeon R7 260,,
+,NVIDIA GeForce GT 120M Mac Edition,,
+,ATI Radeon 8500 X4,,
+,NVIDIA GeForce GTX 460 v2,,
+,NVIDIA GeForce 7050 + nForce 620i,,
+,NVIDIA GeForce 840M,,
+,Intel HD Graphics,,
+,AMD Radeon Pro V520,,
+,NVIDIA GeForce4 MX 420 PCI,,
+,NVIDIA GeForce 6200 TurboCache,,
+,AMD FirePro M8900,,
+,AMD Radeon HD 8250 IGP,,
+,Intel H3C XG310,,
+,AMD Radeon HD 6630M Mac Edition,,
+,AMD Radeon R9 M275,,
+,ATI Mobility Radeon HD 4100 IGP,,
+,NVIDIA Quadro FX 600 PCI,,
+,ATI Radeon HD 3850,,
+,NVIDIA Quadro P400,,
+,ATI Radeon 9800,,
+,NVIDIA Quadro 7000,,
+,ATI All-In-Wonder X800 SE,,
+,ATI Radeon HD 2600 XT,,
+,Intel HD Graphics 400,,
+,Intel GMA X4500MHD,,
+,ATI Radeon 9200 PRO,,
+,ATI FireMV 2200,,
+,ATI Radeon X700 PRO,,
+,ATI Mobility FireGL V3100,,
+,AMD Radeon HD 6850 X2,,
+,AMD Radeon HD 7970 GHz Edition,,
+,ATI Mobility Radeon X1350,,
+,AMD Radeon E9172 MXM,,
+,AMD Radeon HD 8280 IGP,,
+,NVIDIA Tesla T4,,
+,Intel HD Graphics P530,,
+,ATI Radeon HD 5670,,
+,ATI Radeon 9700 PRO X4,,
+,ATI Radeon X800 XT Platinum AGP,,
+,ATI Radeon X600 PRO,,
+,NVIDIA Quadro K4200,,
+,NVIDIA GeForce FX 5200 Rev. 2,,
+,AMD Radeon HD 7370M,,
+,NVIDIA GeForce 6800,,
+,NVIDIA GeForce Go 7400T,,
+,ATI Radeon HD 5970,,
+,NVIDIA GeForce FX 5950 Ultra,,
+,AMD Radeon R5 240 OEM,,
+,NVIDIA Quadro FX 470,,
+,NVIDIA GeForce GTX 750 Ti,,
+,NVIDIA Tesla P100 PCIe 12 GB,,
+,NVIDIA GeForce GTX 950A,,
+,AMD Radeon R2 Mobile Graphics,,
+,AMD Radeon 540X Mobile,,
+,NVIDIA GeForce Go 7800,,
+,Matrox Millennium G450 x2 MMS,,
+,AMD Radeon R8 M365DX,,
+,AMD Radeon R9 380 OEM,,
+,NVIDIA ION LE,,
+,AMD Playstation 4 Slim GPU,,
+,NVIDIA GeForce 6800 GTO,,
+,AMD Radeon HD 6870 1600SP Edition,,
+,NVIDIA Quadro Plex 1000 Model IV,,
+,NVIDIA GRID K100,,
+,ATI Radeon IGP 340,,
+,ATI Mobility FireGL V5600,,
+,NVIDIA GeForce GTS 450 OEM,,
+,NVIDIA A100 SXM4 80 GB,,
+,ATI Mobility Radeon HD 4330,,
+,AMD Radeon RX 640 Mobile,,
+,Sony Playstation Portable GPU 65nm,,
+,NVIDIA Quadro FX 350M,,
+,NVIDIA GeForce 6800 XT,,
+,NVIDIA GeForce 9300 GS,,
+,AMD Radeon R9 M295X,,
+,NVIDIA Quadro RTX 3000 Mobile Refresh,,
+,NVIDIA Tesla C2070,,
+,ATI All-In-Wonder HD 3650,,
+,AMD Radeon HD 7990,,
+,NVIDIA Quadro RTX 6000 Passive,,
+,AMD Radeon RX 560 Mobile,,
+,ATI ES1000,,
+,ATI Mobility Radeon HD 5770,,
+,Intel Xe Arctic Sound,,
+,NVIDIA Quadro RTX 5000,,
+,NVIDIA GeForce 830A,,
+,NVIDIA GeForce GTX 1060 3 GB,,
+,ATI Radeon X1550 PCI,,
+,ATI Radeon HD 5870 Mac Edition,,
+,NVIDIA GeForce 920MX,,
+,NVIDIA Quadro K6000,,
+,NVIDIA GeForce2 MX 200 PCI,,
+,AMD Radeon HD 7470A,,
+,AMD Radeon R5 310 OEM,,
+,NVIDIA GeForce 8400 GS PCI,,
+,NVIDIA GeForce GTX TITAN X,,
+,AMD Radeon HD 6430M,,
+,NVIDIA GeForce 9800 GTX+,,
+,NVIDIA Quadro2 MXR,,
+,NVIDIA GeForce 310M,,
+,NVIDIA GeForce 8600 GTS,,
+,NVIDIA GeForce GT 220,,
+,Matrox Parhelia HR256,,
+,AMD Radeon HD 6490M Mac Edition,,
+,Intel UHD Graphics P750,,
+,NVIDIA GeForce 8400M GT,,
+,NVIDIA GeForce GTX 1060 6 GB 9Gbps,,
+,AMD Radeon R7 450 OEM,,
+,ATI Mobility Radeon HD 5470,,
+,AMD Radeon HD 6610M,,
+,NVIDIA GeForce GT 520 OEM,,
+,AMD Radeon R9 M395X Mac Edition,,
+,AMD Radeon Pro SSG,,
+,NVIDIA GeForce GTX 570M,,
+,ATI Radeon HD 3730,,
+,NVIDIA P106M,,
+,NVIDIA GeForce G105M,,
+,NVIDIA GRID RTX T10-16,,
+,NVIDIA GeForce GT 640M,,
+,ATI Radeon HD 4550,,
+,NVIDIA GeForce GTX 780M,,
+,ATI Radeon 8500 LE,,
+,AMD Radeon E6760 MXM,,
+,AMD FirePro W7100,,
+,NVIDIA GeForce 6200,,
+,NVIDIA Quadro K3000M,,
+,NVIDIA GeForce GTX 660M Mac Edition,,
+,NVIDIA GeForce 9600M GT Mac Edition,,
+,NVIDIA GeForce GTX 275 PhysX Edition,,
+,AMD Radeon 520 Mobile,,
+,NVIDIA GeForce 710M,,
+,AMD Radeon HD 8950M,,
+,ATI Radeon Xpress 1150 Mobile IGP,,
+,AMD Radeon R7 M465,,
+,ATI Radeon X1600 XT,,
+,NVIDIA ION HX,,
+,AMD Radeon RX 6600 XT,,
+,NVIDIA GeForce 7500 LE,,
+,ATI Mobility Radeon 9550,,
+,ATI Radeon HD 3300 IGP,,
+,AMD Radeon HD 8730M,,
+,NVIDIA GeForce GTX 670MX,,
+,AMD Radeon E8950,,
+,AMD Radeon R4 Mobile Graphics,,
+,NVIDIA GeForce GTX 1070 Ti,,
+,NVIDIA GeForce 6200 LE,,
+,NVIDIA NVS 810,,
+,AMD Radeon Pro 555X,,
+,NVIDIA Quadro P5200 Max-Q,,
+,NVIDIA GeForce RTX 3050 Mobile,,
+,AMD Radeon R9 370X,,
+,AMD Radeon Vega 3 Mobile,,
+,AMD Radeon R7 M265DX,,
+,NVIDIA Quadro FX Go700,,
+,AMD Radeon HD 7950M,,
+,ATI Mobility Radeon HD 5750,,
+,AMD Radeon Vega 8,,
+,NVIDIA GRID K1,,
+,NVIDIA GeForce RTX 3050 Max-Q,,
+,NVIDIA GeForce G100 OEM,,
+,AMD Radeon R7 360,,
+,AMD Radeon R7 M260DX,,
+,Intel HD Graphics 4200,,
+,NVIDIA GeForce 6200 PCI,,
+,NVIDIA GeForce MX250,,
+,NVIDIA GeForce4 MX 4000 Rev. 2,,
+,NVIDIA GeForce Go 6400,,
+,NVIDIA Quadro K2100M,,
+,NVIDIA GeForce 945M,,
+,NVIDIA GeForce 6800,,
+,NVIDIA Quadro FX 1800M,,
+,NVIDIA Tesla K40st,,
+,XGI Volari V5 Ultra,,
+,NVIDIA RTX A4000,,
+,NVIDIA GeForce GT 130M,,
+,AMD Radeon Vega 11 Embedded,,
+,NVIDIA GeForce FX 5900 ZT,,
+,NVIDIA GeForce RTX 3070 Ti,,
+,Intel GMA 3100,,
+,NVIDIA GeForce 8600 GT,,
+,Intel Iris Pro Graphics P580,,
+,ATI FireGL 9800 X2-256T,,
+,NVIDIA GeForce 945A,,
+,NVIDIA Quadro Plex 2200 S4,,
+,ATI Mobility Radeon X2300,,
+,NVIDIA GeForce RTX 2080 Max-Q,,
+,AMD Radeon HD 7670 OEM,,
+,Matrox Millennium G550 PCIe,,
+,AMD Radeon Pro 5700 XT,,
+,NVIDIA GeForce 7300 LE,,
+,ATI FirePro V9800,,
+,AMD Radeon R5 435 OEM,,
+,NVIDIA Quadro RTX 4000,,
+,NVIDIA GeForce 7950 GT AGP,,
+,Intel Iris Plus Graphics 640,,
+,ATI Radeon X800 XT,,
+,AMD Radeon HD 6350,,
+,AMD Radeon HD 6870,,
+,Intel UHD Graphics 600,,
+,ATI Radeon X1700 FSC,,
+,NVIDIA GeForce 615,,
+,NVIDIA Switch GPU 16nm,,
+,ATI FireGL V3100,,
+,AMD Radeon R9 M270X,,
+,ATI Radeon X550 XTX,,
+,AMD Radeon RX 560 896SP,,
+,AMD Radeon HD 8350G IGP,,
+,ATI Radeon X300 LE,,
+,AMD Radeon HD 8990 OEM,,
+,NVIDIA GeForce GTX 560 Ti X2,,
+,NVIDIA GeForce FX Go5200,,
+,AMD Radeon Pro 5700,,
+,AMD Radeon HD 8550G IGP,,
+,NVIDIA GeForce 810M,,
+,AMD Radeon HD 6550A,,
+,AMD Radeon HD 6530,,
+,ATI Radeon 9800 PRO,,
+,AMD FirePro W4100,,
+,ATI Radeon X550 HyperMemory,,
+,AMD Radeon RX Vega 11,,
+,AMD Radeon RX 550 512SP,,
+,NVIDIA GeForce GTX 1080,,
+,AMD Radeon R9 M380,,
+,ATI Mobility Radeon HD 2400 XT Mac Edition,,
+,AMD Radeon Pro WX 7100,,
+,NVIDIA GeForce GTX 760,,
+,NVIDIA GRID K160Q,,
+,NVIDIA Tesla M2070,,
+,ATI Radeon E4690 PCIe,,
+,ATI Mobility Radeon HD 2400 XT,,
+,NVIDIA GeForce GTX TITAN BLACK,,
+,ATI Radeon X1950 XT AGP,,
+,AMD Radeon HD 7400G IGP,,
+,NVIDIA Quadro P5000,,
+,NVIDIA GeForce GT 740 OEM,,
+,ATI Radeon X600,,
+,AMD Radeon Pro W5300M,,
+,ATI Radeon X800 PRO,,
+,Intel Xeon Phi 3120A,,
+,AMD Radeon HD 7560D IGP,,
+,NVIDIA GeForce 9400M G,,
+,ATI Radeon 9500,,
+,ATI Radeon Xpress 1200 Mobile IGP,,
+,AMD Radeon R9 M265X,,
+,NVIDIA GeForce GTS 450 Rev. 3,,
+,NVIDIA Quadro FX 4000,,
+,AMD Radeon R7 360 896SP,,
+,NVIDIA GeForce 8800 Ultra,,
+,Matrox M9125 PCIe x16,,
+,AMD Radeon HD 7690M XT Rebrand,,
+,NVIDIA GeForce 8800 GTX,,
+,NVIDIA GeForce 6800 GT DDL,,
+,ATI Radeon 9000 PRO Mac Edition,,
+,Intel Iris Pro Graphics 580,,
+,AMD Radeon Pro WX 4150 Mobile,,
+,AMD Radeon VII,,
+,NVIDIA Quadro K1200,,
+,AMD Radeon Pro V7350X2,,
+,AMD Radeon R5 A335,,
+,NVIDIA GeForce2 Go 200,,
+,Intel Xeon Phi 5120D,,
+,ATI Mobility Radeon HD 4870 X2,,
+,XGI Volari V5 Ultra,,
+,NVIDIA GeForce 7050 SE + nForce 630a,,
+,NVIDIA GeForce GT 740,,
+,NVIDIA Quadro K5000,,
+,NVIDIA GeForce MX150,,
+,NVIDIA GeForce 9200M,,
+,ATI Mobility Radeon X1900,,
+,AMD Radeon R7 360E,,
+,NVIDIA GeForce 6800 LE,,
+,AMD Radeon HD 6750,,
+,AMD Radeon R5 430 OEM,,
+,AMD Radeon R9 260 OEM,,
+,NVIDIA GeForce 930M,,
+,NVIDIA GeForce FX 5600 XT,,
+,AMD Radeon Graphics 512SP,,
+,NVIDIA Quadro K5100M,,
+,ATI Mobility Radeon X300 IGP,,
+,AMD Radeon Pro 580,,
+,NVIDIA GeForce 310 OEM,,
+,NVIDIA GeForce 940MX,,
+,NVIDIA RTX A6000,,
+,Intel Iris Plus Graphics G4,,
+,ATI Mobility Radeon X2300 HD,,
+,NVIDIA GeForce 8600 GTS Mac Edition,,
+,NVIDIA GeForce 9500M G,,
+,ATI Radeon X800 SE,,
+,AMD FirePro M4100,,
+,AMD Radeon HD 7610M,,
+,NVIDIA GeForce Go 7400,,
+,ATI Mobility Radeon X1600,,
+,ATI FirePro V8750,,
+,NVIDIA Tesla C2050,,
+,AMD Radeon HD 7350 OEM PCI,,
+,AMD Radeon RX 470 Mobile,,
+,AMD Radeon HD 6770 Green Edition,,
+,NVIDIA Quadro P620 Mobile,,
+,NVIDIA GeForce 8800 GTS 512,,
+,AMD Radeon HD 8510G IGP,,
+,NVIDIA Quadro M3000M,,
+,NVIDIA Tesla S1075,,
+,NVIDIA GeForce FX Go5200 NPB 32M,,
+,NVIDIA Quadro K5200,,
+,NVIDIA GeForce 710A,,
+,AMD Radeon E9260 PCIe,,
+,NVIDIA GeForce 8300,,
+,ATI Radeon X1650 XT,,
+,NVIDIA GeForce 6600 AGP,,
+,NVIDIA GeForce 710A,,
+,ATI Mobility Radeon X600,,
+,Intel UHD Graphics,,
+,NVIDIA Quadro FX 5600 Mac Edition,,
+,ATI Radeon X1050 AGP,,
+,AMD FireStream 9170,,
+,NVIDIA GeForce GTX 960 OEM,,
+,ATI Radeon HD 2600 XT X2,,
+,NVIDIA GRID RTX T10-8,,
+,NVIDIA GeForce GTX 1050 Mobile,,
+,NVIDIA GeForce RTX 3080 Max-Q,,
+,NVIDIA GeForce GTX 1650 Max-Q,,
+,Intel HD Graphics 3000,,
+,ATI Mobility Radeon HD 2400,,
+,NVIDIA GeForce GT 525M,,
+,Sony Playstation 2 GPU 90nm,,
+,AMD Radeon HD 7660D IGP,,
+,NVIDIA GeForce GT 610 PCI,,
+,ATI Radeon HD 3850 AGP,,
+,NVIDIA GeForce GTX 750 GM206,,
+,ATI FirePro V5700,,
+,ATI Mobility FireGL V5725,,
+,Intel Iris Pro Graphics P580,,
+,Intel UHD Graphics,,
+,NVIDIA GeForce GTX 680MX Mac Edition,,
+,ATI All-In-Wonder Radeon 7500 VE,,
+,NVIDIA GRID A100A,,
+,NVIDIA GeForce RTX 2070 Max-Q,,
+,ATI Radeon HD 4350,,
+,3dfx Voodoo4-2 4200 PCI 16 MB,,
+,AMD Radeon HD 6570 OEM,,
+,NVIDIA GeForce4 MX 440-SE,,
+,AMD Radeon R7 240 OEM,,
+,ATI FireGL V7350,,
+,ATI Radeon HD 5870 Eyefinity 6,,
+,NVIDIA GeForce2 MX DH Pro TV,,
+,AMD FirePro D700,,
+,NVIDIA GeForce 9100M G mGPU Intel,,
+,ATI Radeon 9600,,
+,NVIDIA GeForce GTX 260M,,
+,AMD Radeon 550X 640SP,,
+,AMD Radeon R9 M470,,
+,Intel Aubrey Isle,,
+,ATI Radeon HD 3570,,
+,AMD Radeon E9174 MXM,,
+,NVIDIA GeForce 9700M GT,,
+,AMD Radeon RX 6600,,
+,ATI Radeon HD 2900 XTX,,
+,AMD Radeon Pro 5500 XT,,
+,AMD Radeon RX 480 Mobile,,
+,ATI Mobility Radeon 9600,,
+,ATI Radeon HD 5450 PCI,,
+,Intel UHD Graphics G7,,
+,NVIDIA GeForce GTX 980M,,
+,ATI Radeon X850 XT Platinum,,
+,NVIDIA GeForce GT 330M Mac Edition,,
+,ATI FirePro RG220,,
+,NVIDIA GeForce2 MX,,
+,ATI Radeon X1950 CrossFire Edition,,
+,NVIDIA TITAN V,,
+,NVIDIA GeForce GTS 150 OEM,,
+,ATI Radeon HD 2400 XT,,
+,NVIDIA GeForce RTX 2070,,
+,NVIDIA GeForce GTX 780 Rev. 2,,
+,AMD FirePro D300,,
+,NVIDIA GeForce 825M,,
+,NVIDIA P104-101,,
+,NVIDIA GeForce 720A,,
+,AMD Radeon R6 M335DX,,
+,NVIDIA GeForce 705M,,
+,NVIDIA GeForce GTX 555 OEM,,
+,ATI FireGL 9600 T2-64S,,
+,AMD Radeon HD 6990M,,
+,NVIDIA GeForce 7300 GT Mac Edition,,
+,ATI All-In-Wonder 9700 PRO,,
+,NVIDIA GeForce 210 Rev. 2,,
+,Matrox Millennium G450 LP,,
+,AMD Radeon RX 550,,
+,AMD Radeon HD 8970M,,
+,ATI Mobility Radeon 7500,,
+,ATI Radeon DDR VIVO OEM,,
+,AMD Radeon HD 8410G IGP,,
+,AMD Radeon R9 Nano,,
+,NVIDIA GeForce 8800 GS Mac Edition,,
+,AMD Radeon RX 460 1024SP,,
+,NVIDIA GeForce GT 720,,
+,NVIDIA GeForce 7200 GS,,
+,AMD Radeon RX 6800 XT,,
+,AMD Radeon HD 7470M,,
+,NVIDIA GeForce GT 620 OEM,,
+,ATI Radeon X1300 PRO,,
+,NVIDIA GeForce2 MX PCI,,
+,NVIDIA GeForce 7300 SE,,
+,NVIDIA GeForce 6800 GT Dual,,
+,AMD FirePro W2100,,
+,NVIDIA Quadro4 750 XGL,,
+,NVIDIA GeForce 6200 SE TurboCache,,
+,AMD Radeon RX 6700 XT,,
+,NVIDIA GeForce 9500M GS,,
+,AMD FirePro S10000,,
+,NVIDIA GeForce 705A,,
+,NVIDIA GeForce Go 6250,,
+,NVIDIA Quadro P4200 Mobile,,
+,NVIDIA GeForce2 Go,,
+,Intel HD Graphics,,
+,ATI FirePro V4800,,
+,NVIDIA GeForce GTX 280,,
+,ATI FirePro 2450 Multi-View PCIe x1,,
+,NVIDIA GeForce RTX 3080 Mobile,,
+,XGI Volari Duo V8 Ultra,,
+,NVIDIA Quadro FX 380 LP,,
+,AMD Radeon R9 M385,,
+,ATI FirePro V8700,,
+,ATI Radeon X1600 PRO,,
+,NVIDIA GeForce RTX 3090,,
+,AMD FirePro W9100,,
+,NVIDIA GeForce 7800 GTX,,
+,NVIDIA Tesla M2070-Q,,
+,NVIDIA Tesla X2090,,
+,NVIDIA GeForce GT 720A,,
+,ATI Mobility Radeon X700,,
+,NVIDIA GeForce GTX 285,,
+,AMD Playstation 4 GPU,,
+,ATI Radeon 9100,,
+,ATI Radeon Xpress 1200 Mobile IGP,,
+,NVIDIA GeForce GTS 360M,,
+,AMD Radeon Pro WX 9100,,
+,NVIDIA GeForce GT 520M,,
+,AMD Radeon R7 350 OEM,,
+,NVIDIA GeForce FX Go5700,,
+,AMD Radeon HD 7690M,,
+,ATI Radeon 9250,,
+,Intel GMA 3000,,
+,NVIDIA GeForce RTX 3050 Ti Mobile,,
+,NVIDIA Quadro FX 3700,,
+,NVIDIA GeForce GT 640,,
+,NVIDIA GeForce 6200 AGP,,
+,NVIDIA GeForce GTX 260 Core 216 Rev. 2,,
+,ATI Radeon HD 5950,,
+,ATI Mobility Radeon HD 540v,,
+,Matrox Parhelia Precision SDT,,
+,NVIDIA Quadro NVS 280 AGP,,
+,ATI Radeon HD 4730,,
+,AMD FirePro W4170M,,
+,NVIDIA Quadro FX 880M,,
+,AMD FirePro M5100,,
+,AMD Radeon HD 7500G IGP,,
+,ATI Radeon HD 4250,,
+,NVIDIA P102-100,,
+,AMD Radeon HD 6750M,,
+,NVIDIA GeForce 6800 GS,,
+,ATI All-In-Wonder 9000 PRO,,
+,NVIDIA Quadro CX,,
+,NVIDIA Tesla M6,,
+,ATI Mobility Radeon HD 3430,,
+,NVIDIA Quadro K610M,,
+,AMD Radeon Pro WX Vega M GL,,
+,AMD Radeon Pro 580X,,
+,Sony Playstation 2 GPU 250nm,,
+,NVIDIA GeForce Go 7200,,
+,NVIDIA A16 PCIe,,
+,AMD Radeon R9 M280X,,
+,ATI Radeon HD 3200 Mobile IGP,,
+,NVIDIA GeForce GT 120M,,
+,ATI Mobility Radeon HD 4860,,
+,AMD FirePro S9000,,
+,AMD Radeon R2 Mobile Graphics,,
+,ATI Xbox 360 S GPU,,
+,AMD Radeon HD 8240 Mobile IGP,,
+,AMD Radeon RX 5300,,
+,AMD Radeon HD 6450 OEM,,
+,NVIDIA Quadro P5000 Mobile,,
+,NVIDIA Quadro FX 5800,,
+,AMD Radeon HD 7650M Rebrand,,
+,NVIDIA Quadro P1000 Mobile,,
+,ATI Radeon 9000 PRO,,
+,ATI Radeon HD 4770,,
+,NVIDIA GeForce 7100 + nForce 630i,,
+,NVIDIA GeForce 9300 GS Rev. 2,,
+,NVIDIA GeForce GTX 960 OEM,,
+,NVIDIA GeForce2 Ultra,,
+,NVIDIA GeForce GT 555M,,
+,NVIDIA GeForce GTX 560 Ti,,
+,NVIDIA GeForce 205 OEM,,
+,NVIDIA GeForce RTX 2070 Mobile,,
+,NVIDIA GeForce2 Go,,
+,ATI Mobility Radeon X1800 XT,,
+,NVIDIA GeForce GTX 780 6 GB,,
+,ATI Mobility Radeon HD 550v,,
+,NVIDIA GeForce MX450 30.5W 10Gbps,,
+,AMD Radeon R9 M375,,
+,ATI Radeon HD 2350 PRO,,
+,NVIDIA Quadro K5000M,,
+,AMD Radeon R9 280,,
+,AMD Radeon R7 Graphics,,
+,AMD Radeon HD 8770M,,
+,AMD Playstation 4 Pro GPU,,
+,AMD Radeon R7 M465X,,
+,ATI Radeon X850 CrossFire Edition,,
+,ATI Radeon Xpress 1100 Mobile IGP,,
+,ATI Radeon HD 2600 XT Mac Edition,,
+,AMD FireStream 9250,,
+,ATI Mobility Radeon HD 5850 Mac Edition,,
+,NVIDIA GeForce FX 5900,,
+,NVIDIA Quadro 5000M,,
+,AMD FirePro W6170M,,
+,NVIDIA GeForce 6100 + nForce 400,,
+,AMD Radeon HD 6870M,,
+,ATI Radeon X800 GT AGP,,
+,NVIDIA GeForce 7800 GS AGP,,
+,NVIDIA GeForce GT 555M,,
+,NVIDIA GeForce GT 645 OEM,,
+,NVIDIA NVS 2100M,,
+,AMD Radeon R7 M265DX,,
+,AMD Radeon HD 6550M,,
+,NVIDIA GeForce GT 520 PCIe x1,,
+,NVIDIA Quadro NVS 280 PCIe,,
+,NVIDIA GRID K500,,
+,NVIDIA A100 SXM4 40 GB,,
+,NVIDIA Quadro M600M,,
+,AMD Radeon R6 M340DX,,
+,AMD Radeon Vega 3,,
+,AMD Radeon HD 6230,,
+,NVIDIA GeForce RTX 2080 SUPER Max-Q,,
+,AMD Radeon RX 580G,,
+,AMD FireStream 9270,,
+,NVIDIA GeForce GTX 760 OEM,,
+,AMD Radeon HD 6380G IGP,,
+,AMD Radeon R9 FURY X2,,
+,ATI Radeon X800 VE AGP,,
+,NVIDIA GeForce2 MX 200 LP,,
+,ATI Radeon X600 PRO,,
+,NVIDIA GeForce 8200M G mGPU AMD,,
+,NVIDIA GeForce 7300 GT AGP,,
+,NVIDIA Quadro FX 500,,
+,NVIDIA GeForce GTX 560 Ti OEM,,
+,ATI All-In-Wonder Radeon 8500,,
+,NVIDIA GeForce 315 OEM,,
+,Intel Iris Pro Graphics P6300,,
+,ATI Radeon IGP 330M,,
+,NVIDIA GRID A100B,,
+,ATI Radeon X800 GT AGP,,
+,AMD Radeon HD 6750M Mac Edition,,
+,NVIDIA GeForce PCX 5950,,
+,AMD Radeon HD 8570 OEM Rebrand,,
+,NVIDIA Tesla V100 PCIe 32 GB,,
+,NVIDIA GeForce GTX 660M,,
+,NVIDIA GeForce GTX 780,,
+,ATI Fire GL2,,
+,AMD Radeon R9 370,,
+,NVIDIA GeForce GTX 765M,,
+,ATI Radeon X1300 PCI,,
+,ATI All-In-Wonder X800 XT,,
+,AMD Radeon HD 8510 OEM,,
+,NVIDIA GeForce 8600M GT Mac Edition,,
+,ATI Radeon X1300 LE,,
+,AMD Radeon HD 6650A,,
+,NVIDIA GeForce 940MX,,
+,NVIDIA GeForce 7650 GS,,
+,Intel GMA 3150,,
+,ATI FireGL V7200,,
+,NVIDIA GeForce GTX 645 OEM,,
+,AMD Radeon RX 6700,,
+,NVIDIA GeForce 7900 GTX,,
+,NVIDIA GeForce GTX 660,,
+,NVIDIA Quadro T2000 Mobile,,
+,NVIDIA GeForce 7800 GS+ 20Pipes AGP,,
+,ATI Radeon X850 XT AGP,,
+,Intel HD Graphics,,
+,AMD Radeon RX 570X,,
+,NVIDIA GeForce 6800 GT,,
+,NVIDIA GeForce GT 425M,,
+,Sony Playstation Vita GPU,,
+,AMD Radeon R7 M465,,
+,ATI Radeon 7200,,
+,ATI Mobility Radeon 9000,,
+,NVIDIA GeForce GTX 480,,
+,AMD Radeon HD 7450 OEM,,
+,Intel GMA 3650,,
+,ATI Mobility Radeon X600 SE,,
+,ATI Mobility Radeon 9000,,
+,NVIDIA Quadro K2000M,,
+,AMD Radeon Instinct MI6,,
+,AMD Radeon HD 8310G IGP,,
+,Intel Iris Pro Graphics 6200,,
+,AMD Radeon R5 M315,,
+,ATI FireMV 2400 PCI,,
+,NVIDIA GeForce GT 440 OEM,,
+,Intel GMA 3000,,
+,ATI Mobility FireGL V3200,,
+,NVIDIA Tesla V100 DGXS 16 GB,,
+,AMD Radeon HD 7640G IGP,,
+,ATI Radeon HD 3450 PCI,,
+,NVIDIA Tesla K20Xm,,
+,NVIDIA Quadro P600,,
+,NVIDIA GeForce 910M,,
+,AMD Radeon R5 M330,,
+,NVIDIA GeForce 820M,,
+,NVIDIA Quadro 600,,
+,AMD Xbox Series X GPU,,
+,Intel UHD Graphics 610,,
+,ATI Mobility Radeon HD 5830,,
+,ATI Mobility Radeon X1800,,
+,NVIDIA GeForce 7300 GS,,
+,ATI Radeon HD 4830,,
+,NVIDIA GeForce RTX 2080 Ti,,
+,AMD Radeon HD 6850 1440SP Edition,,
+,ATI Radeon HD 3610,,
+,AMD Radeon HD 6530D IGP,,
+,NVIDIA GeForce 7025 + nForce 630a,,
+,NVIDIA GeForce FX 5700 EP,,
+,ATI Radeon X1550 AGP,,
+,AMD FirePro M3900,,
+,AMD Radeon HD 8670D IGP,,
+,NVIDIA GeForce GTS 450,,
+,ATI Radeon X1300,,
+,NVIDIA GeForce GTX 870M,,
+,NVIDIA GeForce GTX 960A,,
+,NVIDIA Quadro P2200,,
+,NVIDIA GeForce 8500 GT,,
+,NVIDIA GeForce GTX 680M,,
+,NVIDIA GeForce GTX 970,,
+,AMD Radeon RX 5600 XT,,
+,NVIDIA Quadro FX 3500M,,
+,ATI Radeon HD 2400 PRO AGP,,
+,NVIDIA GeForce GT 520MX,,
+,ATI All-In-Wonder Radeon 8500DV,,
+,ATI Radeon HD 5770 Mac Edition,,
+,AMD Radeon Pro Vega 48,,
+,AMD Radeon HD 7560G IGP,,
+,AMD Radeon R5 A320,,
+,NVIDIA GeForce 7950 GT,,
+,NVIDIA GeForce GTX 980M,,
+,ATI Radeon 3100 Mobile IGP,,
+,ATI Radeon HD 4870 X2,,
+,NVIDIA Quadro M3000 SE,,
+,Intel HD Graphics P630,,
+,NVIDIA Tesla V100 SXM2 16 GB,,
+,AMD Radeon R7 M270DX,,
+,NVIDIA GeForce GTX 570 Rev. 2,,
+,AMD Radeon 520 Mobile,,
+,NVIDIA GeForce GTX 780M Mac Edition,,
+,AMD Radeon R7 435 OEM,,
+,NVIDIA Quadro NVS 300M,,
+,NVIDIA Quadro T1000 Mobile GDDR6,,
+,NVIDIA Quadro P6000,,
+,AMD Radeon R9 M275X,,
+,NVIDIA GeForce GT 330M,,
+,ATI Radeon 9000,,
+,AMD Radeon R6 M255DX,,
+,NVIDIA Jetson Xavier NX GPU,,
+,NVIDIA NVS 300,,
+,ATI Radeon 9200 SE PCI,,
+,NVIDIA Quadro4 200 NVS,,
+,ATI Radeon HD 3450 AGP,,
+,ATI Mobility Radeon HD 565v,,
+,AMD Radeon R7 240,,
+,3dfx Voodoo4-2 4200 AGP,,
+,NVIDIA Quadro P4000 Max-Q,,
+,NVIDIA GeForce 9800 GT,,
+,Intel GMA 900,,
+,NVIDIA Quadro4 500 XGL,,
+,AMD Radeon HD 6570M,,
+,NVIDIA GeForce GTX 460 OEM,,
+,NVIDIA GeForce GT 630M,,
+,AMD Radeon HD 6670A,,
+,AMD Radeon Vega 3 Mobile,,
+,AMD Radeon R9 370 1024SP,,
+,AMD FirePro S9300 X2,,
+,ATI Mobility Radeon HD 2600 XT Mac Edition,,
+,AMD Radeon HD 8750M,,
+,NVIDIA GeForce GT 340 OEM,,
+,Matrox Millenium P650,,
+,Intel HD Graphics 3000,,
+,Matrox Parhelia PCI,,
+,NVIDIA Tesla C2090,,
+,NVIDIA GeForce GTX 260 Core 216,,
+,NVIDIA GeForce 6200 AGP,,
+,ATI Radeon Xpress 1270 Mobile IGP,,
+,NVIDIA GeForce GTX 675M,,
+,ATI All-In-Wonder X800 GT,,
+,NVIDIA GeForce GT 640M LE,,
+,Intel UHD Graphics 630,,
+,AMD FirePro M4150,,
+,Intel UHD Graphics 610,,
+,AMD Radeon R7 M260,,
+,NVIDIA Tesla K20X,,
+,ATI Radeon 9800 XXL,,
+,AMD Radeon R9 M290X Mac Edition,,
+,AMD Radeon Sky 500,,
+,AMD Radeon R7 430 OEM,,
+,AMD Radeon HD 8750A,,
+,NVIDIA GeForce GTX 965M,,
+,AMD Radeon R9 290,,
+,AMD Radeon RX 5500 XT,,
+,NVIDIA Xbox GPU,,
+,NVIDIA GeForce GT 555M,,
+,ATI Radeon 9600 PRO,,
+,AMD Radeon R7 A360,,
+,NVIDIA GeForce 610M,,
+,NVIDIA Quadro FX 4500 SDI,,
+,ATI Radeon HD 3470,,
+,NVIDIA GeForce 7600 LE,,
+,AMD Radeon Pro WX 2100,,
+,XGI Volari V8,,
+,Intel HD Graphics 4000,,
+,NVIDIA GeForce GTX 980,,
+,AMD Radeon R8 M435DX,,
+,NVIDIA Tesla P4,,
+,NVIDIA GeForce 8800 GT Mac Edition,,
+,AMD Radeon HD 7530M,,
+,AMD Radeon HD 8690M,,
+,Sony Playstation 2 GPU 65nm,,
+,AMD Radeon RX Vega 64 Liquid Cooling,,
+,AMD Radeon HD 6570M,,
+,ATI Radeon X1900 XTX,,
+,Matrox Parhelia 256 MB,,
+,ATI Radeon X1950 PRO AGP,,
+,AMD Radeon HD 7650A,,
+,AMD FirePro M2000,,
+,NVIDIA Quadro M1000M,,
+,AMD Radeon 530X Mobile,,
+,Intel HD Graphics 4600,,
+,NVIDIA GeForce FX 5200 LE,,
+,Matrox Parhelia 128 MB,,
+,NVIDIA GeForce 6500,,
+,AMD Radeon HD 8870M,,
+,AMD Radeon R5 A220,,
+,AMD Radeon HD 8280E,,
+,AMD Radeon Pro V340,,
+,NVIDIA GeForce 710A,,
+,ATI Mobility Radeon 9100 IGP,,
+,NVIDIA GeForce 610M,,
+,NVIDIA GeForce4 440 Go,,
+,AMD Radeon HD 7570 OEM,,
+,NVIDIA GeForce 610M,,
+,NVIDIA Quadro FX 4700 X2,,
+,NVIDIA GeForce RTX 3060 Max-Q,,
+,Intel GMA 3100,,
+,AMD Radeon Vega 3 Mobile,,
+,ATI Radeon HD 4810,,
+,NVIDIA GeForce GT 240M LE,,
+,NVIDIA GeForce3,,
+,NVIDIA TITAN V CEO Edition,,
+,NVIDIA GeForce GTX 260 OEM,,
+,AMD Radeon R5 230 OEM,,
+,NVIDIA GeForce FX 5600,,
+,AMD Atari VCS 800 GPU,,
+,AMD Radeon Vega 8,,
+,ATI FirePro 2450 Multi-View,,
+,NVIDIA GeForce GTX 460,,
+,NVIDIA GeForce MX450 30.5W 8Gbps,,
+,NVIDIA Quadro FX 4500 X2,,
+,XGI Volari V3 XT,,
+,AMD Radeon RX 5300 XT,,
+,NVIDIA Quadro P4000 Mobile,,
+,AMD Radeon RX Vega 56 Mobile,,
+,AMD Radeon Sky 900,,
+,NVIDIA GeForce FX 5200 Ultra,,
+,NVIDIA GeForce 6700 XL,,
+,ATI Mobility Radeon 7500C,,
+,AMD AeroBox GPU,,
+,ATI Radeon VE,,
+,NVIDIA GeForce GTX 1060 3 GB GP104,,
+,ATI Radeon Xpress 1250 Mobile IGP,,
+,ATI Radeon 9700,,
+,NVIDIA GeForce GT 750M,,
+,AMD Radeon HD 7950,,
+,AMD Radeon R9 380,,
+,NVIDIA GeForce GTX 950 Low Power,,
+,ATI Mobility Radeon HD 5450,,
+,AMD FirePro W5170M,,
+,NVIDIA GeForce FX 5800,,
+,AMD Radeon R5 M435,,
+,AMD Radeon RX Vega M GH,,
+,NVIDIA GeForce GT 730 OEM,,
+,AMD Radeon Pro WX 5100,,
+,NVIDIA GeForce Go 7900 SE,,
+,NVIDIA Jetson TK1 GPU,,
+,ATI Radeon HD 4670 AGP,,
+,NVIDIA GeForce GTX 1060 Mobile,,
+,ATI Mobility Radeon HD 4850,,
+,NVIDIA Quadro NVS 450,,
+,NVIDIA GeForce GT 635M,,
+,NVIDIA GeForce GT 230M,,
+,AMD Xbox One GPU,,
+,Matrox QID PRO,,
+,NVIDIA Tesla M2090,,
+,AMD Radeon HD 7350M,,
+,AMD Radeon Vega Frontier Edition,,
+,NVIDIA GeForce GT 520M,,
+,ATI Radeon HD 4450,,
+,AMD Radeon HD 8730 OEM,,
+,NVIDIA GeForce 405 OEM,,
+,ATI Mobility Radeon X800,,
+,AMD FirePro W9000,,
+,AMD Radeon R7 265,,
+,NVIDIA Quadro GV100,,
+,AMD Radeon R9 270 1024SP,,
+,NVIDIA GeForce GTX 965M,,
+,NVIDIA GeForce GTX 1060 6 GB Rev. 2,,
+,Intel Extreme Graphics,,
+,ATI Radeon 8500,,
+,ATI FireGL V7300,,
+,NVIDIA GeForce 7600 GT AGP,,
+,NVIDIA Tesla K10,,
+,NVIDIA GeForce FX 5600 XT PCI,,
+,NVIDIA GeForce GT 230,,
+,NVIDIA Tesla V100 FHHL,,
+,ATI Radeon Xpress 200 IGP,,
+,NVIDIA GeForce 7050 + nForce 630i,,
+,NVIDIA GeForce FX 5700 LE,,
+,NVIDIA GRID K280Q,,
+,ATI Radeon 7500,,
+,ATI FireMV 2400 PCIe x1,,
+,NVIDIA GeForce 9400 GT,,
+,NVIDIA GeForce GTX 950 OEM,,
+,ATI Radeon HD 3450,,
+,NVIDIA GeForce 7800 GS 20Pipes AGP,,
+,ATI Mobility Radeon HD 4530,,
+,AMD Radeon Graphics 512SP,,
+,AMD Radeon R7 250,,
+,AMD Radeon HD 6730M,,
+,NVIDIA GeForce FX 5700 Ultra,,
+,ATI Mobility Radeon 9000,,
+,AMD Radeon R8 M350DX,,
+,NVIDIA Quadro4 100 NVS,,
+,NVIDIA Quadro 2000D,,
+,NVIDIA Quadro M500M,,
+,3dfx Voodoo4-2 4200 PCI 32 MB,,
+,NVIDIA GeForce2 Ti,,
+,NVIDIA GeForce GT 630 Rev. 2 PCIe x8,,
+,AMD Radeon R8 M445DX,,
+,NVIDIA Quadro NVS 210S,,
+,ATI Mobility Radeon HD 4650,,
+,AMD Radeon HD 6950M,,
+,NVIDIA GeForce GTX 760 Ti OEM,,
+,ATI Radeon HD 5770 X2,,
+,NVIDIA GeForce 8400M GS,,
+,ATI FireGL 9500 Z1-128,,
+,ATI All-In-Wonder 9200,,
+,ATI Radeon X1300,,
+,AMD Radeon HD 6480G IGP,,
+,AMD Radeon HD 7690M Rebrand,,
+,ATI All-In-Wonder 9800 SE,,
+,AMD Radeon Vega Frontier Edition Watercooled,,
+,AMD Radeon HD 8180 IGP,,
+,NVIDIA GeForce 7600 GS,,
+,NVIDIA GeForce 210,,
+,NVIDIA GeForce 9300M GS,,
+,ATI Radeon HD 3870 Mac Edition,,
+,NVIDIA Tesla P10,,
+,AMD Radeon 540X Mobile,,
+,AMD Radeon R5 Graphics,,
+,NVIDIA GeForce 720M,,
+,ATI Mobility Radeon X1400,,
+,ATI Mobility Radeon X2500,,
+,NVIDIA GeForce 6600 LE AGP,,
+,AMD Radeon RX 580,,
+,AMD Radeon HD 6930,,
+,NVIDIA GeForce GTX 1650 TU106,,
+,AMD Radeon R5 Mobile Graphics,,
+,NVIDIA GeForce GTX 970M,,
+,Intel UHD Graphics 617,,
+,NVIDIA GeForce2 Go 100,,
+,Intel HD Graphics 530,,
+,Intel UHD Graphics 620,,
+,AMD Radeon Pro Vega II Duo,,
+,NVIDIA Tesla K40d,,
+,ATI FireGL 9700 X1-256p,,
+,ATI Radeon SDR,,
+,AMD Radeon Pro VII,,
+,NVIDIA Quadro K1100M,,
+,ATI Mobility Radeon HD 4670,,
+,AMD FirePro R5000,,
+,Intel UHD Graphics,,
+,NVIDIA Tesla K40c,,
+,ATI Radeon X1900 XT,,
+,AMD Radeon 620 Mobile,,
+,Intel GMA 3000,,
+,NVIDIA GeForce GT 730,,
+,Intel Iris Xe Graphics G4,,
+,ATI Mobility Radeon 7000 IGP,,
+,ATI FireGL 9800 X2-256,,
+,ATI Radeon 7200 64 MB,,
+,ATI Radeon HD 3650 AGP,,
+,3dfx Voodoo4 4500 PCI,,
+,AMD Radeon Vega 6 Mobile,,
+,ATI All-In-Wonder 9600 PRO,,
+,AMD Radeon Vega 6 Mobile,,
+,AMD Radeon 540 Mobile,,
+,Intel i830MG Graphics,,
+,NVIDIA Quadro FX 5500 SDI,,
+,NVIDIA GeForce GT 625M,,
+,NVIDIA GeForce4 MX 460,,
+,AMD FirePro V7900 SDI,,
+,AMD Radeon R5 340 OEM,,
+,AMD Radeon HD 6480G IGP,,
+,NVIDIA Quadro RTX 3000 Mobile,,
+,NVIDIA GeForce 9650M GS,,
+,AMD Radeon RX 5600M,,
+,Intel HD Graphics 4400,,
+,ATI Fire GL4,,
+,NVIDIA GeForce 9800 GTX,,
+,AMD Radeon HD 7470A,,
+,NVIDIA GeForce GTX 680 Mac Edition,,
+,AMD Radeon HD 8330E,,
+,AMD Radeon HD 6850,,
+,AMD Radeon RX 460,,
+,AMD Radeon HD 6790,,
+,ATI All-In-Wonder X800 VE,,
+,NVIDIA Tesla D870,,
+,NVIDIA GeForce GTX 470M,,
+,NVIDIA Quadro P1000,,
+,NVIDIA GeForce GT 710,,
+,NVIDIA GeForce4 MX 420,,
+,NVIDIA GeForce GT 555M,,
+,NVIDIA GeForce4 488 Go,,
+,ATI Radeon 7500 LE,,
+,NVIDIA GeForce GT 620M,,
+,NVIDIA CMP 30HX,,
+,AMD Radeon R7 M270DX,,
+,NVIDIA GeForce Go 7900 GTX,,
+,NVIDIA GeForce GT 635M,,
+,NVIDIA NVS 5200M,,
+,NVIDIA GeForce GTX 850M,,
+,NVIDIA GRID M6-8Q,,
+,NVIDIA GeForce GTX 1060 6 GB,,
+,NVIDIA GeForce GTX 745 OEM,,
+,AMD Radeon Pro WX 7130 Mobile,,
+,Matrox Parhelia DL256,,
+,NVIDIA Quadro FX 4000 SDI,,
+,NVIDIA GeForce 8400 GS Rev. 3,,
+,ATI Radeon X1950 XTX Uber Edition,,
+,ATI Radeon X1650 XT AGP,,
+,AMD Radeon Pro V5300X,,
+,Intel HD Graphics 4000,,
+,NVIDIA GeForce3 Ti200,,
+,NVIDIA GeForce GTX 580 Rev. 2,,
+,Intel Extreme Graphics 2,,
+,Intel UHD Graphics 620,,
+,NVIDIA GeForce 6610 XL,,
+,NVIDIA GeForce 9600 GT Green Edition,,
+,ATI Mobility Radeon 9800,,
+,NVIDIA GeForce GT 530 OEM,,
+,NVIDIA GeForce GTX 550 Ti,,
+,AMD Radeon Pro W5500M,,
+,NVIDIA GeForce GT 640 OEM,,
+,AMD Radeon R5 Graphics,,
+,AMD Radeon HD 7540D IGP,,
+,NVIDIA GeForce GTX 675MX Mac Edition,,
+,ATI Radeon X550,,
+,Intel HD Graphics,,
+,NVIDIA GeForce GT 745A,,
+,AMD Radeon HD 7970M,,
+,NVIDIA GeForce 920M,,
+,NVIDIA GeForce G110M,,
+,NVIDIA GeForce RTX 2060 TU104,,
+,AMD Radeon R5 M445,,
+,AMD Radeon Pro WX 7100 Mobile,,
+,NVIDIA GeForce GT 720M,,
+,ATI FirePro M7740,,
+,AMD Radeon R7 Mobile Graphics,,
+,ATI Radeon X850 PRO,,
+,AMD Radeon HD 8730A,,
+,AMD Radeon HD 6570M Mac Edition,,
+,NVIDIA GeForce GT 720 OEM,,
+,ATI Mobility FireGL V5000,,
+,NVIDIA RTX A4 Mobile,,
+,ATI Radeon 7000 Mac Edition PCI,,
+,XGI Volari V8 Ultra,,
+,NVIDIA GeForce Go 7600 GT,,
+,NVIDIA GeForce MX250,,
+,AMD Radeon R5 M230,,
+,NVIDIA GeForce Go 6200 TE,,
+,ATI Mobility Radeon HD 3450,,
+,NVIDIA GeForce GT 415M,,
+,Intel HD Graphics P4700,,
+,NVIDIA GeForce 7900 GTO,,
+,NVIDIA GeForce 8400,,
+,AMD Radeon R7 250X,,
+,NVIDIA GeForce GT 740M,,
+,NVIDIA GeForce 7600 GT,,
+,NVIDIA Quadro P5200 Mobile,,
+,ATI Radeon X700,,
+,NVIDIA GeForce 8800M GTS,,
+,NVIDIA Quadro K620M,,
+,NVIDIA Tesla S1070,,
+,NVIDIA CMP 90HX,,
+,ATI Xbox 360 GPU 90nm,,
+,NVIDIA GeForce GTX 950M,,
+,Intel GMA 3600,,
+,ATI FirePro V9800P,,
+,NVIDIA GeForce RTX 2070 SUPER Mobile,,
+,NVIDIA GeForce GT 620,,
+,ATI All-In-Wonder X1900,,
+,AMD Radeon HD 6250 IGP,,
+,NVIDIA GeForce GT 220,,
+,ATI Radeon HD 5490,,
+,NVIDIA GeForce GTX 960,,
+,NVIDIA GeForce4 460 Go,,
+,ATI Radeon 9800 PRO Mac Edition,,
+,NVIDIA GeForce 9100,,
+,ATI Radeon IGP 350M,,
+,NVIDIA GeForce GTS 350M,,
+,NVIDIA GeForce RTX 2060 SUPER,,
+,Intel HD Graphics 3000,,
+,AMD FirePro S9050,,
+,NVIDIA GeForce RTX 2080 Mobile,,
+,NVIDIA GeForce GTX 660 Ti,,
+,ATI Radeon X1650 GTO,,
+,NVIDIA GeForce Go 7400,,
+,ATI FireGL V8650,,
+,AMD Radeon R9 280X,,
+,AMD Radeon RX 560D,,
+,AMD Radeon R9 255 OEM,,
+,AMD FirePro S4000X,,
+,NVIDIA GeForce 6200 LE,,
+,NVIDIA Quadro M2000M,,
+,AMD Radeon RX 560X Mobile,,
+,NVIDIA GeForce Go 7600,,
+,AMD Radeon HD 7950 Mac Edition,,
+,NVIDIA GeForce 315 OEM,,
+,NVIDIA GeForce FX 5600 Ultra,,
+,NVIDIA GeForce 800A,,
+,ATI FirePro V3750,,
+,NVIDIA GeForce 710M,,
+,AMD Radeon Pro W5700X,,
+,NVIDIA GeForce FX 5800 Ultra,,
+,AMD Radeon HD 7870 XT,,
+,AMD Radeon HD 6470M,,
+,NVIDIA GeForce4 Ti 4200,,
+,AMD Radeon R7 M350,,
+,AMD FirePro W7170M,,
+,AMD Radeon R5 M430,,
+,AMD Radeon R9 380X,,
+,ATI FirePro V5800 DVI,,
+,NVIDIA GeForce 410M,,
+,NVIDIA GeForce 8600M GT,,
+,NVIDIA Quadro FX 2500M,,
+,NVIDIA Quadro4 500 Go GL,,
+,AMD Radeon Instinct MI8,,
+,NVIDIA GeForce GT 130 Mac Edition,,
+,AMD Radeon RX 580 2048SP,,
+,Intel UHD Graphics G4,,
+,AMD Radeon RX 570 Mobile,,
+,AMD Radeon R9 M295X Mac Edition,,
+,NVIDIA Quadro4 580 XGL,,
+,NVIDIA Quadro2 Go,,
+,AMD Radeon RX 5500 OEM,,
+,NVIDIA GeForce GTX 660 Rev. 2,,
+,NVIDIA Quadro K420,,
+,NVIDIA GeForce 9500 GT Rev. 3,,
+,NVIDIA GeForce2 MX 200,,
+,ATI Radeon HD 3870,,
+,NVIDIA GeForce GTX 1050 3 GB,,
+,NVIDIA GeForce4 Ti 4800,,
+,NVIDIA GeForce 8400 GS Rev. 2,,
+,ATI Radeon HD 4850 X2,,
+,NVIDIA GeForce 7050 + nForce 610i,,
+,Intel i852GM Graphics,,
+,NVIDIA Quadro NVS 280 PCI,,
+,Intel Iris Xe Graphics G7 80EU,,
+,AMD Radeon R9 M270X,,
+,AMD Radeon Pro Vega 20,,
+,Intel UHD Graphics 630,,
+,ATI All-In-Wonder Radeon 7200,,
+,NVIDIA GeForce 8700M GT,,
+,Intel HD Graphics 5000,,
+,NVIDIA Quadro P2000,,
+,AMD Radeon Pro WX 4170 Mobile,,
+,NVIDIA GeForce 9600 GS OEM,,
+,NVIDIA GeForce GTX 560 OEM,,
+,NVIDIA Quadro M4000M,,
+,ATI FirePro M7820,,
+,NVIDIA GeForce GT 1010,,
+,ATI Radeon HD 3200 IGP,,
+,AMD Radeon R7 M440,,
+,ATI Radeon IGP 340M,,
+,NVIDIA GeForce 7800 GS 24Pipes AGP,,
+,AMD Radeon R7 340 OEM,,
+,AMD Radeon HD 7750,,
+,NVIDIA GeForce 7800 GT,,
+,NVIDIA GeForce 840A,,
+,NVIDIA Quadro GP100,,
+,ATI Radeon HD 5530,,
+,NVIDIA GeForce FX 5200 Ultra Mac Edition,,
+,NVIDIA Tesla M60,,
+,ATI Xbox 360 E GPU,,
+,NVIDIA GeForce PCX 5750,,
+,NVIDIA GeForce 9400 GT Rev. 3,,
+,AMD Radeon Graphics 448SP,,
+,NVIDIA Quadro FX 1000,,
+,AMD Radeon R5 A330,,
+,ATI Radeon 9550,,
+,NVIDIA Quadro K510M,,
+,AMD Radeon HD 8740 OEM,,
+,NVIDIA GeForce 6800 Ultra,,
+,AMD Radeon HD 8370D IGP,,
+,NVIDIA Quadro FX 370 LP,,
+,NVIDIA GeForce 7150 + nForce 630i,,
+,AMD Radeon HD 8670A,,
+,NVIDIA GeForce GT 740A,,
+,AMD Radeon HD 6950,,
+,ATI Fire GL3,,
+,ATI Radeon DDR,,
+,NVIDIA Tesla K40m,,
+,NVIDIA GeForce RTX 2070 SUPER Max-Q,,
+,NVIDIA GeForce 510 OEM,,
+,NVIDIA Quadro 5000 SDI,,
+,AMD Radeon HD 7660G IGP,,
+,NVIDIA GeForce G105M,,
+,NVIDIA Tesla P100 PCIe 16 GB,,
+,ATI Radeon HD 4730 OEM,,
+,ATI FirePro V5800,,
+,NVIDIA GeForce GT 745M,,
+,AMD FirePro 2270,,
+,3dfx Voodoo5 5000 PCI,,
+,AMD Radeon R5 M230 Rebrand,,
+,NVIDIA GeForce FX 5100,,
+,Intel i830M Graphics,,
+,NVIDIA Quadro P2000 Mobile,,
+,NVIDIA GeForce Go 6100 + nForce Go 430,,
+,Intel GMA,,
+,NVIDIA Quadro FX 4800 Mac Edition,,
+,NVIDIA GeForce GTX 570,,
+,NVIDIA GeForce 845M,,
+,NVIDIA GeForce GTX 295,,
+,AMD Radeon HD 6450A,,
+,NVIDIA GeForce GT 320M,,
+,NVIDIA GeForce 7950 GX2,,
+,NVIDIA GeForce GTX 460 X2,,
+,ATI Mobility Radeon HD 4830,,
+,AMD Radeon Vega 6 Mobile,,
+,NVIDIA GeForce 8600M GS,,
+,ATI Wii GPU,,
+,AMD Radeon HD 7670M Rebrand,,
+,AMD Radeon HD 6970M Mac Edition,,
+,ATI Mobility Radeon X200 IGP,,
+,ATI Radeon HD 2600 XT AGP,,
+,ATI Mobility Radeon HD 3670,,
+,NVIDIA GeForce GT 520,,
+,AMD FirePro M6100,,
+,AMD Radeon R9 M380 Mac Edition,,
+,AMD Radeon Pro WX 8200,,
+,NVIDIA Quadro FX 1800,,
+,ATI Radeon X1650,,
+,NVIDIA GeForce FX Go5650,,
+,ATI Radeon HD 2600 PRO AGP,,
+,AMD Radeon HD 8280 Mobile IGP,,
+,AMD Radeon Pro 555,,
+,ATI Radeon Xpress 1150 IGP,,
+,ATI Radeon HD 5630,,
+,ATI Radeon X1550,,
+,AMD Radeon HD 6290,,
+,AMD Radeon E9260 MXM,,
+,AMD Radeon R5 M230,,
+,AMD Radeon HD 8550M,,
+,NVIDIA GeForce GTX 690,,
+,Intel HD Graphics 615,,
+,AMD Radeon HD 6450M,,
+,NVIDIA GeForce FX Go5250,,
+,NVIDIA GeForce GT 710 OEM,,
+,ATI Radeon HD 4580,,
+,AMD Zhongshan Subor Z+ GPU,,
+,AMD Radeon E9560 PCIe,,
+,AMD Radeon Pro Vega 64X,,
+,Intel HD Graphics 515,,
+,NVIDIA GeForce4 Go 4200,,
+,AMD Radeon Vega 10 Mobile,,
+,AMD FirePro W5130M,,
+,AMD Radeon RX 580 Mobile,,
+,NVIDIA Quadro Plex 7000,,
+,ATI Mobility FireGL T2e,,
+,NVIDIA Quadro FX 580,,
+,AMD Radeon HD 6510,,
+,AMD Radeon R7 M350,,
+,NVIDIA GeForce Go 6150 + nForce Go 430,,
+,ATI Radeon HD 4350 PCI,,
+,AMD Radeon HD 6970M Rebrand,,
+,NVIDIA Quadro4 400 NVS PCI,,
+,NVIDIA Quadro P520 Mobile,,
+,Intel UHD Graphics G1,,
+,NVIDIA Quadro K2000D,,
+,NVIDIA GeForce GTS 260M,,
+,AMD Radeon Instinct MI100,,
+,ATI FireGL V5200,,
+,NVIDIA GeForce 9800M GTS,,
+,NVIDIA GeForce GTX 780 Ti,,
+,ATI Radeon X1950 GT,,
+,NVIDIA Tesla V100 DGXS 32 GB,,
+,AMD Radeon R9 M390X,,
+,NVIDIA GeForce 810A,,
+,AMD Radeon Vega 3 Embedded,,
+,NVIDIA GeForce GTX TITAN,,
+,ATI Radeon 3000 IGP,,
+,ATI Radeon X1950 GT AGP,,
+,NVIDIA Quadro FX 370M,,
+,ATI Radeon X800 XL,,
+,NVIDIA Quadro FX 5500,,
+,NVIDIA Tesla K20s,,
+,AMD Radeon RX 590 GME,,
+,AMD Radeon HD 8400 Mobile IGP,,
+,AMD Radeon R9 M395 Mac Edition,,
+,AMD Radeon R9 M365X,,
+,NVIDIA ION,,
+,NVIDIA GeForce GT 755M Mac Edition,,
+,AMD Radeon Vega 3  Embedded,,
+,NVIDIA Quadro T1000 Mobile,,
+,AMD Radeon HD 6620G IGP,,
+,NVIDIA GeForce GT 545 OEM,,
+,Intel HD Graphics 610,,
+,ATI Radeon X550 XT,,
+,NVIDIA TITAN RTX,,
+,ATI FireMV 2200 PCI,,
+,3dfx Voodoo4 4800 AGP,,
+,NVIDIA GeForce Go 6600 TE,,
+,NVIDIA GeForce 9800M GTS,,
+,NVIDIA GeForce 930MX,,
+,ATI Mobility FireGL V5200,,
+,NVIDIA GeForce 210 OEM,,
+,ATI FireGL V3600,,
+,NVIDIA Quadro P500 Mobile,,
+,AMD FireStream 9370,,
+,NVIDIA GeForce 405 OEM,,
+,NVIDIA GeForce GTX 760 X2,,
+,NVIDIA GeForce GTX 1650,,
+,AMD Radeon RX 6900 XT,,
+,NVIDIA GeForce4 MX + nForce2,,
+,NVIDIA CMP 40HX,,
+,NVIDIA Quadro 2000M,,
+,Intel HD Graphics,,
+,AMD Radeon R2 Mobile Graphics,,
+,NVIDIA GeForce 6150,,
+,NVIDIA Quadro NVS 510M,,
+,ATI Mobility FireGL V5250,,
+,NVIDIA GeForce GTX 880M,,
+,ATI Mobility Radeon HD 545v,,
+,NVIDIA GeForce GTX 1050 Ti Mobile,,
+,AMD Radeon Instinct MI60,,
+,NVIDIA GeForce4 MX 440-8x,,
+,AMD Stream Processor,,
+,AMD FirePro S10000 Passive,,
+,NVIDIA Tesla X2070,,
+,AMD Radeon RX Vega 56,,
+,NVIDIA GeForce GT 520 PCI,,
+,NVIDIA NVS 5200M,,
+,NVIDIA NVS 5400M,,
+,NVIDIA Quadro FX 540,,
+,ATI Radeon X1300 PCI,,
+,AMD Radeon HD 8490 OEM,,
+,NVIDIA GeForce GTX 1660 SUPER,,
+,ATI Radeon E2400,,
+,ATI Radeon X1800 XT,,
+,AMD Radeon R7 M260DX,,
+,Intel UHD Graphics 730,,
+,ATI Radeon DDR VIVO,,
+,AMD Radeon HD 7650M,,
+,ATI Mobility Radeon 7500,,
+,XGI Volari Duo V5 Ultra,,
+,NVIDIA A10G,,
+,ATI Radeon HD 4350 PCIe x1,,
+,Intel Iris Xe Graphics G7 96EU,,
+,NVIDIA GeForce GTX 1050,,
+,AMD Radeon HD 6510,,
+,ATI Mobility Radeon HD 3410,,
+,Matrox QID,,
+,AMD Radeon RX Vega Nano,,
+,AMD Radeon R9 M395X,,
+,NVIDIA GeForce 320M,,
+,ATI Mobility Radeon X800 XT,,
+,NVIDIA Switch GPU 20nm,,
+,AMD Radeon Pro 5600M,,
+,Intel UHD Graphics 615,,
+,NVIDIA GeForce GT 230 OEM,,
+,NVIDIA Tesla P6,,
+,AMD Radeon HD 8850M,,
+,NVIDIA GeForce 705M,,
+,NVIDIA GeForce GTX 1080 Ti,,
+,NVIDIA GeForce GT 330 OEM,,
+,AMD FirePro W4170M,,
+,AMD Xbox One S GPU,,
+,AMD Radeon RX 580X Mobile,,
+,NVIDIA GRID K520Q,,
+,AMD Radeon HD 8530M,,
+,NVIDIA GeForce 8200M G mGPU Intel,,
+,ATI Radeon X800 XT Platinum,,
+,NVIDIA GeForce GT 430,,
+,AMD Radeon R7 M270,,
+,AMD Radeon Vega 6 Embedded,,
+,NVIDIA GeForce Go 7700,,
+,NVIDIA Tesla C2075,,
+,AMD Radeon RX 560X Mobile,,
+,ATI Radeon X1050,,
+,AMD FirePro S9150,,
+,NVIDIA A100 PCIe,,
+,AMD Radeon R9 FURY,,
+,NVIDIA Quadro P3200 Max-Q,,
+,ATI Mobility Radeon HD 5570,,
+,Matrox Millenium P750,,
+,AMD Radeon RX 560,,
+,AMD Radeon R6 Mobile Graphics,,
+,NVIDIA GeForce GTX 675MX,,
+,NVIDIA GeForce 6100,,
+,NVIDIA GeForce 945M,,
+,ATI FireGL V8600,,
+,ATI Radeon HD 4670 X2,,
+,AMD Radeon RX 560X Mobile,,
+,ATI Radeon X800 GTO2,,
+,NVIDIA GeForce GT 420 OEM,,
+,AMD Radeon Vega 8 Mobile,,
+,AMD Radeon HD 8470D IGP,,
+,NVIDIA GeForce4 MX 440,,
+,ATI Mobility Radeon 9000 IGP,,
+,NVIDIA Tesla K40t,,
+,NVIDIA GeForce RTX 2070 Mobile Refresh,,
+,Intel HD Graphics 4400,,
+,NVIDIA Quadro P620,,
+,AMD Radeon RX 560X Mobile,,
+,NVIDIA GeForce2 PRO,,
+,AMD Radeon HD 6350M,,
+,AMD Radeon RX 5700,,
+,NVIDIA GRID M60-1Q,,
+,ATI Mobility Radeon HD 4350,,
+,AMD Radeon HD 6330M,,
+,NVIDIA GeForce 7600 GT Mac Edition,,
+,NVIDIA GeForce GT 650M Mac Edition,,
+,ATI FireGL 9600 T2-128,,
+,NVIDIA GeForce FX Go5200 32M,,
+,AMD Radeon HD 8330 Mobile IGP,,
+,NVIDIA GeForce 8800 GS,,
+,NVIDIA GeForce 6200 AGP,,
+,AMD Radeon R7 M365X,,
+,ATI Radeon HD 2900 GT,,
+,NVIDIA GeForce GTX 560M,,
+,AMD Radeon Pro 570X,,
+,NVIDIA Quadro FX 2800M,,
+,NVIDIA GeForce GTX 770M,,
+,ATI Radeon X600 XT,,
+,AMD Radeon Pro V320,,
+,ATI All-In-Wonder X600 PRO,,
+,ATI Radeon X800 PRO AGP,,
+,ATI Mobility Radeon X1450,,
+,NVIDIA Quadro FX 3000G,,
+,NVIDIA Quadro FX 1700M,,
+,ATI Radeon HD 5570 OEM,,
+,ATI Mobility Radeon HD 4225 IGP,,
+,NVIDIA GeForce GTX 1660 Ti Max-Q,,
+,AMD Radeon HD 8510 OEM,,
+,NVIDIA Quadro FX 1300,,
+,ATI Radeon HD 4200 IGP,,
+,NVIDIA GeForce Go 6800 Ultra,,
+,NVIDIA GeForce GT 610 PCIe x1,,
+,NVIDIA GeForce GT 330 OEM,,
+,NVIDIA GRID K120Q,,
+,AMD Radeon R7 A360,,
+,NVIDIA Quadro K5000 SYNC,,
+,NVIDIA P106-100,,
+,ATI Radeon HD 3850 X2,,
+,ATI Mobility FireGL V5700,,
+,ATI Radeon HD 2950 PRO,,
+,AMD FirePro A320,,
+,ATI FirePro M5725,,
+,ATI Radeon HD 5690,,
+,ATI Radeon HD 3830,,
+,AMD Radeon HD 7490M,,
+,NVIDIA GeForce PCX 5900,,
+,NVIDIA GeForce 6600 GT,,
+,AMD Radeon HD 8670M,,
+,NVIDIA Quadro K6000 SDI,,
+,AMD Radeon HD 7590M,,
+,NVIDIA GeForce 8200,,
+,ATI Radeon X1900 G5 Mac Edition,,
+,NVIDIA GeForce GT 220 OEM,,
+,AMD Radeon RX Vega 11 Mobile,,
+,NVIDIA GeForce 8300 GS,,
+,NVIDIA Tesla V100 SXM3 32 GB,,
+,NVIDIA GeForce 9800M GS,,
+,Intel Iris Plus Graphics 655,,
+,AMD Radeon HD 6770M,,
+,AMD Radeon HD 6830M,,
+,AMD Radeon HD 6530M,,
+,Intel Iris Plus Graphics G7,,
+,ATI Radeon HD 4750,,
+,NVIDIA GeForce GT 415 OEM,,
+,NVIDIA GeForce MX130,,
+,NVIDIA GeForce FX 5200,,
+,NVIDIA GeForce GT 430 OEM,,
+,NVIDIA GeForce GTX 460,,
+,ATI Radeon HD 3450 X2,,
+,AMD Radeon RX Vega M GL,,
+,Intel HD Graphics 5500,,
+,NVIDIA Quadro K2200M,,
+,AMD Radeon HD 7420G IGP,,
+,ATI Radeon HD 5570,,
+,AMD Radeon HD 6450,,
+,ATI Radeon Xpress 1200 IGP,,
+,NVIDIA GeForce GT 755M,,
+,NVIDIA Tesla P100 DGXS,,
+,AMD Radeon RX 6800M,,
+,NVIDIA Quadro 400,,
+,NVIDIA GeForce4 410 Go,,
+,Intel Iris Pro Graphics 6200,,
+,AMD Radeon Pro Vega 64,,
+,AMD Radeon R9 A375,,
+,ATI Radeon X800 GTO,,
+,ATI Radeon X800 CrossFire Edition,,
+,AMD Radeon 535 Mobile,,
+,NVIDIA GeForce 9300M G,,
+,AMD Radeon HD 7790,,
+,NVIDIA GeForce 6800 LE,,
+,AMD Radeon RX 560 Mobile,,
+,NVIDIA Quadro NVS 140M,,
+,NVIDIA GeForce GTX 260,,
+,ATI Mobility Radeon HD 3470,,
+,NVIDIA GeForce GT 240,,
+,NVIDIA GeForce GT 610,,
+,ATI Mobility Radeon HD 5145,,
+,NVIDIA Quadro FX 1700 Mac Edition,,
+,ATI Mobility Radeon-P,,
+,AMD Radeon 550X,,
+,NVIDIA Quadro K4000M,,
+,NVIDIA Tesla M2050,,
+,AMD Radeon R9 M280X,,
+,NVIDIA GeForce PCX 5300,,
+,ATI Radeon VE PCI,,
+,NVIDIA GeForce GTX 1080 Ti 10 GB,,
+,NVIDIA GeForce RTX 3060,,
+,NVIDIA Tesla M10,,
+,NVIDIA GeForce 7025 + nForce 630a,,
+,NVIDIA GeForce GTX 760A,,
+,NVIDIA GeForce RTX 2060 Mobile,,
+,AMD FirePro W5000 DVI,,
+,Intel Iris Plus Graphics 645,,
+,3dfx Spectre 3000,,
+,NVIDIA Quadro RTX 6000,,
+,NVIDIA GeForce RTX 2070 SUPER,,
+,ATI Radeon HD 2900 XT,,
+,Intel Xe DG1-SDV,,
+,NVIDIA GeForce 9600 GT Mac Edition,,
+,ATI Radeon X800,,
+,ATI FirePro V7770,,
+,AMD Radeon R5 M420,,
+,NVIDIA Quadro K500M,,
+,AMD Radeon R7 350,,
+,NVIDIA GeForce2 GTS PRO,,
+,ATI Mobility Radeon HD 4250 IGP,,
+,AMD Radeon HD 7770M,,
+,NVIDIA Tesla S870,,
+,NVIDIA GeForce G103M,,
+,AMD Radeon HD 6290 IGP,,
+,NVIDIA GeForce 9500 GT Rev. 2,,
+,NVIDIA GeForce 705A,,
+,NVIDIA ION,,
+,Intel GMA 600,,
+,ATI Radeon HD 3650,,
+,ATI Radeon X800 GTO AGP,,
+,AMD Radeon RX 550X 640SP,,
+,NVIDIA GeForce 6150 SE + nForce 430,,
+,AMD Radeon RX 480,,
+,ATI Radeon X1650 XT Dual,,
+,ATI FireMV 2260 PCIe x1,,
+,NVIDIA Quadro FX 3400,,
+,NVIDIA GeForce4 Ti 4200,,
+,NVIDIA Quadro NVS 150M,,
+,ATI Mobility Radeon,,
+,NVIDIA GeForce 8400 SE,,
+,ATI FirePro 2260 PCI,,
+,AMD FirePro W7000,,
+,NVIDIA GeForce 6800 GT,,
+,NVIDIA GeForce 6200 LE PCI,,
+,AMD Radeon Graphics 448SP,,
+,NVIDIA GeForce 9600 GSO 512,,
+,AMD Radeon Vega 3 Embedded,,
+,Intel Iris Xe MAX Graphics,,
+,NVIDIA Quadro 500M,,
+,NVIDIA GeForce2 MX + nForce 420,,
+,NVIDIA GeForce GTX 1650 Ti Mobile,,
+,ATI Radeon 9800 XT,,
+,ATI All-In-Wonder 2006 AGP Edition,,
+,NVIDIA Quadro FX 4800,,
+,XGI Volari V5,,
+,AMD FirePro D500,,
+,AMD Radeon HD 6770,,
+,Intel HD Graphics P4600,,
+,NVIDIA GeForce 8100 + nForce 720a,,
+,NVIDIA Tesla K20c,,
+,NVIDIA GeForce GT 730M,,
+,Intel GMA 3000,,
+,NVIDIA GeForce 7900 GS,,
+,NVIDIA GeForce GT 140 OEM,,
+,AMD Radeon R9 M370X Mac Edition,,
+,ATI Radeon HD 5550,,
+,ATI Radeon HD 4520,,
+,ATI Mobility Radeon 9500,,
+,ATI Radeon HD 4860,,
+,NVIDIA Quadro K4100M,,
+,NVIDIA GeForce GT 750M Mac Edition,,
+,NVIDIA GeForce 800A,,
+,ATI Radeon 9800 XT Mac Edition,,
+,NVIDIA GeForce GTX 280M,,
+,NVIDIA Quadro FX 3600M,,
+,NVIDIA Quadro RTX 8000,,
+,AMD Radeon R9 390,,
+,NVIDIA GeForce 9600M GS,,
+,ATI Radeon X1600,,
+,ATI Radeon HD 2600 XT,,
+,ATI Radeon HD 3870 X2,,
+,AMD Radeon Pro WX 4130 Mobile,,
+,NVIDIA GeForce GT 645M,,
+,NVIDIA GeForce GTX 850A,,
+,NVIDIA GeForce4 Ti 4800 SE,,
+,AMD Radeon RX 550 Mobile,,
+,NVIDIA Quadro FX 380M,,
+,NVIDIA Quadro FX 4500,,
+,AMD Radeon HD 7850M,,
+,AMD Radeon R7 M265,,
+,ATI Radeon 3100 IGP,,
+,ATI Mobility Radeon HD 4850 X2,,
+,NVIDIA GeForce FX 5500 PCI,,
+,AMD Radeon HD 8550D IGP,,
+,ATI Radeon X700 PRO AGP,,
+,Matrox Parhelia Precision SGT,,
+,Intel GMA X3000,,
+,AMD Radeon HD 8830M,,
+,NVIDIA GeForce 9400 GT,,
+,ATI All-In-Wonder X800 XL,,
+,AMD Radeon HD 7670M,,
+,NVIDIA GeForce 8800 GTS Core 112,,
+,NVIDIA Quadro RTX 8000 Passive,,
+,NVIDIA Tesla C1060,,
+,NVIDIA Quadro 4000 Mac Edition,,
+,ATI Radeon X1800 GTO2,,
+,AMD Radeon Vega 8,,
+,AMD Atari VCS 400 GPU,,
+,NVIDIA GeForce RTX 2080,,
+,Matrox Parhelia 128 MB,,
+,AMD Radeon R9 FURY X,,
+,AMD Radeon R5 310 OEM,,
+,NVIDIA GeForce 6100 + nForce 405,,
+,Intel HD Graphics 4600,,
+,ATI Mobility Radeon X300,,
+,NVIDIA GeForce 6200 LE AGP,,
+,NVIDIA GeForce 7800 GTX 512,,
+,NVIDIA GeForce GTX 1050 Mobile 3 GB,,
+,ATI Radeon X1550,,
+,ATI FireGL V3400,,
+,AMD Radeon R9 360 OEM,,
+,AMD Radeon Pro WX 3200 Mobile,,
+,NVIDIA GeForce GT 650M,,
+,NVIDIA GRID K220Q,,
+,NVIDIA GRID K240Q,,
+,NVIDIA GeForce GTX 1650 Max-Q,,
+,NVIDIA GeForce GTX 1070,,
+,NVIDIA GeForce 930A,,
+,AMD Radeon Vega 3 Embedded,,
+,ATI Mobility Radeon HD 5870,,
+,AMD Radeon Pro 575X,,
+,AMD Radeon Pro WX 3200,,
+,AMD Xbox Series S GPU,,
+,AMD Radeon RX 540 Mobile,,
+,AMD Radeon HD 8450G IGP,,
+,AMD Radeon Pro W5500,,
+,NVIDIA GeForce GT 705 OEM,,
+,ATI FirePro V8800,,
+,AMD Radeon HD 7850,,
+,Intel HD Graphics 610,,
+,AMD Radeon HD 7950 Monica BIOS 2,,
+,ATI Radeon IGP 320M,,
+,Matrox Millennium G550,,
+,AMD FirePro M4000,,
+,3dfx Voodoo4 4500 AGP,,
+,AMD Radeon R9 M375X,,
+,AMD FirePro W5100,,
+,ATI Radeon 9800 SE,,
+,NVIDIA GRID M10-8Q,,
+,NVIDIA GeForce Go 6800,,
+,ATI FireGL 8700,,
+,NVIDIA ION 2,,
+,AMD Radeon Vega 8 Mobile,,
+,AMD Radeon R7 250,,
+,NVIDIA GRID K2,,
+,NVIDIA Quadro FX Go540,,
+,NVIDIA GeForce GT 130 OEM,,
+,ATI Radeon 7000 Mac Edition,,
+,AMD Radeon R9 M385X,,
+,NVIDIA GeForce GTX 560 Ti 448,,
+,AMD Radeon R7 M265DX,,
+,NVIDIA GeForce GT 640M Mac Edition,,
+,NVIDIA GeForce GT 555M,,
+,NVIDIA NVS 315,,
+,ATI All-In-Wonder X1800 XL,,
+,ATI Radeon X1300 PRO,,
+,ATI FireGL V7100,,
+,ATI Radeon HD 4850,,
+,NVIDIA GeForce GTX 960M,,
+,AMD Radeon R5 M240 Rebrand,,
+,AMD FirePro W4190M,,
+,ATI FirePro V7750,,
+,ATI Mobility Radeon HD 4670 Mac Edition,,
+,ATI Mobility Radeon 9100 PRO IGP,,
+,ATI Radeon 9200 LE,,
+,NVIDIA GeForce 7800 GT Dual,,
+,ATI FirePro M5800,,
+,ATI Radeon X1800 XL,,
+,AMD Radeon R9 M360,,
+,NVIDIA GeForce 7600 GS AGP,,
+,AMD Radeon HD 6670,,
+,NVIDIA GeForce GTX 1070 Max-Q,,
+,NVIDIA GeForce GTS 250,,
+,Intel GMA X4500M,,
+,NVIDIA GeForce GTX 650 Ti OEM,,
+,AMD Radeon HD 6410D IGP,,
+,AMD Radeon R5 M465,,
+,AMD Radeon HD 7750M,,
+,3dfx Voodoo5 5000 AGP,,
+,AMD Radeon E6460,,
+,NVIDIA NVS 1000,,
+,ATI Radeon 9250 PCI,,
+,AMD Radeon HD 6550M,,
+,NVIDIA GeForce FX 5700 VE,,
+,NVIDIA Quadro FX 550M,,
+,NVIDIA Quadro T2000 Max-Q,,
+,NVIDIA GeForce GTX 860M,,
+,AMD Radeon RX Vega 64 Limited Edition,,
+,Matrox Parhelia 256 MB,,
+,NVIDIA GeForce G210 OEM,,
+,NVIDIA GeForce 7900 GX2,,
+,NVIDIA GeForce 6600 LE,,
+,ATI Mobility Radeon X2300,,
+,ATI Radeon 7200,,
+,ATI FireGL 9700 X1-256,,
+,ATI Radeon HD 5830,,
+,Matrox QID LP PCI,,
+,NVIDIA GeForce GTS 450 Rev. 2,,
+,ATI Radeon X850 XT Platinum AGP,,
+,ATI Mobility FireGL 9000,,
+,ATI Mobility Radeon HD 3850 X2,,
+,AMD Radeon HD 7720 OEM,,
+,AMD Radeon R9 M290X,,
+,ATI Mobility Radeon 9700,,
+,AMD Radeon 630 Mobile,,
+,ATI Radeon Xpress 1250 Mobile IGP,,
+,NVIDIA GRID M60-4A,,
+,ATI Radeon HD 4250 IGP,,
+,NVIDIA Quadro K200M,,
+,NVIDIA GeForce3 Ti500,,
+,ATI Radeon X300 SE,,
+,NVIDIA GeForce GT 320 OEM,,
+,ATI Radeon 9500 PRO,,
+,Intel Iris Pro Graphics P555,,
+,NVIDIA GRID K340,,
+,XGI Volari Duo V8 Ultra,,
+,AMD FirePro W600,,
+,AMD Radeon HD 6970 X2,,
+,NVIDIA GeForce Go 7450,,
+,Intel HD Graphics 405,,
+,AMD Radeon R7 A260,,
+,AMD Radeon RX 5700M,,
+,NVIDIA P104-100,,
+,NVIDIA GeForce GT 610 OEM,,
+,AMD Radeon HD 6870 X2,,
+,ATI Radeon HD 4890,,
+,3dfx Voodoo5 5500 AGP,,
+,AMD Radeon Vega 8 Mobile,,
+,NVIDIA Quadro 5000,,
+,NVIDIA Tesla P100 SXM2,,
+,ATI Radeon X1550,,
+,NVIDIA GeForce GT 420M,,
+,AMD FirePro S9010,,
+,ATI Radeon X1650 PRO AGP,,
+,NVIDIA GeForce FX 5700,,
+,ATI Mobility FireGL 7800,,
+,Intel UHD Graphics P630,,
+,ATI All-In-Wonder 9600,,
+,NVIDIA Quadro 6000 SDI,,
+,NVIDIA GeForce 940M,,
+,NVIDIA GeForce GT 640 OEM Rebrand,,
+,NVIDIA NVS 4200M,,
+,AMD Radeon HD 6350A,,
+,AMD Radeon R7 350X OEM,,
+,ATI Radeon Xpress 1100 IGP,,
+,NVIDIA GeForce RTX 3060 Mobile,,
+,AMD Radeon HD 8650G IGP,,
+,NVIDIA GeForce GT 730A,,
+,NVIDIA GeForce 830M,,
+,NVIDIA Quadro M2200 Mobile,,
+,ATI Radeon Xpress 200 IGP,,
+,ATI Radeon X300,,
+,NVIDIA GeForce2 GTS,,
+,NVIDIA GeForce 820M,,
+,AMD Radeon R5 Mobile Graphics,,
+,ATI Radeon X700 SE,,
+,NVIDIA GeForce 7800 GS+ AGP,,
+,AMD Radeon HD 6550D IGP,,
+,AMD Radeon R9 390X,,
+,NVIDIA GeForce 8600M GT,,
+,NVIDIA GeForce RTX 2070 Max-Q Refresh,,
+,NVIDIA GeForce 9800 GX2,,
+,Intel GMA 3150,,
+,NVIDIA GeForce GTX 460 SE v2,,
+,NVIDIA GeForce2 MX DH Pro TV PCI,,
+,ATI Mobility Radeon HD 5730,,
+,NVIDIA Quadro NVS 295,,
+,NVIDIA GeForce Go 6600,,
+,NVIDIA GeForce 9400,,
+,Intel HD Graphics 630,,
+,AMD Radeon HD 7520G IGP,,
+,NVIDIA GeForce4 Ti 4600,,
+,NVIDIA Tesla M2075,,
+,NVIDIA Playstation 3 GPU 65nm,,
+,AMD Radeon Vega 8 Mobile,,
+,NVIDIA Quadro K1000M,,
+,NVIDIA Quadro M6000,,
+,NVIDIA Quadro T500 Mobile,,
+,ATI Radeon X1950 XT,,
+,NVIDIA GeForce4 MX 440-SE,,
+,ATI Radeon X800 XT AGP,,
+,NVIDIA GeForce GTX 480 Core 512,,
+,NVIDIA GeForce 920A,,
+,ATI Radeon 8500 XT,,
+,NVIDIA GeForce Go 7800 GTX,,
+,AMD Radeon Pro W5700,,
+,AMD Radeon HD 6770M Mac Edition,,
+,NVIDIA GeForce GTX 775M Mac Edition,,
+,NVIDIA GeForce 9200M GS,,
+,AMD Radeon HD 6370D IGP,,
+,NVIDIA GeForce FX Go5200,,
+,NVIDIA Tesla V100 PCIe 16 GB,,
+,AMD Radeon R7 250,,
+,NVIDIA GeForce GT 740 OEM,,
+,ATI FireGL V5000,,
+,NVIDIA Quadro4 100 NVS PCI,,
+,AMD FirePro 2270 PCIe x1,,
+,ATI Radeon HD 4710,,
+,NVIDIA GeForce 210 PCI,,
+,AMD Radeon HD 6850M,,
+,AMD Radeon HD 8550 OEM,,
+,AMD Radeon HD 6490M,,
+,AMD Radeon R5 Mobile Graphics,,
+,AMD FirePro W5000,,
+,NVIDIA Vanta LT,,
+,AMD Radeon E9175 PCIe,,
+,NVIDIA Quadro K2000,,
+,Intel HD Graphics,,
+,XGI Volari V8 Ultra,,
+,ATI FirePro V8700 Duo,,
+,AMD Radeon Pro WX 4100,,
+,ATI Radeon X800 GTO AGP,,
+,ATI Radeon 9600 SE,,
+,AMD Radeon R9 290X2,,
+,NVIDIA Quadro FX 3000,,
+,NVIDIA Quadro FX 560,,
+,ATI Radeon Xpress 200M IGP,,
+,NVIDIA Quadro FX 370,,
+,NVIDIA Playstation 3 GPU 40nm,,
+,NVIDIA GeForce MX230,,
+,NVIDIA GeForce GT 435M,,
+,Intel UHD Graphics 605,,
+,NVIDIA GeForce 6200 LE AGP 512 MB,,
+,NVIDIA NVS 5100M,,
+,ATI Radeon HD 3550,,
+,AMD Radeon HD 7870 GHz Edition,,
+,NVIDIA Quadro FX 1100,,
+,XGI Volari 8300,,
+,AMD Playstation 5 GPU,,
+,AMD Radeon R7 M460,,
+,NVIDIA GRID RTX T10-4,,
+,AMD Radeon HD 8210 IGP,,
+,NVIDIA GeForce GT 440,,
+,AMD FirePro W8000,,
+,Intel HD Graphics 505,,
+,NVIDIA GeForce GTX 1650 TU116,,
+,AMD Radeon HD 8670M,,
+,ATI Radeon 2100 IGP,,
+,Intel HD Graphics P5700,,
+,NVIDIA Tesla PG503-216,,
+,NVIDIA GeForce 9400,,
+,ATI Radeon X1050,,
+,AMD Radeon HD 8590M,,
+,AMD Radeon Vega 3 Embedded,,
+,ATI Radeon HD 4650,,
+,AMD Radeon RX 455 OEM,,
+,NVIDIA GeForce GT 435M,,
+,NVIDIA Quadro M6000 24 GB,,
+,AMD Radeon HD 7870M,,
+,NVIDIA GeForce G210M,,
+,Intel GMA 950,,
+,AMD Radeon R9 M470X,,
+,NVIDIA GeForce GTX 770,,
+,ATI Radeon X1800 GTO,,
+,NVIDIA Quadro RTX 5000 Mobile Refresh,,
+,AMD Radeon Pro 575,,
+,ATI Mobility Radeon 9000 IGP,,
+,Intel GMA 3100,,
+,NVIDIA Quadro FX 360M,,
+,NVIDIA GeForce RTX 3080,,
+,AMD Radeon HD 7430M,,
+,AMD Radeon Pro WX 8100,,
+,NVIDIA GeForce GTX 1660,,
+,AMD Radeon Pro 5300M,,
+,AMD FirePro S7150 x2,,
+,NVIDIA Quadro FX 1600M,,
+,AMD Radeon Pro 560X,,
+,NVIDIA Quadro Plex 1000 Model II,,
+,Intel i815 Graphics,,
+,AMD Radeon R9 390 X2,,
+,NVIDIA GeForce 9400 GT PCI,,
+,AMD Radeon HD 7950 Boost,,
+,NVIDIA GeForce GTX 760 Ti OEM Rebrand,,
+,ATI FireGL V3300,,
+,NVIDIA GeForce GT 630 OEM,,
+,NVIDIA GeForce GTX 590,,
+,AMD Radeon R7 M360,,
+,NVIDIA Quadro M620 Mobile,,
+,NVIDIA GeForce GTX 660 OEM,,
+,ATI Radeon HD 5730,,
+,ATI FireGL V3200,,
+,AMD Radeon RX 5500M,,
+,NVIDIA GeForce 9600M GT,,
+,NVIDIA GeForce 610,,
+,AMD Radeon Pro Vega 56,,
+,NVIDIA Quadro K5000 Mac Edition,,
+,ATI Radeon X1050 AGP,,
+,ATI Radeon HD 4870 Mac Edition,,
+,AMD FirePro V3900,,
+,NVIDIA GeForce GT 625 OEM,,
+,AMD Radeon RX 5700 XT 50th Anniversary,,
+,NVIDIA Quadro P600 Mobile,,
+,ATI Mobility Radeon HD 560v,,
+,NVIDIA GeForce FX 5900 XT,,
+,AMD FirePro W4150M,,
+,NVIDIA Quadro NVS 120M,,
+,NVIDIA GeForce 6200 X2 PCI,,
+,NVIDIA A30 PCIe,,
+,ATI Radeon 9600 XT,,
+,ATI Radeon HD 4720,,
+,NVIDIA GeForce 9300 GE,,
+,NVIDIA GeForce GTX 460M,,
+,ATI FirePro V7760,,
+,NVIDIA GRID K180Q,,
+,Intel HD Graphics 5600,,
+,NVIDIA GeForce4 Ti 4400,,
+,NVIDIA Quadro FX 770M,,
+,ATI Radeon 7000 PCI,,
+,AMD Radeon R5 M240,,
+,NVIDIA GeForce GT 220M,,
+,NVIDIA GeForce GT 710M,,
+,ATI FireMV 2250,,
+,NVIDIA GeForce GT 635 OEM,,
+,Intel GMA 900,,
+,Intel HD Graphics 530,,
+,NVIDIA GeForce GTX 950,,
+,NVIDIA GeForce GTX 1660 Ti,,
+,NVIDIA GeForce GTX 965M,,
+,NVIDIA Quadro RTX 5000 Max-Q,,
+,AMD Radeon HD 8570D IGP,,
+,ATI Radeon LE,,
+,AMD Radeon Vega 9 Mobile,,
+,NVIDIA GeForce 9500 GT Mac Edition,,
+,NVIDIA GeForce GTX 750,,
+,AMD Radeon Pro 455,,
+,AMD Radeon R7 M340,,
+,ATI Radeon X700 XT,,
+,ATI Radeon HD 4870,,
+,NVIDIA GeForce GT 630,,
+,AMD Radeon HD 7730,,
+,NVIDIA Quadro FX 1500,,
+,ATI Radeon HD 5750,,
+,NVIDIA GeForce GT 630M,,
+,AMD Radeon HD 7550M,,
+,AMD Radeon E9390 PCIe,,
+,NVIDIA GeForce 505 OEM,,
+,NVIDIA GeForce GT 445M,,
+,ATI Mobility Radeon HD 4270 IGP,,
+,ATI Radeon HD 4570,,
+,AMD Radeon RX 550 640SP,,
+,NVIDIA GeForce GTX 1650 SUPER,,
+,AMD Radeon 530 Mobile,,
+,AMD Radeon R5 M320,,
+,AMD Radeon R5 A240,,
+,NVIDIA GeForce GTX 1060 8 GB GDDR5X,,
+,ATI Radeon X800 GT,,
+,AMD Radeon Pro 560,,
+,NVIDIA Quadro 410,,
+,AMD Radeon HD 8210E,,
+,NVIDIA GeForce GTX 1650 Mobile,,
+,ATI Radeon Xpress 1100 Mobile IGP,,
+,NVIDIA Quadro K4000,,
+,AMD Radeon RX 580X,,
+,NVIDIA GeForce 940M,,
+,NVIDIA Quadro K620,,
+,NVIDIA Quadro FX 3450,,
+,AMD Radeon R7 M370,,
+,AMD Radeon RX 560X,,
+,NVIDIA GeForce 8400 GS PCI Rev. 2,,
+,AMD Radeon Pro 570,,
+,NVIDIA GeForce 7050 + nForce 630a,,
+,ATI Radeon X850 PRO AGP,,
+,ATI Radeon HD 2400,,
+,NVIDIA Quadro FX 330,,
+,ATI Radeon 9200 SE,,
+,NVIDIA GeForce GTX 780 Ti 6 GB,,
+,AMD FirePro M6000,,
+,AMD Radeon RX Vega 11 Mobile,,
+,NVIDIA Quadro FX 2000,,
+,AMD Radeon Sky 700,,
+,NVIDIA Quadro FX 1700,,
+,AMD Radeon 625 Mobile,,
+,NVIDIA GeForce 8400M G,,
+,NVIDIA GeForce GT 640 Rev. 2,,
+,NVIDIA GRID K540Q,,
+,NVIDIA GeForce GT 710,,
+,NVIDIA GeForce 9400 GT Rev. 2,,
+,AMD Radeon HD 8570M,,
+,AMD Radeon R9 270X,,
+,NVIDIA GeForce 6800 Ultra,,
+,AMD Radeon R5 340X OEM,,
+,NVIDIA GeForce 9500 GT,,
+,AMD Radeon RX 560DX,,
+,AMD Radeon R7 260X,,
+,ATI Radeon X1700 SE,,
+,AMD Radeon HD 6370M,,
+,AMD Radeon HD 8770 OEM,,
+,NVIDIA GeForce 7150M + nForce 630M,,
+,NVIDIA Quadro RTX 4000 Mobile,,
+,ATI Mobility Radeon X1300,,
+,ATI Radeon 9200 PCI,,
+,ATI Mobility Radeon HD 3650,,
+,NVIDIA Jetson TX2 GPU,,
+,Intel HD Graphics 500,,
+,NVIDIA GeForce GT 240M,,
+,ATI Radeon 9200,,
+,XGI Volari V5,,
+,NVIDIA GeForce GTX 1080 Mobile,,
+,ATI Mobility Radeon HD 4200 IGP,,
+,AMD Radeon Vega 10 Mobile,,
+,AMD Radeon R5 M430,,
+,NVIDIA GeForce 6800 XE,,
+,NVIDIA GeForce GT 635M,,
+,ATI Radeon HD 5570,,
+,NVIDIA GeForce RTX 3060 Ti,,
+,NVIDIA GeForce GT 730,,
+,ATI Radeon E4690 MXM,,
+,AMD Radeon R7 A360,,
+,ATI Radeon HD 5850,,
+,NVIDIA GeForce GTX 465,,
+,AMD Radeon HD 6390,,
+,AMD FirePro S7150,,
+,NVIDIA GeForce 9600 GTX,,
+,NVIDIA Tesla PG500-216,,
+,NVIDIA Quadro NVS 50 PCI,,
+,ATI Radeon X1950 XTX,,
+,Intel Iris Graphics 5100,,
+,NVIDIA GeForce GTX 460 v2 ES,,
+,NVIDIA GeForce 8600 GT Mac Edition,,
+,NVIDIA Tegra 4 GPU,,
+,AMD Radeon R9 295X2,,
+,NVIDIA GeForce GTX 750 Ti OEM,,
+,NVIDIA Quadro4 700 XGL,,
+,AMD Radeon Vega 11,,
+,AMD Radeon HD 7330M,,
+,NVIDIA GeForce GTX 490,,
+,ATI Radeon HD 5470,,
+,AMD Radeon HD 8650D IGP,,
+,ATI Mobility Radeon HD 4850 Mac Edition,,
+,Intel UHD Graphics 630,,
+,AMD Radeon R7 265X OEM,,
+,AMD Radeon R5 M335,,
+,NVIDIA GeForce 9500 GS,,
+,NVIDIA GeForce 7900 GS AGP,,
+,NVIDIA GeForce 8600 GS,,
+,AMD Radeon HD 6990M Rebrand,,
+,NVIDIA GeForce GTS 250M,,
+,AMD Radeon R5 235 OEM,,
+,ATI All-In-Wonder 9600 XT,,
+,Intel HD Graphics 630,,
+,AMD Radeon HD 8400E,,
+,NVIDIA Quadro NVS 290,,
+,Intel UHD Graphics 610,,
+,NVIDIA GeForce GTX 275,,
+,NVIDIA GeForce GT 710,,
+,NVIDIA Quadro FX 3600M,,
+,Matrox Parhelia APVe,,
+,AMD Radeon R7 M340,,
+,NVIDIA GeForce 9600 GT,,
+,NVIDIA GeForce GTX 670M,,
+,ATI Mobility Radeon X200 IGP,,
+,NVIDIA GeForce2 MX 400 PCI,,
+,NVIDIA Quadro Plex 2100 S4,,
+,ATI Radeon HD 3690,,
+,NVIDIA GeForce4 420 Go,,
+,AMD Radeon HD 6250 IGP,,
+,NVIDIA GeForce GT 635M,,
+,NVIDIA Quadro FX 550,,
+,ATI FireGL V5600,,
+,ATI Radeon IGP 320,,
+,NVIDIA GeForce 845M,,
+,ATI FireGL 9700 X1-128,,
+,ATI Radeon HD 5870,,
+,NVIDIA GeForce GTX 1070 GDDR5X,,
+,ATI Radeon X1900 CrossFire Edition,,
+,NVIDIA GeForce4 Ti 4200-8X,,
+,NVIDIA GeForce GTS 450 OEM,,
+,NVIDIA GeForce RTX 3050 Ti Max-Q,,
+,NVIDIA GeForce 940MX,,
+,Intel GMA X3000,,
+,ATI Radeon X1300 AGP,,
+,NVIDIA GeForce GTX 580M,,
+,NVIDIA GeForce GTX 1050 Mobile,,
+,AMD Radeon Pro WX 3100,,
+,ATI Mobility Radeon,,
+,NVIDIA GeForce GT 720,,
+,AMD FirePro W6150M,,
+,ATI FirePro V7800P,,
+,AMD Radeon R4 Mobile Graphics,,
+,NVIDIA GeForce RTX 3070 Max-Q,,
+,AMD Radeon RX Vega 10 Mobile,,
+,NVIDIA Tesla K8,,
+,NVIDIA GeForce 800M,,
+,NVIDIA GeForce 9100M G mGPU AMD,,
+,AMD Radeon 610 Mobile,,
+,NVIDIA GeForce4 MX 440 Mac Edition,,
+,NVIDIA Quadro FX 570,,
+,3dfx Voodoo5 6000,,
+,NVIDIA GeForce GTX 650,,
+,AMD FirePro A300,,
+,NVIDIA GeForce GTX 1070 Mobile,,
+,NVIDIA GeForce Go 7950 GTX,,
+,NVIDIA GeForce GT 330 OEM,,
+,ATI FireGL V7700,,
+,AMD Radeon Instinct MI50,,
+,AMD Radeon RX 540X Mobile,,
+,AMD Radeon R9 M390 Mac Edition,,
+,AMD Radeon Vega 3 Mobile,,
+,AMD Radeon E6760 PCIe,,
+,AMD FirePro RG220A,,
+,NVIDIA GeForce Go 6600 NPB 128M,,
+,AMD Radeon R7 M265,,
+,NVIDIA GeForce G105M,,
+,NVIDIA Quadro K3100M,,
+,NVIDIA GeForce GTS 240 OEM,,
+,NVIDIA Tesla V100 SXM2 16 GB,,
+,ATI Radeon X1900 GT,,
+,NVIDIA GeForce GT 440 Mac Edition,,
+,NVIDIA Quadro M1200 Mobile,,
+,AMD Radeon HD 7630M,,
+,NVIDIA GeForce GTX 1050 Max-Q,,
+,AMD Radeon HD 6520G IGP,,
+,NVIDIA GeForce GT 610 OEM,,
+,NVIDIA Quadro M2000,,
+,Intel UHD Graphics P630,,
+,AMD Radeon HD 6250,,
+,AMD Radeon RX Vega 64,,
+,AMD FirePro M5950,,
+,ATI Mobility Radeon X1700,,
+,AMD Radeon RX Vega 11 Embedded,,
+,NVIDIA Quadro RTX 6000 Mobile,,
+,ATI Radeon X800 XT Mac Edition,,
+,NVIDIA GeForce 9800M GTX,,
+,AMD Radeon R5 M430,,
+,NVIDIA Quadro DCC,,
+,NVIDIA GeForce 6600,,
+,NVIDIA Quadro NVS 280 SD,,
+,NVIDIA Tesla M40,,
+,ATI Mobility Radeon HD 530v,,
+,AMD Radeon R5 M250,,
+,AMD Radeon 550,,
+,NVIDIA GeForce GTX 650 Ti Boost,,
+,ATI Mobility Radeon 9700 SE,,
+,ATI Radeon X1650 PRO,,
+,NVIDIA Quadro NVS 55 PCI,,
+,AMD Radeon R9 285,,
+,AMD FireStream 9350,,
+,NVIDIA Quadro 5010M,,
+,NVIDIA GeForce GTX 485M,,
+,NVIDIA GeForce GTX 1060 Max-Q,,
+,Intel UHD Graphics P630,,
+,Intel HD Graphics 510,,
+,NVIDIA TITAN Xp,,
+,AMD FirePro V7900,,
+,AMD Radeon RX 470,,
+,AMD Radeon R6 M255DX,,
+,Intel HD Graphics 510,,
+,NVIDIA GeForce RTX 3080 Ti,,
+,AMD Radeon HD 7290 IGP,,
+,NVIDIA Tesla M1060,,
+,NVIDIA Quadro FX 380,,
+,NVIDIA Quadro NVS 285,,
+,AMD FirePro V5900,,
+,ATI Radeon X700 LE,,
+,ATI FirePro 2460 Multi-View,,
+,NVIDIA GeForce FX Go5200 NPB 64M,,
+,NVIDIA Quadro FX 3700M,,
+,ATI Radeon X800 XL AGP,,
+,AMD FirePro V4900,,
+,NVIDIA GeForce GTX 670,,
+,NVIDIA Tegra 4i GPU,,
+,NVIDIA GeForce 505 OEM,,
+,NVIDIA GeForce 405 OEM,,
+,NVIDIA Quadro NVS 130M,,
+,NVIDIA Quadro4 980 XGL,,
+,ATI FireGL V5100,,
+,NVIDIA GeForce GTX 285M,,
+,NVIDIA GeForce 9400,,
+,NVIDIA NVS 310,,
+,ATI Radeon Xpress 1250 IGP,,
+,AMD FirePro S7000,,
+,NVIDIA Quadro P4000,,
+,Matrox Millennium G450,,
+,NVIDIA GeForce GT 620M,,
+,NVIDIA Tesla K80,,
+,AMD Radeon RX 470D,,
+,NVIDIA GeForce GTX 560,,
+,NVIDIA ION,,
+,3dfx Voodoo4-2 4000 AGP,,
+,NVIDIA GeForce G205M,,
+,NVIDIA GeForce GTX 760 OEM Rebrand,,
+,Intel UHD Graphics 750,,
+,NVIDIA Quadro Plex 2200 D2,,
+,NVIDIA GeForce GTX 1050 Ti Max-Q,,
+,Intel Xe DG1 OEM,,
+,NVIDIA Quadro FX 350,,
+,ATI Radeon HD 4290 IGP,,
+,AMD Radeon HD 6310 IGP,,
+,ATI All-In-Wonder 2006 PCIe Edition,,
+,NVIDIA GeForce GTX 1650 Mobile,,
+,NVIDIA GeForce2 MX 400,,
+,AMD Radeon HD 6610,,
+,AMD Radeon HD 8670 OEM,,
+,NVIDIA GeForce GTX 980MX,,
+,Intel GMA X3100,,
+,NVIDIA A40 PCIe,,
+,NVIDIA Quadro NVS 420,,
+,NVIDIA GeForce GT 120 Mac Edition,,
+,NVIDIA GeForce 7300 GT,,
+,NVIDIA GeForce GT 820M,,
+,Intel HD Graphics,,
+,NVIDIA GeForce GT 545,,
+,ATI Radeon HD 4855,,
+,NVIDIA GeForce 620M,,
+,Intel HD Graphics,,
+,NVIDIA GeForce 8800 GT,,
+,ATI Mobility FireGL T2,,
+,ATI Radeon 9600 TX,,
+,AMD Radeon HD 7470 OEM,,
+,NVIDIA Tesla M4,,
+,ATI Radeon Xpress 2100 IGP,,
+,AMD Xbox One X GPU,,
+,NVIDIA Quadro NVS 110M,,
+,ATI Radeon HD 2600 XT AGP,,
+,NVIDIA GeForce GTX 1650 Ti Max-Q,,
+,NVIDIA GeForce GTX 650,,
+,NVIDIA GeForce GT 430 PCI,,
+,NVIDIA GeForce 6800 XT,,
+,ATI Radeon HD 2400 PRO,,
+,AMD Radeon RX 5600 OEM,,
+,NVIDIA GeForce GTX 680,,
+,ATI Radeon X800 SE AGP,,
+,NVIDIA Quadro RTX 5000 Mobile,,
+,NVIDIA GRID K520,,
+,AMD Radeon Graphics 320SP,,
+,ATI Mobility Radeon HD 4550,,
+,NVIDIA Quadro FX 700,,
+,ATI All-In-Wonder Radeon 7500,,
+,AMD Radeon RX 590,,
+,AMD Radeon HD 6570,,
+,NVIDIA GRID M40,,
+,ATI Radeon 9000 LE,,
+,ATI Radeon X1650,,
+,NVIDIA Quadro FX 3800,,
+,AMD Radeon HD 8610G IGP,,
+,Intel HD Graphics P3000,,
+,AMD Radeon HD 6490,,
+,AMD Radeon E9173 PCIe,,
+,NVIDIA Quadro P2000 Mobile,,
+,NVIDIA CMP 50HX,,
+,AMD Radeon HD 6570,,
+,NVIDIA GeForce 7800 GS+ 24Pipes AGP,,
+,NVIDIA GeForce GT 550M,,
+,NVIDIA GeForce RTX 3070,,
+,NVIDIA GeForce GT 730M,,
+,NVIDIA Quadro T400 Mobile,,
+,AMD Radeon R7 250E,,
+,NVIDIA GeForce FX Go5600,,
+,NVIDIA GeForce FX Go5350,,
+,AMD Radeon Pro 460,,
+,NVIDIA Quadro P1000,,
+,NVIDIA GeForce 310M,,
+,NVIDIA Quadro NVS 320M,,
+,NVIDIA GeForce 320M Mac Edition,,
+,NVIDIA GeForce GT 745M,,
+,AMD Radeon HD 7550M,,
+,NVIDIA ION,,
+,AMD Radeon Pro V7300X,,
+,NVIDIA Quadro 6000,,
+,NVIDIA GeForce 940A,,
+,NVIDIA GeForce 7350 LE,,
+,NVIDIA Quadro M5000M,,
+,Intel GMA X4700MHD,,
+,NVIDIA GeForce 9400M,,
+,ATI Radeon 9550 SE,,
+,NVIDIA GeForce 405M,,
+,NVIDIA GeForce 940A,,
+,AMD FirePro W4130M,,
+,NVIDIA Tesla S2050,,
+,ATI FirePro V3700,,
+,NVIDIA GeForce 6150 LE,,
+,ATI Radeon HD 4670,,
+,ATI Radeon HD 3410,,
+,ATI Radeon 9800 PRO,,
+,AMD Radeon HD 8570A,,
+,AMD Radeon R6 M435DX,,
+,AMD Radeon R5 220 OEM,,
+,AMD Radeon RX 550X Mobile,,
+,NVIDIA Quadro K100M,,
+,NVIDIA GeForce GTS 160M,,
+,AMD Radeon R9 280X2,,
+,ATI Mobility Radeon 9200,,
+,NVIDIA Quadro4 380 XGL,,
+,AMD Radeon Instinct MI25,,
+,NVIDIA GeForce GTX 650 Ti,,
+,NVIDIA GeForce 6800 GS,,
+,AMD Radeon R7 350 640SP,,
+,NVIDIA GeForce RTX 2060 Mobile Refresh,,
+,NVIDIA GeForce 6800 Ultra DDL,,
+,Matrox Millennium G450 x4 MMS,,
+,ATI Mobility Radeon HD 4870,,
+,ATI FirePro V7800,,
+,NVIDIA Tegra 3 GPU,,
+,NVIDIA Playstation 3 GPU 28nm,,
+,XGI Volari V3,,
+,NVIDIA GeForce FX Go5100,,
+,NVIDIA Quadro 3000M,,
+,Intel GMA 950,,
+,NVIDIA GeForce GT 320M,,
+,NVIDIA GeForce FX 5200,,
+,NVIDIA GeForce 9300 SE,,
