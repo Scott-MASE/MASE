@@ -60,7 +60,7 @@ class DAV_Project_Driver:
         for n in self.data:
             name = self.get_attribute_name(n)
             print(f"\nTable: {name}")
-            self.tab(n.head())
+            print(n.head())
 
 
     def tab(self, str):
