@@ -62,6 +62,7 @@ class DAV_Project_Driver:
             print(f"\nTable: {name}")
             self.tab(n.head())
 
+
     def tab(self, str):
         print(tabulate(str, tablefmt='pretty', headers='keys'))
 
