@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruleset name="CDS rule set">
+<description>
+	CDS PMD rule set for Java SE code
+</description>
+<rule ref="category/java/design.xml/CyclomaticComplexity">
+    <properties>
+        <property name="classReportLevel" value="80" />
+        <property name="methodReportLevel" value="1" />
+        <property name="cycloOptions" value="" />
+    </properties>
+</rule>	
+</ruleset>
+
