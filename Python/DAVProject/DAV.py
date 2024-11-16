@@ -5,25 +5,15 @@ from tabulate import tabulate
 class DAV_Project_Driver:
     def __init__(self):
         self.data = []
+        
 
         # url = 'data/All_GPUs.csv'
         # self.dfGPU = pd.read_csv(url)
         # self.data.append(self.dfGPU)
-        url = 'data/AMD_cpubenchmarks.csv'
-        self.dfCPU = pd.read_csv(url)
-        self.data.append(self.dfCPU)
-        url = 'data/chip_dataset.csv'
-        self.dfAMD_CPU_Bench = pd.read_csv(url)  # UserBenchmark
-        self.data.append(self.dfAMD_CPU_Bench)
-        # url = 'data/CPU_benchmark_v4.csv'
-        # self.dfGPU_CPU = pd.read_csv(url)
-        # self.data.append(self.dfGPU_CPU)
-        url = 'data/CPU_r23_v2.csv'
-        self.dfCPU_Bench = pd.read_csv(url)  # Passmark
-        self.data.append(self.dfCPU_Bench)
-        url = 'data/Intel_CPUs.csv'
-        self.dfCPU_Bench_2 = pd.read_csv(url)  # Cinebench R23
-        self.data.append(self.dfCPU_Bench_2)
+        self.CPU_GPU = pd.read_csv('data/chip_dataset.csv')
+        self.data.append(self.CPU_GPU)
+        self.CPUBench = pd.read_csv('data/CPU_benchmark_v4.csv')
+        self.data.append(self.CPUBench)
         self.F_GPUData = None
         self.F_CPUData = None
 
@@ -32,39 +22,49 @@ class DAV_Project_Driver:
         print("\nCleaning data...")
         self.cleanData()
 
-    def cleanData(self):
-        dfCPU = self.dfCPU[['Model']].reset_index(drop=True)
-        dfAMD_CPU_Bench = self.dfAMD_CPU_Bench[['Product']].reset_index(drop=True)
-        dfCPU_Bench = self.dfCPU_Bench[['cpuName']].reset_index(drop=True)
-        dfCPU_Bench_2 = self.dfCPU_Bench_2[['Processor_Number']].reset_index(drop=True)
-
-        # Find the maximum length among the DataFrames
-        max_len = max(len(dfCPU), len(dfAMD_CPU_Bench), len(dfCPU_Bench), len(dfCPU_Bench_2))
-
-        # Reindex each DataFrame to match the maximum length, filling with NaN where necessary
-        dfCPU = dfCPU.reindex(range(max_len))
-        dfAMD_CPU_Bench = dfAMD_CPU_Bench.reindex(range(max_len))
-        dfCPU_Bench = dfCPU_Bench.reindex(range(max_len))
-        dfCPU_Bench_2 = dfCPU_Bench_2.reindex(range(max_len))
-
-        # Concatenate the DataFrames side by side
-        merged = pd.concat([dfCPU, dfAMD_CPU_Bench, dfCPU_Bench, dfCPU_Bench_2], axis=1)
-        merged.columns = ['Processor_Number', 'Model', 'cpuName1', 'cpuName2']
-        merged.to_csv("data/merged_data.csv", index=False)
-
-        print(merged.head())
-
-
-
     def overview(self):
         for n in self.data:
             name = self.get_attribute_name(n)
             print(f"\nTable: {name}")
             print(n.head())
+        
+
+    def cleanData(self):
+        # this function merges and normalizes data across multiple CSVs
+        # Firstly, the cpu data
+        ex_CPU = self.CPU_GPU[self.CPU_GPU['Type'] == 'CPU']
+        ex_CPU.rename(columns={'Product': 'CPUname'}, inplace=True)
+        tab(ex_CPU.head())
+        ex_CPU_name = ex_CPU['CPUname']
+        print(f"above table has {ex_CPU.shape[0]} rows")
+        self.CPUBench.rename(columns={'cpuName': 'CPUname'}, inplace=True)
+        tab(self.CPUBench.head())
+        CPUBench_name = self.CPUBench['CPUname']
+        print(f"above table has {self.CPUBench.shape[0]} rows")
+        # ex_CPU has fewer rows, so that will be the base to minimize missing data
+        # The CPU naming scheme used in ex_CPU will be used, and so the names used in CPUBench must be normalized to match them
+        table_names = pd.concat([ex_CPU_name.reset_index(drop=True),CPUBench_name.reset_index(drop=True)],axis=1)
+        tab(table_names.head())
+        table_names.to_csv("temp/merged_name_data.csv",index=False)
+        # separate intel cpus from AMD
+        intel_data_1 = ex_CPU[ex_CPU['CPUname'].str.contains('Intel', case=False, na=False)].copy()
+        intel_data_1.to_csv('temp/intel_data_1.csv',index=False)
+        intel_data_2 = self.CPUBench[self.CPUBench['CPUname'].str.contains('Intel', case=False, na=False)].copy()
+        # The next line removes the '@x.xxGHz' from the end of any of the names that have that
+        intel_data_2.loc[:, 'CPUname'] = intel_data_2['CPUname'].str.replace(r' @.*GHz', '', regex=True)
+        intel_data_2.to_csv('temp/intel_data_2.csv',index=False)
+        merged_df = pd.merge(intel_data_1, intel_data_2, on='CPUname', how='inner')
+        merged_df.to_csv('temp/intel_cpu_merged.csv',index=False)
+
+        
 
 
-    def tab(self, str):
-        print(tabulate(str, tablefmt='pretty', headers='keys'))
+
+
+
+
+
+
 
     def get_attribute_name(self, attribute):
         for name, value in self.__dict__.items():
@@ -73,3 +73,13 @@ class DAV_Project_Driver:
         return None
 
 
+def main():
+
+    dav = DAV_Project_Driver()
+
+
+def tab(str):
+    print(tabulate(str, tablefmt='pretty', headers='keys'))
+
+if __name__ == '__main__':
+    main()
