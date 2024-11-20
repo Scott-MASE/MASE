@@ -1,6 +1,8 @@
 import pandas as pd
+import numpy as np
 from tabulate import tabulate
 from difflib import SequenceMatcher
+import matplotlib.pyplot as plt
 
 
 class DAV_Project_Driver:
@@ -20,6 +22,8 @@ class DAV_Project_Driver:
         self.overview()
         print("\nCleaning data...")
         self.cleanData()
+        print("\nData Analysis:")
+        self.analyseData()
 
     def overview(self):
         for n in self.data:
@@ -80,6 +84,7 @@ class DAV_Project_Driver:
         # add an index and move it to the front col
         self.F_CPUData['ID'] = list(range(0, self.F_CPUData.shape[0]))
         self.F_CPUData = self.F_CPUData[['ID'] + [col for col in self.F_CPUData.columns if col != 'ID']]
+        self.F_CPUData = self.F_CPUData.sort_values(by=['Release Date'])
         self.F_CPUData.to_csv('temp/F_CPU_Data.csv',index=False)
         print(f"Final CPU df length: {self.F_CPUData.shape[0]}")
 
@@ -163,6 +168,44 @@ class DAV_Project_Driver:
         )
         self.F_GPUData.insert(loc=0, column="index", value=range(1, self.F_GPUData.shape[0] + 1))
         self.F_GPUData.to_csv("Temp2/F_GPU_Data.csv", index=False)
+
+    def analyseData(self):
+        CPUdf = self.F_CPUData
+        GPUdf = self.F_GPUData
+
+
+        print(CPUdf.columns)
+
+        plt.scatter(CPUdf['Release Date'],CPUdf['cpuValue'])
+        plt.xlabel('Release Date')
+        plt.ylabel('Cost')
+        plt.title('Cpu cost over time')
+        plt.xticks(ticks=range(0, len(CPUdf['Release Date']), 5), rotation=45)
+        plt.show()
+
+        plt.scatter(CPUdf['Release Date'],CPUdf['Die Size (mm^2)'], marker='o', color='blue')
+        plt.scatter(CPUdf['Release Date'],CPUdf['cores'], marker='x', color='red')
+        # plt.plot(CPUdf['Release Date'],(CPUdf['Release Date']))  
+        plt.xlabel('Release Date')
+        
+        plt.ylabel('Die Size (mm^2)')
+        plt.title('CPU Die Size and Cores Over Time')
+        plt.legend()
+
+        
+        
+
+        # plot CPU TDP vs Release Date
+        plt.figure(figsize=(10,6))
+        plt.scatter(CPUdf['Release Date'],CPUdf['TDP'], marker='o', color='green', label = 'TDP')
+        plt.xlabel('Release Date')
+        plt.ylabel('TDP')
+        plt.title('CPU TDP Over Time')
+        
+        
+
+
+        
 
 
 

@@ -1,0 +1,80 @@
+options {
+    LOOKAHEAD = 1;
+}
+
+PARSER_BEGIN(TimeConverter)
+class TimeConverter {
+    public static void main(String[] args)
+    throws ParseException, TokenMgrError, NumberFormatException {
+        TimeConverter parser = new TimeConverter(System.in);
+        parser.Start(); 
+        System.out.println("Thank you for using the time converter.");
+    }
+}
+PARSER_END(TimeConverter)
+
+SKIP: {" "}
+TOKEN: {<EOL: "\n" | "\r" | "\r\n">}
+TOKEN: {<NUM: (["0"-"9"])+>}
+TOKEN: {<SECOND: "s">}
+TOKEN: {<MINUTE: "m">}
+TOKEN: {<HOUR: "h">}
+TOKEN: {<DAY: "d">}
+TOKEN: {<MONTH: "M">}
+TOKEN: {<YEAR: "y">}
+
+void Start() throws ParseException, NumberFormatException :
+{
+    double value = 0.0;
+    String unit = "";
+}
+{
+    value = Primary()  
+    unit = Unit()      
+    {
+        System.out.println(value + " " + unit + " is equivalent to:"); 
+        
+        
+        if (unit.equals("minutes")) {
+            value = value * 60;
+        } else if (unit.equals("hours")) {
+            value = value * 3600;
+        } else if (unit.equals("days")) {
+            value = value * 86400;
+        } else if (unit.equals("months")) {
+            value = value * 2592000;  // 30 days * 24 hours * 60 minutes * 60 seconds
+        } else if (unit.equals("years")) {
+            value = value * 31536000;  // 365 days * 24 hours * 60 minutes * 60 seconds
+        }
+        
+        // Print the value in different units
+        System.out.println(value + " seconds");
+        System.out.println(value / 60 + " minutes");
+        System.out.println(value / 3600 + " hours");
+        System.out.println(value / 86400 + " days");
+        System.out.println(value / 2592000 + " months");
+        System.out.println(value / 31536000 + " years");
+    }
+    <EOL> 
+}
+
+double Primary() throws NumberFormatException :
+{
+    Token t;
+}
+{
+    t = <NUM> { return Double.parseDouble(t.image); } // Convert the number string to an integer.
+}
+
+String Unit() :
+{
+    Token t;
+}
+{
+    t = <SECOND> { return "seconds"; }
+    | t = <MINUTE> { return "minutes"; }
+    | t = <HOUR> { return "hours"; }
+    | t = <DAY> { return "days"; }
+    | t = <MONTH> { return "months"; }
+    | t = <YEAR> { return "years"; }
+}
