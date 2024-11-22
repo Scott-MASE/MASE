@@ -24,6 +24,8 @@ public interface TimeConverterConstants {
   int MONTH = 8;
   /** RegularExpression Id. */
   int YEAR = 9;
+  /** RegularExpression Id. */
+  int HELP = 10;
 
   /** Lexical state. */
   int DEFAULT = 0;
@@ -34,12 +36,13 @@ public interface TimeConverterConstants {
     "\" \"",
     "<EOL>",
     "<NUM>",
-    "\"s\"",
-    "\"m\"",
-    "\"h\"",
-    "\"d\"",
-    "\"M\"",
-    "\"y\"",
+    "<SECOND>",
+    "<MINUTE>",
+    "<HOUR>",
+    "<DAY>",
+    "<MONTH>",
+    "<YEAR>",
+    "<HELP>",
   };
 
 }

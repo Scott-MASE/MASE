@@ -4,10 +4,20 @@ options {
 
 PARSER_BEGIN(TimeConverter)
 class TimeConverter {
+    static int er = 0;
     public static void main(String[] args)
     throws ParseException, TokenMgrError, NumberFormatException {
+        System.out.println("Welcome to the time equivilance converter");
+        System.out.println("enter a number followed by a unit ('5s' or '5 seconds') and it will be converted into various units of time");
+        System.out.println("Alternativley, enter '?' or 'help' for additional info");
+    try {
         TimeConverter parser = new TimeConverter(System.in);
-        parser.Start(); 
+        parser.Start();
+    } catch (TokenMgrError e) {
+        if (er != 1){
+        System.out.println("Invalid input. Please enter a number followed by a unit ('5s' or '5 seconds'), or '?' or 'help' for additional info.");
+        }
+    }
         System.out.println("Thank you for using the time converter.");
     }
 }
@@ -16,46 +26,93 @@ PARSER_END(TimeConverter)
 SKIP: {" "}
 TOKEN: {<EOL: "\n" | "\r" | "\r\n">}
 TOKEN: {<NUM: (["0"-"9"])+>}
-TOKEN: {<SECOND: "s">}
-TOKEN: {<MINUTE: "m">}
-TOKEN: {<HOUR: "h">}
-TOKEN: {<DAY: "d">}
-TOKEN: {<MONTH: "M">}
-TOKEN: {<YEAR: "y">}
+TOKEN: {<SECOND: "s" | "seconds">}
+TOKEN: {<MINUTE: "m" | "minutes">}
+TOKEN: {<HOUR: "h" | "hours">}
+TOKEN: {<DAY: "d" | "days">}
+TOKEN: {<MONTH: "M" | "months">}
+TOKEN: {<YEAR: "y" | "years">}
+TOKEN: {<HELP: "?" | "help">}
 
-void Start() throws ParseException, NumberFormatException :
+void Start() throws ParseException, NumberFormatException, TokenMgrError :
 {
-    double value = 0.0;
-    String unit = "";
+        double value = 0;
+        String unit = "";
+        String help = "";
+        String error = "none";
+    try {
+
+
+        value = Primary();
+        unit = Unit();
+    } catch (ParseException e1) {
+        try {
+            help = Help();
+            if (help.equals("help")) {
+                System.out.println("Units of time and their value in seconds:");
+                System.out.println("Seconds = 1");
+                System.out.println("Minutes = 60");
+                System.out.println("Hours = 3600");
+                System.out.println("Days = 86400");
+                System.out.println("Months = 2592000");  
+                System.out.println("Years = 31536000");  
+                System.out.println("--------------------\nValid inputs:");
+                System.out.println("Number: 54, 2, etc");
+                System.out.println("Unit: s, seconds, m, minutes, h, hours, d, days, M, months, y, years");
+                System.out.println("Misc: ?, help");
+
+            }
+        } catch (ParseException e2) {
+            error = "one";
+        }
+    } catch (TokenMgrError e3) {
+        error = "one";
+    }
 }
 {
-    value = Primary()  
-    unit = Unit()      
+    
     {
-        System.out.println(value + " " + unit + " is equivalent to:"); 
-        
-        
-        if (unit.equals("minutes")) {
-            value = value * 60;
-        } else if (unit.equals("hours")) {
-            value = value * 3600;
-        } else if (unit.equals("days")) {
-            value = value * 86400;
-        } else if (unit.equals("months")) {
-            value = value * 2592000;  // 30 days * 24 hours * 60 minutes * 60 seconds
-        } else if (unit.equals("years")) {
-            value = value * 31536000;  // 365 days * 24 hours * 60 minutes * 60 seconds
+        if (error.equals("one") && help.equals("")) {
+            System.out.println("Invalid input. Please enter a positive number followed by a valid unit.\nIf you need help, type '?'");
+            er = 1;
         }
-        
-        // Print the value in different units
-        System.out.println(value + " seconds");
-        System.out.println(value / 60 + " minutes");
-        System.out.println(value / 3600 + " hours");
-        System.out.println(value / 86400 + " days");
-        System.out.println(value / 2592000 + " months");
-        System.out.println(value / 31536000 + " years");
+        else if(help.equals("help")){
+            return;
+        }
+        else{
+            System.out.println(value + " " + unit + " is equivalent to:"); 
+            
+            
+            if (unit.equals("minutes")) {
+                value = value * 60;
+            } else if (unit.equals("hours")) {
+                value = value * 3600;
+            } else if (unit.equals("days")) {
+                value = value * 86400;
+            } else if (unit.equals("months")) {
+                value = value * 2592000;  // 30 days * 24 hours * 60 minutes * 60 seconds
+            } else if (unit.equals("years")) {
+                value = value * 31536000;  // 365 days * 24 hours * 60 minutes * 60 seconds
+            }
+            
+            // Print the value in different units
+            System.out.println(value + " seconds");
+            System.out.println(value / 60 + " minutes");
+            System.out.println(value / 3600 + " hours");
+            System.out.println(value / 86400 + " days");
+            System.out.println(value / 2592000 + " months");
+            System.out.println(value / 31536000 + " years");
+        }
     }
     <EOL> 
+}
+
+String Help() :
+{
+    Token t;
+}
+{
+    t = <HELP> {return "help"; }
 }
 
 double Primary() throws NumberFormatException :
@@ -63,7 +120,7 @@ double Primary() throws NumberFormatException :
     Token t;
 }
 {
-    t = <NUM> { return Double.parseDouble(t.image); } // Convert the number string to an integer.
+    t = <NUM> {return Double.parseDouble(t.image); } // Convert the number string to an integer.
 }
 
 String Unit() :
