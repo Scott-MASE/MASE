@@ -35,11 +35,11 @@ public class ExceptionHandling {
         // e();
 
         // 6.
-        // try{
-        // f();
-        // }catch(Exception e){
-        // e.printStackTrace();
-        // }
+        try{
+        f();
+        }catch(Exception e){
+        e.printStackTrace();
+        }
         //
         // 7.
         // A a = new B();

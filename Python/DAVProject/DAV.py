@@ -176,31 +176,27 @@ class DAV_Project_Driver:
 
         print(CPUdf.columns)
 
-        plt.scatter(CPUdf['Release Date'],CPUdf['cpuValue'])
+        CPUdfp1 = CPUdf[CPUdf['cpuValue'] <= 160]
+        plt.scatter(CPUdfp1['Release Date'],CPUdfp1['cpuValue'])
+        
+        z = np.polyfit(CPUdfp1['Release Date'],CPUdfp1['cpuValue'], 1)
+        p = np.poly1d(z)
+        plt.plot(CPUdfp1['Release Date'],p(CPUdfp1['Release Date']),"-")
+
         plt.xlabel('Release Date')
         plt.ylabel('Cost')
         plt.title('Cpu cost over time')
-        plt.xticks(ticks=range(0, len(CPUdf['Release Date']), 5), rotation=45)
+        plt.gca().xaxis.set_major_locator(plt.MaxNLocator(10))
+        plt.gcf().autofmt_xdate()
         plt.show()
 
         plt.scatter(CPUdf['Release Date'],CPUdf['Die Size (mm^2)'], marker='o', color='blue')
         plt.scatter(CPUdf['Release Date'],CPUdf['cores'], marker='x', color='red')
-        # plt.plot(CPUdf['Release Date'],(CPUdf['Release Date']))  
-        plt.xlabel('Release Date')
-        
+        # plt.plot(CPUdf['Release Date'],(CPUdf['Release Date']))          
         plt.ylabel('Die Size (mm^2)')
         plt.title('CPU Die Size and Cores Over Time')
         plt.legend()
-
-        
-        
-
-        # plot CPU TDP vs Release Date
-        plt.figure(figsize=(10,6))
-        plt.scatter(CPUdf['Release Date'],CPUdf['TDP'], marker='o', color='green', label = 'TDP')
-        plt.xlabel('Release Date')
-        plt.ylabel('TDP')
-        plt.title('CPU TDP Over Time')
+        plt.show()
         
         
 

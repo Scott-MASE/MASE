@@ -11,7 +11,8 @@ public class Holiday {
         Direction south = Direction.SOUTH;
         goSomewhere(south);
         
-//        Direction west = new Direction("West");
+       Direction west = Direction.WEST;
+       goSomewhere(west);
     }
     public static void goSomewhere(Direction d){
         System.out.println(d);
