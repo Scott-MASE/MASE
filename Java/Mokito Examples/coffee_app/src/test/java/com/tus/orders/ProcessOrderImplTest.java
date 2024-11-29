@@ -115,7 +115,6 @@ public class ProcessOrderImplTest {
 		final Product productOne = new Product("Tea", 2, "PC001");
 		customer.setOrder(order);
 		order.addItem(productOne, 1);
-		order.addItem(productOne, 1);
 		when(orderDAO.findCustomerForId(ACCOUNT_NUMBER)).thenReturn(customer);
 		when(invoicer.invoiceCustomer(ACCOUNT_NUMBER, "joe@gmail.com", 2.0)).thenReturn("INV123");
 		processOrderImpl.processOrder(ACCOUNT_NUMBER);
