@@ -1,6 +1,7 @@
 package com.tus.orders;
 
 import java.sql.SQLException;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 import org.junit.jupiter.api.BeforeEach;
@@ -113,6 +114,7 @@ public class ProcessOrderImplTest {
 	public void testOneItemInOrder() throws OrderException, SQLException {
 		final Product productOne = new Product("Tea", 2, "PC001");
 		customer.setOrder(order);
+		order.addItem(productOne, 1);
 		order.addItem(productOne, 1);
 		when(orderDAO.findCustomerForId(ACCOUNT_NUMBER)).thenReturn(customer);
 		when(invoicer.invoiceCustomer(ACCOUNT_NUMBER, "joe@gmail.com", 2.0)).thenReturn("INV123");

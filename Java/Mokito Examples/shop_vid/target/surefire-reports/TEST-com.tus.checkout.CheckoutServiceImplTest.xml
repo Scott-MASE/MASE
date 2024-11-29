@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.tus.checkout.CheckoutServiceImplTest" time="0.166" tests="7" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.tus.checkout.CheckoutServiceImplTest" time="0.172" tests="7" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/Users/scott/Documents/GitHub/MASE/Java/shop/target/test-classes:/Users/scott/Documents/GitHub/MASE/Java/shop/target/classes:/Users/scott/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.4.2/junit-jupiter-api-5.4.2.jar:/Users/scott/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar:/Users/scott/.m2/repository/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar:/Users/scott/.m2/repository/org/junit/platform/junit-platform-commons/1.4.2/junit-platform-commons-1.4.2.jar:/Users/scott/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.4.2/junit-jupiter-engine-5.4.2.jar:/Users/scott/.m2/repository/org/junit/platform/junit-platform-engine/1.4.2/junit-platform-engine-1.4.2.jar:/Users/scott/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.4.2/junit-jupiter-params-5.4.2.jar:/Users/scott/.m2/repository/org/hamcrest/hamcrest-library/2.2/hamcrest-library-2.2.jar:/Users/scott/.m2/repository/org/hamcrest/hamcrest-core/2.2/hamcrest-core-2.2.jar:/Users/scott/.m2/repository/org/hamcrest/hamcrest/2.2/hamcrest-2.2.jar:/Users/scott/.m2/repository/org/mockito/mockito-core/2.21.0/mockito-core-2.21.0.jar:/Users/scott/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/scott/.m2/repository/net/bytebuddy/byte-buddy-agent/1.8.15/byte-buddy-agent-1.8.15.jar:/Users/scott/.m2/repository/org/objenesis/objenesis/2.6/objenesis-2.6.jar:"/>
+    <property name="java.class.path" value="/Users/scott/Documents/GitHub/MASE/Java/Mokito Examples/shop_vid/target/test-classes:/Users/scott/Documents/GitHub/MASE/Java/Mokito Examples/shop_vid/target/classes:/Users/scott/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.4.2/junit-jupiter-api-5.4.2.jar:/Users/scott/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar:/Users/scott/.m2/repository/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar:/Users/scott/.m2/repository/org/junit/platform/junit-platform-commons/1.4.2/junit-platform-commons-1.4.2.jar:/Users/scott/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.4.2/junit-jupiter-engine-5.4.2.jar:/Users/scott/.m2/repository/org/junit/platform/junit-platform-engine/1.4.2/junit-platform-engine-1.4.2.jar:/Users/scott/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.4.2/junit-jupiter-params-5.4.2.jar:/Users/scott/.m2/repository/org/hamcrest/hamcrest-library/2.2/hamcrest-library-2.2.jar:/Users/scott/.m2/repository/org/hamcrest/hamcrest-core/2.2/hamcrest-core-2.2.jar:/Users/scott/.m2/repository/org/hamcrest/hamcrest/2.2/hamcrest-2.2.jar:/Users/scott/.m2/repository/org/mockito/mockito-core/2.21.0/mockito-core-2.21.0.jar:/Users/scott/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/scott/.m2/repository/net/bytebuddy/byte-buddy-agent/1.8.15/byte-buddy-agent-1.8.15.jar:/Users/scott/.m2/repository/org/objenesis/objenesis/2.6/objenesis-2.6.jar:"/>
     <property name="java.vm.vendor" value="Eclipse Adoptium"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="https://adoptium.net/"/>
@@ -12,11 +12,11 @@
     <property name="user.country" value="GB"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/scott/Documents/GitHub/MASE/Java/shop/target/surefire/surefirebooter4499500046739269887.jar /Users/scott/Documents/GitHub/MASE/Java/shop/target/surefire 2024-11-19T22-14-00_349-jvmRun1 surefire110845305268433686tmp surefire_06809738574065283880tmp"/>
+    <property name="sun.java.command" value="/Users/scott/Documents/GitHub/MASE/Java/Mokito Examples/shop_vid/target/surefire/surefirebooter15061883570156330808.jar /Users/scott/Documents/GitHub/MASE/Java/Mokito Examples/shop_vid/target/surefire 2024-11-28T17-21-09_495-jvmRun1 surefire15150329869769745719tmp surefire_010201869073571577390tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="test" value="com.tus.checkout.CheckoutServiceImplTest"/>
-    <property name="surefire.test.class.path" value="/Users/scott/Documents/GitHub/MASE/Java/shop/target/test-classes:/Users/scott/Documents/GitHub/MASE/Java/shop/target/classes:/Users/scott/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.4.2/junit-jupiter-api-5.4.2.jar:/Users/scott/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar:/Users/scott/.m2/repository/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar:/Users/scott/.m2/repository/org/junit/platform/junit-platform-commons/1.4.2/junit-platform-commons-1.4.2.jar:/Users/scott/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.4.2/junit-jupiter-engine-5.4.2.jar:/Users/scott/.m2/repository/org/junit/platform/junit-platform-engine/1.4.2/junit-platform-engine-1.4.2.jar:/Users/scott/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.4.2/junit-jupiter-params-5.4.2.jar:/Users/scott/.m2/repository/org/hamcrest/hamcrest-library/2.2/hamcrest-library-2.2.jar:/Users/scott/.m2/repository/org/hamcrest/hamcrest-core/2.2/hamcrest-core-2.2.jar:/Users/scott/.m2/repository/org/hamcrest/hamcrest/2.2/hamcrest-2.2.jar:/Users/scott/.m2/repository/org/mockito/mockito-core/2.21.0/mockito-core-2.21.0.jar:/Users/scott/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/scott/.m2/repository/net/bytebuddy/byte-buddy-agent/1.8.15/byte-buddy-agent-1.8.15.jar:/Users/scott/.m2/repository/org/objenesis/objenesis/2.6/objenesis-2.6.jar:"/>
+    <property name="surefire.test.class.path" value="/Users/scott/Documents/GitHub/MASE/Java/Mokito Examples/shop_vid/target/test-classes:/Users/scott/Documents/GitHub/MASE/Java/Mokito Examples/shop_vid/target/classes:/Users/scott/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.4.2/junit-jupiter-api-5.4.2.jar:/Users/scott/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar:/Users/scott/.m2/repository/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar:/Users/scott/.m2/repository/org/junit/platform/junit-platform-commons/1.4.2/junit-platform-commons-1.4.2.jar:/Users/scott/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.4.2/junit-jupiter-engine-5.4.2.jar:/Users/scott/.m2/repository/org/junit/platform/junit-platform-engine/1.4.2/junit-platform-engine-1.4.2.jar:/Users/scott/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.4.2/junit-jupiter-params-5.4.2.jar:/Users/scott/.m2/repository/org/hamcrest/hamcrest-library/2.2/hamcrest-library-2.2.jar:/Users/scott/.m2/repository/org/hamcrest/hamcrest-core/2.2/hamcrest-core-2.2.jar:/Users/scott/.m2/repository/org/hamcrest/hamcrest/2.2/hamcrest-2.2.jar:/Users/scott/.m2/repository/org/mockito/mockito-core/2.21.0/mockito-core-2.21.0.jar:/Users/scott/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/scott/.m2/repository/net/bytebuddy/byte-buddy-agent/1.8.15/byte-buddy-agent-1.8.15.jar:/Users/scott/.m2/repository/org/objenesis/objenesis/2.6/objenesis-2.6.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/Users/scott"/>
     <property name="user.language" value="en"/>
@@ -24,30 +24,30 @@
     <property name="java.version.date" value="2024-04-16"/>
     <property name="java.home" value="/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home"/>
     <property name="file.separator" value="/"/>
-    <property name="basedir" value="/Users/scott/Documents/GitHub/MASE/Java/shop"/>
+    <property name="basedir" value="/Users/scott/Documents/GitHub/MASE/Java/Mokito Examples/shop_vid"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/scott/Documents/GitHub/MASE/Java/shop/target/surefire/surefirebooter4499500046739269887.jar"/>
+    <property name="surefire.real.class.path" value="/Users/scott/Documents/GitHub/MASE/Java/Mokito Examples/shop_vid/target/surefire/surefirebooter15061883570156330808.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="21.0.3+9-LTS"/>
     <property name="user.name" value="scott"/>
     <property name="stdout.encoding" value="UTF-8"/>
     <property name="path.separator" value=":"/>
-    <property name="os.version" value="15.1"/>
+    <property name="os.version" value="15.1.1"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="file.encoding" value="UTF-8"/>
     <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
     <property name="java.vendor.version" value="Temurin-21.0.3+9"/>
-    <property name="maven.ext.class.path" value="/Users/scott/.vscode/extensions/oracle.oracle-java-23.0.0/nbcode/java/maven-nblib/netbeans-eventspy.jar"/>
+    <property name="maven.ext.class.path" value="/Users/scott/.vscode/extensions/oracle.oracle-java-23.0.1/nbcode/java/maven-nblib/netbeans-eventspy.jar"/>
     <property name="localRepository" value="/Users/scott/.m2/repository"/>
     <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
     <property name="java.io.tmpdir" value="/var/folders/q7/bw4ffcg158x5tdz86rlgnll00000gn/T/"/>
     <property name="java.version" value="21.0.3"/>
-    <property name="user.dir" value="/Users/scott/Documents/GitHub/MASE/Java/shop"/>
+    <property name="user.dir" value="/Users/scott/Documents/GitHub/MASE/Java/Mokito Examples/shop_vid"/>
     <property name="os.arch" value="aarch64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="native.encoding" value="UTF-8"/>
@@ -60,11 +60,11 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="testInventoryNotAvailableException" classname="com.tus.checkout.CheckoutServiceImplTest" time="0.011"/>
-  <testcase name="testEmptyCartException" classname="com.tus.checkout.CheckoutServiceImplTest" time="0.001"/>
+  <testcase name="testInventoryNotAvailableException" classname="com.tus.checkout.CheckoutServiceImplTest" time="0.013"/>
+  <testcase name="testEmptyCartException" classname="com.tus.checkout.CheckoutServiceImplTest" time="0.002"/>
   <testcase name="testPayPalTwoCartItemSuccess" classname="com.tus.checkout.CheckoutServiceImplTest" time="0.002"/>
-  <testcase name="testPayPalProcessingException" classname="com.tus.checkout.CheckoutServiceImplTest" time="0.002"/>
-  <testcase name="testCreditCardProcessingException" classname="com.tus.checkout.CheckoutServiceImplTest" time="0.001"/>
-  <testcase name="testCreditCardOneCartItemSuccess" classname="com.tus.checkout.CheckoutServiceImplTest" time="0.001"/>
-  <testcase name="testPayPalOneCartItemSuccess" classname="com.tus.checkout.CheckoutServiceImplTest" time="0.001"/>
+  <testcase name="testPayPalProcessingException" classname="com.tus.checkout.CheckoutServiceImplTest" time="0.001"/>
+  <testcase name="testCreditCardProcessingException" classname="com.tus.checkout.CheckoutServiceImplTest" time="0"/>
+  <testcase name="testCreditCardOneCartItemSuccess" classname="com.tus.checkout.CheckoutServiceImplTest" time="0"/>
+  <testcase name="testPayPalOneCartItemSuccess" classname="com.tus.checkout.CheckoutServiceImplTest" time="0"/>
 </testsuite>
