@@ -104,7 +104,7 @@ def create_table_tab(parent):
     sub_frame.pack(fill="both", expand=True)
 
     tree = ttk.Treeview(sub_frame, columns=list(cpu_df.columns), show='headings', selectmode="browse")
-    tree.grid(row=0, column=0, sticky="nsew")  # Use grid for precise placement
+    tree.grid(row=0, column=0, sticky="nsew")
 
     # init tree with CPU df
     update_treeview(tree, cpu_df)

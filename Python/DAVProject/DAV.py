@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 from tabulate import tabulate
 import customtkinter as ctk
 
+from EDA import performEDA
 from ctk.tkc_Driver import tkcDriver
 
 
@@ -129,7 +130,7 @@ class DAV_Project_Driver:
         save_csv(self.F_GPUData, "Temp2/F_GPU_Data.csv", "Final GPU df")
 
     def analyse_data(self):
-        return
+        performEDA()
 
 
 
