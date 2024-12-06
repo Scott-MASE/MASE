@@ -62,7 +62,7 @@ class DAV_Project_Driver:
         )
         merged_amd_df = self.merge_data(amd_data_1, amd_data_2, "CPUname")
 
-        # Combine and clean final CPU data
+        # combine the two cpu dfs into one
         self.F_CPUData = pd.concat([merged_intel_df, merged_amd_df], ignore_index=True)
 
         # Fix for ValueError: Remove commas and convert to float
@@ -80,8 +80,9 @@ class DAV_Project_Driver:
         self.F_CPUData['Performance per Watt'] = (self.F_CPUData['cpuMark'] / self.F_CPUData['TDP (W)']).round(2)
 
 
-
+        # removes outliers
         self.F_CPUData = self.F_CPUData[self.F_CPUData['price'] <= 5000]
+        # creates an index
         self.F_CPUData.insert(0, "ID", range(1, len(self.F_CPUData) + 1))
         self.F_CPUData.sort_values(by="Release Date", inplace=True)
         self.F_CPUData.columns = self.F_CPUData.columns.str.strip()
@@ -128,14 +129,14 @@ class DAV_Project_Driver:
         )
 
         # List of columns to skip during the transformation
-        skip_columns = ['GPUname', 'Vendor', 'Foundry','Manufacturer']  # Add other columns to skip here
+        skip_columns = ['GPUname', 'Vendor', 'Foundry','Manufacturer']
 
         # Apply transformation to only the numeric columns, skip specified columns
         for col in self.F_GPUData.columns:
-            if col not in skip_columns:  # Skip columns in the skip_columns list
+            if col not in skip_columns:
                 self.F_GPUData[col] = self.F_GPUData[col].astype(str).str.replace(r'[^0-9\-\.]', '', regex=True)
 
-        # Convert 'Release_Date' to datetime if it's not already
+        # Convert 'Release_Date' to datetime
         self.F_GPUData['Release_Date'] = pd.to_datetime(self.F_GPUData['Release_Date'], errors='coerce')
         self.F_GPUData.drop('Release Date', axis=1, inplace=True)
 
@@ -146,8 +147,7 @@ class DAV_Project_Driver:
         self.F_GPUData['Release Date Rank'] = self.F_GPUData['Release_Date'].rank(method='min', ascending=False).astype(
             int)
 
-        # Optionally, sort by 'Release_Date' to see the ranking in order
-        self.F_GPUData.sort_values(by='Release_Date', ascending=False, inplace=True)
+
 
         self.F_GPUData.columns = self.F_GPUData.columns.str.replace("_", " ")
         self.F_GPUData.insert(0, "ID", range(1, len(self.F_GPUData) + 1))
