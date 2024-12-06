@@ -1,9 +1,6 @@
-from matplotlib.ticker import MaxNLocator
+
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
 from tabulate import tabulate
-import customtkinter as ctk
 
 from EDA import performEDA
 from ctk.tkc_Driver import tkcDriver
@@ -77,10 +74,21 @@ class DAV_Project_Driver:
             columns=["Unnamed: 0", "FP16 GFLOPS", "FP32 GFLOPS", "FP64 GFLOPS"],
             inplace=True,
         )
+        self.F_CPUData['Transistor Density'] = (
+                self.F_CPUData['Transistors (million)'] / self.F_CPUData['Die Size (mm^2)'])
+
+        self.F_CPUData['Performance per Watt'] = (self.F_CPUData['cpuMark'] / self.F_CPUData['TDP (W)']).round(2)
+
+
+
+        self.F_CPUData = self.F_CPUData[self.F_CPUData['price'] <= 5000]
         self.F_CPUData.insert(0, "ID", range(1, len(self.F_CPUData) + 1))
         self.F_CPUData.sort_values(by="Release Date", inplace=True)
+        self.F_CPUData.columns = self.F_CPUData.columns.str.strip()
 
-        save_csv(self.F_CPUData, "temp/F_CPU_Data.csv", "Final CPU df")
+
+
+        save_csv(self.F_CPUData, "Temp/F_CPU_Data.csv", "Final CPU df")
 
     def clean_gpu_data(self):
         gpu_data_1 = self.data["dfGPU"].rename(columns={"Name": "GPUname"})
@@ -113,20 +121,38 @@ class DAV_Project_Driver:
                 "Unnamed: 0",
                 "Type",
                 "FP16 GFLOPS",
+                "Integrated",
+                "Notebook_GPU"
             ],
             inplace=True,
         )
 
+        # List of columns to skip during the transformation
+        skip_columns = ['GPUname', 'Vendor', 'Foundry','Manufacturer']  # Add other columns to skip here
+
+        # Apply transformation to only the numeric columns, skip specified columns
         for col in self.F_GPUData.columns:
-            self.F_GPUData[col] = self.F_GPUData[col].astype(str).str.replace(r'[^0-9\-\.]', '', regex=True)
+            if col not in skip_columns:  # Skip columns in the skip_columns list
+                self.F_GPUData[col] = self.F_GPUData[col].astype(str).str.replace(r'[^0-9\-\.]', '', regex=True)
 
-        self.F_GPUData["Release_Price"] = pd.to_numeric(self.F_GPUData["Release_Price"], errors="coerce")
+        # Convert 'Release_Date' to datetime if it's not already
+        self.F_GPUData['Release_Date'] = pd.to_datetime(self.F_GPUData['Release_Date'], errors='coerce')
+        self.F_GPUData.drop('Release Date', axis=1, inplace=True)
 
+        # Drop rows with missing or invalid release dates
+        self.F_GPUData.dropna(subset=['Release_Date'], inplace=True)
 
-        
+        # Rank the GPUs from youngest to oldest (ascending order)
+        self.F_GPUData['Release Date Rank'] = self.F_GPUData['Release_Date'].rank(method='min', ascending=False).astype(
+            int)
+
+        # Optionally, sort by 'Release_Date' to see the ranking in order
+        self.F_GPUData.sort_values(by='Release_Date', ascending=False, inplace=True)
+
+        self.F_GPUData.columns = self.F_GPUData.columns.str.replace("_", " ")
         self.F_GPUData.insert(0, "ID", range(1, len(self.F_GPUData) + 1))
         self.F_GPUData = self.F_GPUData[self.F_GPUData["ID"] != 209]
-
+        self.F_GPUData = self.F_GPUData.rename(columns={"Release_Date": "Release Date"})
         save_csv(self.F_GPUData, "Temp2/F_GPU_Data.csv", "Final GPU df")
 
     def analyse_data(self):
@@ -159,6 +185,7 @@ def print_table(df):
 
 def main():
     DAV_Project_Driver()
+    performEDA()
     tkcDriver()
 
 

@@ -3,7 +3,7 @@ import tkinter as tk
 import pandas as pd
 from functools import partial
 
-df = pd.read_csv("Temp2/F_GPU_Data.csv")
+
 leftVals = {}
 rightVals = {}
 
@@ -41,7 +41,7 @@ def search_gpu(entry, result_text_widget, df, result_dict):
 def create_difference_table(leftVals, rightVals, result_text_widget):
 
     num_rows = len(leftVals) + 2
-    buffer = -12
+    buffer = -8
     new_height = num_rows + buffer
     result_text_widget.config(height=new_height)
 
@@ -102,6 +102,7 @@ def autocomplete(entry, listbox, suggestions, result_label, event=None):
 
 
 def on_suggestion_click(entry, listbox, suggestions, result_label, event=None):
+    df = pd.read_csv("Temp2/F_GPU_Data.csv")
     selected_item = listbox.get(listbox.curselection())
     entry.delete(0, tk.END)
     entry.insert(0, selected_item)
@@ -137,6 +138,7 @@ def create_autocomplete_searchbox(frame, label_text, df, result_text_widget, res
 
 
 def create_gpu_comparison_tab(parent):
+    df = pd.read_csv("Temp2/F_GPU_Data.csv")
 
     main_frame = ctk.CTkFrame(parent)
     main_frame.pack(fill="both", expand=True)

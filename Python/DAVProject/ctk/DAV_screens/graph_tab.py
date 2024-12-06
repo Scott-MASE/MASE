@@ -14,31 +14,33 @@ plt.rcParams.update({
     "legend.fontsize": 7,
 })
 
-# Constants
-DEFAULT_X = 'Release Date'
-DEFAULT_Y = 'Freq (MHz)'
-CSV_FILE_PATH = "Temp/F_CPU_Data.csv"
-CSV_FILE_PATH2 = "Temp2/F_GPU_Data.csv"
-keys_to_skip = {"ID", "CPUname", "Type", "Foundry", "Vendor", "testDate", "socket", "category",
-                "Architecture", "Direct_X", "Integrated", "Manufacturer", "Power_Connector", "Process",
-                "VGA_Connection", "GPUname", "Notebook_GPU", "Shader"}
 
-# Load data
-df1 = pd.read_csv(CSV_FILE_PATH)
-df2 = pd.read_csv(CSV_FILE_PATH2)
 
-df1 = df1.drop(columns=[col for col in keys_to_skip if col in df1.columns])
-df2 = df2.drop(columns=[col for col in keys_to_skip if col in df2.columns])
 
-# Ensure datetime conversion for DEFAULT_X column
-for df in [df1, df2]:
-    if not pd.api.types.is_datetime64_any_dtype(df[DEFAULT_X]):
-        df[DEFAULT_X] = pd.to_datetime(df[DEFAULT_X], errors='coerce')
+
 
 
 # this tab allows for the dynamic creation of a plot. you can switch between the GPU and CPU df,
 # and select any number of columns to plot against release date.
 def create_graph_tab(parent):
+    # Constants
+    DEFAULT_X = 'Release Date'
+    CSV_FILE_PATH = "Temp/F_CPU_Data.csv"
+    CSV_FILE_PATH2 = "Temp2/F_GPU_Data.csv"
+    keys_to_skip = {"ID", "CPUname", "Type", "Foundry", "Vendor", "testDate", "socket", "category",
+                    "Architecture", "Direct_X", "Integrated", "Manufacturer", "Power_Connector", "Process",
+                    "VGA_Connection", "GPUname", "Notebook_GPU", "Shader", "Release_Date"}
+
+
+    # Load data
+    df1 = pd.read_csv(CSV_FILE_PATH)
+    df2 = pd.read_csv(CSV_FILE_PATH2)
+    for df in [df1, df2]:
+        if not pd.api.types.is_datetime64_any_dtype(df[DEFAULT_X]):
+            df[DEFAULT_X] = pd.to_datetime(df[DEFAULT_X], errors='coerce')
+
+    df1 = df1.drop(columns=[col for col in keys_to_skip if col in df1.columns])
+    df2 = df2.drop(columns=[col for col in keys_to_skip if col in df2.columns])
     current_df = {"df": df1}
     selected_y_cols = set()  # keeps track of the currently selected cols for graphing
 

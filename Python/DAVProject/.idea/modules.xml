@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DAVProject.iml" filepath="$PROJECT_DIR$/.idea/DAVProject.iml" />
       <module fileurl="file://$USER_HOME$/PycharmProjects/SampleExamGiven/.idea/SampleExamGiven.iml" filepath="$USER_HOME$/PycharmProjects/SampleExamGiven/.idea/SampleExamGiven.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../sampleExam/.idea/sampleExam.iml" filepath="$PROJECT_DIR$/../sampleExam/.idea/sampleExam.iml" />
     </modules>
   </component>
 </project>

@@ -6,16 +6,9 @@ from functools import partial
 CPU_CSV_FILE_PATH = "Temp/F_CPU_Data.csv"
 GPU_CSV_FILE_PATH = "Temp2/F_GPU_Data.csv"
 
-cpu_df = pd.read_csv(CPU_CSV_FILE_PATH)
-gpu_df = pd.read_csv(GPU_CSV_FILE_PATH)
 
-if not pd.api.types.is_datetime64_any_dtype(cpu_df['Release Date']):
-    cpu_df['Release Date'] = pd.to_datetime(cpu_df['Release Date'], errors='coerce')
-if not pd.api.types.is_datetime64_any_dtype(gpu_df['Release Date']):
-    gpu_df['Release Date'] = pd.to_datetime(gpu_df['Release Date'], errors='coerce')
 
-cpu_df = cpu_df.sort_values(by='ID', ascending=True).reset_index(drop=True)
-gpu_df = gpu_df.sort_values(by='ID', ascending=True).reset_index(drop=True)
+
 
 #this tab contains a table which can switch between the CPU or GPU df, and export it to a csv
 
@@ -41,6 +34,7 @@ def sort_column(tree, column, df):
 
 # swaps out the table data when the df is changed
 def update_treeview(tree, df):
+
     tree.delete(*tree.get_children())  # clear existing rows
 
     # update columns
@@ -69,7 +63,8 @@ def export_to_csv(current_df):
 
 
 def create_table_tab(parent):
-
+    cpu_df = pd.read_csv(CPU_CSV_FILE_PATH)
+    gpu_df = pd.read_csv(GPU_CSV_FILE_PATH)
     table_frame = ctk.CTkFrame(parent)
     table_frame.pack(fill="both", expand=True, padx=10, pady=10)
 

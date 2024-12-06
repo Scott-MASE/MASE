@@ -3,7 +3,7 @@ import tkinter as tk  # Import tkinter for the Listbox
 import pandas as pd
 from functools import partial
 
-df = pd.read_csv("Temp/F_CPU_Data.csv")
+
 leftVals = {}
 rightVals = {}
 
@@ -109,6 +109,7 @@ def autocomplete(entry, listbox, suggestions, result_label, event=None):
 
 # when user clicks cpu in listbox, it is automatically passed to the search_cpu func
 def on_suggestion_click(entry, listbox, suggestions, result_label, event=None):
+    df = pd.read_csv("Temp/F_CPU_Data.csv")
     # Get the selected item from the Listbox
     selected_item = listbox.get(listbox.curselection())
     # Set the selected item as the text in the search entry
@@ -150,6 +151,7 @@ def create_autocomplete_searchbox(frame, label_text, df, result_text_widget, res
 
 
 def create_cpu_comparison_tab(parent):
+    df = pd.read_csv("Temp/F_CPU_Data.csv")
 
     main_frame = ctk.CTkFrame(parent)
     main_frame.pack(fill="both", expand=True)

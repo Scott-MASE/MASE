@@ -1,5 +1,4 @@
 import customtkinter as ctk
-import pandas as pd
 from ctk.start_screen import start_screen
 from ctk.tab_driver import tab_driver
 from ctk.settings_screen import settings_screen
