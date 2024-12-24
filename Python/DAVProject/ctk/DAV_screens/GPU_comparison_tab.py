@@ -73,7 +73,10 @@ def create_difference_table(leftVals, rightVals, result_text_widget):
                 if str(left_val).lower() not in {"nan", "none", ""} and str(right_val).lower() not in {"nan", "none",
                                                                                                        ""}:
                     diff = round(float(right_val) - float(left_val), 2)
-                    percDiff = f"{round((float(right_val) - float(left_val)) / float(left_val) * 100, 2)}%"
+                    if float(left_val) != 0:
+                        percDiff = f"{round((float(right_val) - float(left_val)) / float(left_val) * 100, 2)}%"
+                    else:
+                        percDiff = "Undefined (div by 0)"
             except (ValueError, TypeError):
                 pass
 
